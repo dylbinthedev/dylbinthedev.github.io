@@ -1,0 +1,1210 @@
+{
+  "mutations": {
+    "insertions": [
+      {
+        "id": "2519924400-ALBUM-383gp2ZQkr5VOjnWs2KHJG-music_release",
+        "source": "music_release",
+        "view_type": "music_release",
+        "state": {
+          "interacted": false
+        },
+        "music_release": {
+          "uri": "spotify:album:383gp2ZQkr5VOjnWs2KHJG",
+          "name": "Song Machine: Machine Bitez #4",
+          "album_type": "Single",
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02e94eed1e97f1b98c4b05ce2b",
+          "artist_pick_message": "",
+          "artists": [
+            {
+              "uri": "spotify:artist:3AA28KZvwAUcZuOKwyblJQ",
+              "display_name": "Gorillaz",
+              "image_url": "https://i.scdn.co/image/fe485323610c043c5071309263b1c6f139741a2e"
+            }
+          ],
+          "tracks": [
+            {
+              "uri": "spotify:track:7717nMOB5jObMbHfVVpzrq",
+              "title": "Song Machine: Machine Bitez #4",
+              "artists": [
+                {
+                  "uri": "spotify:artist:3AA28KZvwAUcZuOKwyblJQ",
+                  "display_name": "Gorillaz",
+                  "image_url": ""
+                }
+              ]
+            }
+          ],
+          "interacted": false,
+          "timestamp": 0,
+          "release_time": "2020-02-24T05:00:00Z",
+          "color": "#D9511D"
+        }
+      },
+      {
+        "id": "2520121761-PLAYLIST-37i9dQZF1DZ06evO3GI3JK-automated_messaging",
+        "source": "automated-messaging",
+        "view_type": "automated_messaging_item",
+        "automated_messaging_item": {
+          "title": "Recommended for you",
+          "subtitle": "The best songs, all in one playlist",
+          "icon_url": "https://automated-messaging-feed-icons.scdn.co/a4c75e14ef67123359ce85c9d01ab779e4221643.png",
+          "context": {
+            "uri": "spotify:user:spotify:playlist:37i9dQZF1DZ06evO3GI3JK",
+            "name": "This Is Denzel Curry",
+            "image_url": "https://thisis-images.scdn.co/37i9dQZF1DZ06evO3GI3JK-default.jpg",
+            "type": "Playlist"
+          },
+          "delivery_time": "2020-02-21T22:10:39Z"
+        }
+      },
+      {
+        "id": "2520183600-ALBUM-3ELdOnZbhc2ogc3BCAmQSd-music_release",
+        "source": "music_release",
+        "view_type": "music_release",
+        "state": {
+          "interacted": false
+        },
+        "music_release": {
+          "uri": "spotify:album:3ELdOnZbhc2ogc3BCAmQSd",
+          "name": "YES! (feat. Rich The Kid & K CAMP)",
+          "album_type": "Single",
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02d9407ae1c7d3bff3a3aada60",
+          "artist_pick_message": "",
+          "artists": [
+            {
+              "uri": "spotify:artist:4qBgvVog0wzW75IQ48mU7v",
+              "display_name": "KYLE",
+              "image_url": "https://i.scdn.co/image/f82bbabae772d9d6cbac56403ae3808c5d743948"
+            }
+          ],
+          "tracks": [
+            {
+              "uri": "spotify:track:2tDrlnQWiCDis4H8RT0W2h",
+              "title": "YES! (feat. Rich The Kid & K CAMP)",
+              "artists": [
+                {
+                  "uri": "spotify:artist:4qBgvVog0wzW75IQ48mU7v",
+                  "display_name": "KYLE",
+                  "image_url": ""
+                },
+                {
+                  "uri": "spotify:artist:5bgfj5zUoWpyeVatGDjn6H",
+                  "display_name": "K CAMP",
+                  "image_url": ""
+                },
+                {
+                  "uri": "spotify:artist:1pPmIToKXyGdsCF6LmqLmI",
+                  "display_name": "Rich The Kid",
+                  "image_url": ""
+                }
+              ]
+            }
+          ],
+          "interacted": false,
+          "timestamp": 0,
+          "release_time": "2020-02-21T05:00:00Z",
+          "color": "#575757"
+        }
+      },
+      {
+        "id": "2520183600-ALBUM-3jdlZpGK1QLSNwvz5CBjae-music_release",
+        "source": "music_release",
+        "view_type": "music_release",
+        "state": {
+          "interacted": false
+        },
+        "music_release": {
+          "uri": "spotify:album:3jdlZpGK1QLSNwvz5CBjae",
+          "name": "Feelin' Myself",
+          "album_type": "Single",
+          "image_url": "https://i.scdn.co/image/ab67616d00001e025682a30b0904801d66a96ba1",
+          "artist_pick_message": "",
+          "artists": [
+            {
+              "uri": "spotify:artist:3kvnhwUU4VSXQqr2r9j6OO",
+              "display_name": "YehMe2",
+              "image_url": "https://i.scdn.co/image/f262674293cbefcd9b9bbf93b713dbc372387f19"
+            },
+            {
+              "uri": "spotify:artist:0pdvKDKFxwUerd6uaYHqkU",
+              "display_name": "Masayoshi Iimori",
+              "image_url": "https://i.scdn.co/image/95386f14770386a0aa1ae38e555edec902ed5d64"
+            },
+            {
+              "uri": "spotify:artist:7kcWIKtiTeC91kku3CftK0",
+              "display_name": "BlumBros",
+              "image_url": "https://i.scdn.co/image/62853d6e0d947926226a2a9bd7a9f8967b891f54"
+            }
+          ],
+          "tracks": [
+            {
+              "uri": "spotify:track:6piB0wpq4hgttP4vh34ZKY",
+              "title": "Feelin' Myself",
+              "artists": [
+                {
+                  "uri": "spotify:artist:3kvnhwUU4VSXQqr2r9j6OO",
+                  "display_name": "YehMe2",
+                  "image_url": ""
+                },
+                {
+                  "uri": "spotify:artist:0pdvKDKFxwUerd6uaYHqkU",
+                  "display_name": "Masayoshi Iimori",
+                  "image_url": ""
+                },
+                {
+                  "uri": "spotify:artist:7kcWIKtiTeC91kku3CftK0",
+                  "display_name": "BlumBros",
+                  "image_url": ""
+                }
+              ]
+            }
+          ],
+          "interacted": false,
+          "timestamp": 0,
+          "release_time": "2020-02-21T05:00:00Z",
+          "color": "#9D5151"
+        }
+      },
+      {
+        "id": "2520183600-ALBUM-4N145YZw5LZ9oSlupXQMQ6-music_release",
+        "source": "music_release",
+        "view_type": "music_release",
+        "state": {
+          "interacted": false
+        },
+        "music_release": {
+          "uri": "spotify:album:4N145YZw5LZ9oSlupXQMQ6",
+          "name": "California",
+          "album_type": "Single",
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02204c48ca6548d8d39026cd94",
+          "artist_pick_message": "",
+          "artists": [
+            {
+              "uri": "spotify:artist:2AfU5LYBVCiCtuCCfM7uVX",
+              "display_name": "Kota the Friend",
+              "image_url": "https://i.scdn.co/image/0aeaddd2fefedc63302ed1c236e583abe993c975"
+            }
+          ],
+          "tracks": [
+            {
+              "uri": "spotify:track:1fE4SgPXL3CifVltWjdcLb",
+              "title": "California",
+              "artists": [
+                {
+                  "uri": "spotify:artist:2AfU5LYBVCiCtuCCfM7uVX",
+                  "display_name": "Kota the Friend",
+                  "image_url": ""
+                }
+              ]
+            }
+          ],
+          "interacted": false,
+          "timestamp": 0,
+          "release_time": "2020-02-21T05:00:00Z",
+          "color": "#36619E"
+        }
+      },
+      {
+        "id": "2520249364-PLAYLIST_V2-37i9dQZF1EpDokvYQnXOON-automated_messaging",
+        "source": "automated-messaging",
+        "view_type": "automated_messaging_item",
+        "automated_messaging_item": {
+          "title": "Made for you",
+          "subtitle": "Now featuring: Burna Boy",
+          "icon_url": "https://automated-messaging-feed-icons.scdn.co/4c1c516e98fde720a146bde04b35f97f5122f7a8.png",
+          "context": {
+            "uri": "spotify:playlist:37i9dQZF1EpDokvYQnXOON",
+            "name": "Repeat Rewind",
+            "image_url": "https://daily-mix.scdn.co/covers/backtracks/PZN_Repeat_Rewind_DEFAULT-en.jpg",
+            "type": "Playlist"
+          },
+          "delivery_time": "2020-02-20T10:43:56Z"
+        }
+      },
+      {
+        "id": "2520267833-PLAYLIST_V2-37i9dQZF1Epr0ngRoB2Bhl-automated_messaging",
+        "source": "automated-messaging",
+        "view_type": "automated_messaging_item",
+        "automated_messaging_item": {
+          "title": "Made for you",
+          "subtitle": "Now featuring: Burna Boy",
+          "icon_url": "https://automated-messaging-feed-icons.scdn.co/6166da0367e5afdbb94619a281bf8b4074aa8123.png",
+          "context": {
+            "uri": "spotify:playlist:37i9dQZF1Epr0ngRoB2Bhl",
+            "name": "On Repeat",
+            "image_url": "https://daily-mix.scdn.co/covers/on_repeat/PZN_On_Repeat_DEFAULT-en.jpg",
+            "type": "Playlist"
+          },
+          "delivery_time": "2020-02-20T05:36:07Z"
+        }
+      },
+      {
+        "id": "2520318541-PLAYLIST-37i9dQZF1DWUhI3iC1khPH-automated_messaging",
+        "source": "automated-messaging",
+        "view_type": "automated_messaging_item",
+        "automated_messaging_item": {
+          "title": "Recommended for you",
+          "subtitle": "The best songs, all in one playlist",
+          "icon_url": "https://automated-messaging-feed-icons.scdn.co/7b69401339b46e90f7e2a8681ebe5a7731495051.png",
+          "context": {
+            "uri": "spotify:user:spotify:playlist:37i9dQZF1DWUhI3iC1khPH",
+            "name": "This Is Mac Miller",
+            "image_url": "https://i.scdn.co/image/e3eaaf7cb4383538435289efd3d25ed93b7eb3e4",
+            "type": "Playlist"
+          },
+          "delivery_time": "2020-02-19T15:30:59Z"
+        }
+      },
+      {
+        "id": "2520356400-ALBUM-5Oy4LUESdrOchyGcLup9qi-music_release",
+        "source": "music_release",
+        "view_type": "music_release",
+        "state": {
+          "interacted": false
+        },
+        "music_release": {
+          "uri": "spotify:album:5Oy4LUESdrOchyGcLup9qi",
+          "name": "Yummy (Country Remix)",
+          "album_type": "Single",
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02e590d5aa9b5927ef332d1d20",
+          "artist_pick_message": "",
+          "artists": [
+            {
+              "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s",
+              "display_name": "Justin Bieber",
+              "image_url": "https://i.scdn.co/image/5070bcb38e0fa03a21166a57cf93e4089effeec1"
+            }
+          ],
+          "tracks": [
+            {
+              "uri": "spotify:track:18190jS9db6xIkdt6HkgXj",
+              "title": "Yummy - Country Remix",
+              "artists": [
+                {
+                  "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s",
+                  "display_name": "Justin Bieber",
+                  "image_url": ""
+                },
+                {
+                  "uri": "spotify:artist:3b8QkneNDz4JHKKKlLgYZg",
+                  "display_name": "Florida Georgia Line",
+                  "image_url": ""
+                }
+              ]
+            }
+          ],
+          "interacted": false,
+          "timestamp": 0,
+          "release_time": "2020-02-19T05:00:00Z",
+          "color": "#B9201B"
+        }
+      },
+      {
+        "id": "follow-recs",
+        "source": "follow_recs",
+        "view_type": "follow_recs",
+        "follow_recs": {
+          "section_title": "Artists to follow",
+          "artists": [
+            {
+              "uri": "spotify:artist:0YinUQ50QDB7ZxSCLyQ40k",
+              "display_name": "Mustard",
+              "image_url": "https://i.scdn.co/image/f1f97ee839676c3ed7e8188e08a3bcff491be24d"
+            },
+            {
+              "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV",
+              "display_name": "ABBA",
+              "image_url": "https://i.scdn.co/image/0666d9d1b65b626e98c5273a4f44ff34951f8e1f"
+            },
+            {
+              "uri": "spotify:artist:3aQeKQSyrW4qWr35idm0cy",
+              "display_name": "T-Pain",
+              "image_url": "https://i.scdn.co/image/d24e852887071688cdca28b945d7b82a8ef5d4a8"
+            },
+            {
+              "uri": "spotify:artist:5rkVyNGXEgeUqKkB5ccK83",
+              "display_name": "Ashanti",
+              "image_url": "https://i.scdn.co/image/f9c038313ddafd02ac7473012bf095b118242f46"
+            },
+            {
+              "uri": "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp",
+              "display_name": "Metro Boomin",
+              "image_url": "https://i.scdn.co/image/13b032170cfd38f00fa410540c907461d1ad99b0"
+            },
+            {
+              "uri": "spotify:artist:7A8S43ryYdbWpJKeHRZRcq",
+              "display_name": "JACKBOYS",
+              "image_url": "https://i.scdn.co/image/256e665edbb76ab54ef12799364aa609498302e2"
+            },
+            {
+              "uri": "spotify:artist:4DdkRBBYG6Yk9Ka8tdJ9BW",
+              "display_name": "Offset",
+              "image_url": "https://i.scdn.co/image/b60b0ff831301120e8af4817c9ef411b612e7c76"
+            },
+            {
+              "uri": "spotify:artist:7urq0VfqxEYEEiZUkebXT4",
+              "display_name": "112",
+              "image_url": "https://i.scdn.co/image/21a8b23a23a41f3736b2dd6a5df2d7dc8341ea05"
+            },
+            {
+              "uri": "spotify:artist:4TsHKU8l8Wq7n7OPVikirn",
+              "display_name": "Jidenna",
+              "image_url": "https://i.scdn.co/image/29b4d6a6e35f6435c19f5423e906756b0fbc32c0"
+            },
+            {
+              "uri": "spotify:artist:1Y8cdNmUJH7yBTd9yOvr5i",
+              "display_name": "Destiny's Child",
+              "image_url": "https://i.scdn.co/image/1efd953e4df53904b9dc51c498b2adca525081f0"
+            },
+            {
+              "uri": "spotify:artist:6aaMZ3fcfLv4tEbmY7bjRM",
+              "display_name": "Isaiah Rashad",
+              "image_url": "https://i.scdn.co/image/d05cd92c072acb269baf6fe9c1fdd79e5caf7530"
+            },
+            {
+              "uri": "spotify:artist:7uwQPQsBYgrSd63xgeMyuM",
+              "display_name": "T.R.U.",
+              "image_url": "https://i.scdn.co/image/ab67616d00001e02c95c3d6b3223f82d19355ce0"
+            },
+            {
+              "uri": "spotify:artist:0lZoBs4Pzo7R89JM9lxwoT",
+              "display_name": "Duran Duran",
+              "image_url": "https://i.scdn.co/image/8f9cb6c496286cb24855e3d2cf57df4da0a55b9f"
+            },
+            {
+              "uri": "spotify:artist:0BKx4UjPvXVGY15u0xFbbi",
+              "display_name": "JAY1",
+              "image_url": "https://i.scdn.co/image/c5b31d0f2c0172aad483da55253441d117bfd817"
+            },
+            {
+              "uri": "spotify:artist:41qil2VaGbD194gaEcmmyx",
+              "display_name": "Will Smith",
+              "image_url": "https://i.scdn.co/image/0ceed52209039226d19201de77ed2ea104d9c8d1"
+            },
+            {
+              "uri": "spotify:artist:2HPaUgqeutzr3jx5a9WyDV",
+              "display_name": "PARTYNEXTDOOR",
+              "image_url": "https://i.scdn.co/image/b19e6d30da4637a9f55bec1aab0ca799d370dccd"
+            },
+            {
+              "uri": "spotify:artist:1ybINI1qPiFbwDXamRtwxD",
+              "display_name": "Smino",
+              "image_url": "https://i.scdn.co/image/2bdf6de7d43b0b35c003e79d4bee65c08036bbda"
+            },
+            {
+              "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q",
+              "display_name": "Nas",
+              "image_url": "https://i.scdn.co/image/0e6a0ce11380a894c723e3ae9c9c82468f0ad174"
+            },
+            {
+              "uri": "spotify:artist:2qxJFvFYMEDqd7ui6kSAcq",
+              "display_name": "Zedd",
+              "image_url": "https://i.scdn.co/image/4172664dfd6ed2291c5a87aaf90595cf960914c5"
+            },
+            {
+              "uri": "spotify:artist:4qwGe91Bz9K2T8jXTZ815W",
+              "display_name": "Janet Jackson",
+              "image_url": "https://i.scdn.co/image/27753d567a02772bb23343a24536374d4040df1c"
+            }
+          ]
+        }
+      },
+      {
+        "id": "2520442800-ALBUM-5VyevkD6ggq90eeGPWta5O-music_release",
+        "source": "music_release",
+        "view_type": "music_release",
+        "state": {
+          "interacted": false
+        },
+        "music_release": {
+          "uri": "spotify:album:5VyevkD6ggq90eeGPWta5O",
+          "name": "stardew",
+          "album_type": "Single",
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02641c603d416ddae9fd452a8a",
+          "artist_pick_message": "",
+          "artists": [
+            {
+              "uri": "spotify:artist:1TtJ8j22Roc24e2Jx3OcU4",
+              "display_name": "Purity Ring",
+              "image_url": "https://i.scdn.co/image/75a1844df4055d66d36992a636c1f363450f382c"
+            }
+          ],
+          "tracks": [
+            {
+              "uri": "spotify:track:3LS02Ewrx5b2itSR2PPVjf",
+              "title": "stardew",
+              "artists": [
+                {
+                  "uri": "spotify:artist:1TtJ8j22Roc24e2Jx3OcU4",
+                  "display_name": "Purity Ring",
+                  "image_url": ""
+                }
+              ]
+            }
+          ],
+          "interacted": false,
+          "timestamp": 0,
+          "release_time": "2020-02-18T05:00:00Z",
+          "color": "#8C3E2F"
+        }
+      },
+      {
+        "id": "2520529200-ALBUM-0D6CxxR1PeIxH7F2yfNdab-music_release",
+        "source": "music_release",
+        "view_type": "music_release",
+        "state": {
+          "interacted": false
+        },
+        "music_release": {
+          "uri": "spotify:album:0D6CxxR1PeIxH7F2yfNdab",
+          "name": "Chase The Sun (WILL K Remix)",
+          "album_type": "Single",
+          "image_url": "https://i.scdn.co/image/fe515e1aac2ceca5d1ed10fdec72971e86da244e",
+          "artist_pick_message": "",
+          "artists": [
+            {
+              "uri": "spotify:artist:5y3G1B8cpCTaoq0uDgjwzH",
+              "display_name": "Danny Avila",
+              "image_url": "https://i.scdn.co/image/b1868a4f9c0634a7065ee6cc0ef7eef31a3131c7"
+            },
+            {
+              "uri": "spotify:artist:7m3cYjDlffT2RvkaRrJksn",
+              "display_name": "WILL K",
+              "image_url": "https://i.scdn.co/image/af8fd424a4817597c1311756d79ebc4ad794c7f6"
+            }
+          ],
+          "tracks": [
+            {
+              "uri": "spotify:track:6UuViQr0ADTto1yScpfxIh",
+              "title": "Chase The Sun - WILL K Remix",
+              "artists": [
+                {
+                  "uri": "spotify:artist:5y3G1B8cpCTaoq0uDgjwzH",
+                  "display_name": "Danny Avila",
+                  "image_url": ""
+                },
+                {
+                  "uri": "spotify:artist:7m3cYjDlffT2RvkaRrJksn",
+                  "display_name": "WILL K",
+                  "image_url": ""
+                }
+              ]
+            }
+          ],
+          "interacted": false,
+          "timestamp": 0,
+          "release_time": "2020-02-17T05:00:00Z",
+          "color": "#8C1E8E"
+        }
+      },
+      {
+        "id": "2520702000-ALBUM-0YEH6ciBiMrVM4Rl1R10Wz-music_release",
+        "source": "music_release",
+        "view_type": "music_release",
+        "state": {
+          "interacted": false
+        },
+        "music_release": {
+          "uri": "spotify:album:0YEH6ciBiMrVM4Rl1R10Wz",
+          "name": "Life Is Good (feat. Drake, DaBaby & Lil Baby) [Remix]",
+          "album_type": "Single",
+          "image_url": "https://i.scdn.co/image/ab67616d00001e024df9c60aa74fb72c1e07fd1d",
+          "artist_pick_message": "",
+          "artists": [
+            {
+              "uri": "spotify:artist:4r63FhuTkUYltbVAg5TQnk",
+              "display_name": "DaBaby",
+              "image_url": "https://i.scdn.co/image/f88e08cf9132c7facc2ee9fbdd1be3924b5c5a74"
+            },
+            {
+              "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i",
+              "display_name": "Future",
+              "image_url": "https://i.scdn.co/image/25f94b6a4776ff07b9410f28bb03642233522782"
+            }
+          ],
+          "tracks": [
+            {
+              "uri": "spotify:track:4iiWcajF1fEUpwcUewc464",
+              "title": "Life Is Good (feat. Drake, DaBaby & Lil Baby) - Remix",
+              "artists": [
+                {
+                  "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i",
+                  "display_name": "Future",
+                  "image_url": ""
+                },
+                {
+                  "uri": "spotify:artist:4r63FhuTkUYltbVAg5TQnk",
+                  "display_name": "DaBaby",
+                  "image_url": ""
+                },
+                {
+                  "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4",
+                  "display_name": "Drake",
+                  "image_url": ""
+                },
+                {
+                  "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK",
+                  "display_name": "Lil Baby",
+                  "image_url": ""
+                }
+              ]
+            }
+          ],
+          "interacted": false,
+          "timestamp": 0,
+          "release_time": "2020-02-15T05:00:00Z",
+          "color": "#BCA61F"
+        }
+      },
+      {
+        "id": "2520788400-ALBUM-0cZAE6guibfcYmTZD7hiae-music_release",
+        "source": "music_release",
+        "view_type": "music_release",
+        "state": {
+          "interacted": false
+        },
+        "music_release": {
+          "uri": "spotify:album:0cZAE6guibfcYmTZD7hiae",
+          "name": "Artist 2.0",
+          "album_type": "Album",
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02e8d041b0e0d26507b44ead0e",
+          "artist_pick_message": "",
+          "artists": [
+            {
+              "uri": "spotify:artist:31W5EY0aAly4Qieq6OFu6I",
+              "display_name": "A Boogie Wit da Hoodie",
+              "image_url": "https://i.scdn.co/image/d06c91b5e1902e194ac762093cff733e96796218"
+            }
+          ],
+          "tracks": [
+            {
+              "uri": "spotify:track:4MzhmCOgPB7xb87f1CXjlA",
+              "title": "Thug Love",
+              "artists": [
+                {
+                  "uri": "spotify:artist:31W5EY0aAly4Qieq6OFu6I",
+                  "display_name": "A Boogie Wit da Hoodie",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:18AIesWCXvIbXu8RqQw1E1",
+              "title": "Cinderella Story",
+              "artists": [
+                {
+                  "uri": "spotify:artist:31W5EY0aAly4Qieq6OFu6I",
+                  "display_name": "A Boogie Wit da Hoodie",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:6cZH4rX1KTt1aJ3Ql6Ynja",
+              "title": "Me and My Guitar",
+              "artists": [
+                {
+                  "uri": "spotify:artist:31W5EY0aAly4Qieq6OFu6I",
+                  "display_name": "A Boogie Wit da Hoodie",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:4l2rsMfr20dj6nf6i6F3Y8",
+              "title": "Might Not Give Up (feat. Young Thug)",
+              "artists": [
+                {
+                  "uri": "spotify:artist:31W5EY0aAly4Qieq6OFu6I",
+                  "display_name": "A Boogie Wit da Hoodie",
+                  "image_url": ""
+                },
+                {
+                  "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn",
+                  "display_name": "Young Thug",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:733c1CWmIGymoQXdp7Us88",
+              "title": "Numbers (feat. Roddy Ricch, Gunna and London On Da Track)",
+              "artists": [
+                {
+                  "uri": "spotify:artist:31W5EY0aAly4Qieq6OFu6I",
+                  "display_name": "A Boogie Wit da Hoodie",
+                  "image_url": ""
+                },
+                {
+                  "uri": "spotify:artist:757aE44tKEUQEqRuT6GnEB",
+                  "display_name": "Roddy Ricch",
+                  "image_url": ""
+                },
+                {
+                  "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ",
+                  "display_name": "Gunna",
+                  "image_url": ""
+                },
+                {
+                  "uri": "spotify:artist:5Nf5yishRW9Ye174sJISkg",
+                  "display_name": "London On Da Track",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:0dIz1I7IwX5ardG47AHxCZ",
+              "title": "Stain (feat. DaBaby)",
+              "artists": [
+                {
+                  "uri": "spotify:artist:31W5EY0aAly4Qieq6OFu6I",
+                  "display_name": "A Boogie Wit da Hoodie",
+                  "image_url": ""
+                },
+                {
+                  "uri": "spotify:artist:4r63FhuTkUYltbVAg5TQnk",
+                  "display_name": "DaBaby",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:7ExiKb3YCTGpaLPtFKzYUk",
+              "title": "Hit 'Em Up (feat. Trap Manny)",
+              "artists": [
+                {
+                  "uri": "spotify:artist:31W5EY0aAly4Qieq6OFu6I",
+                  "display_name": "A Boogie Wit da Hoodie",
+                  "image_url": ""
+                },
+                {
+                  "uri": "spotify:artist:0SNzlwOGBLhCMZPN2ZKzna",
+                  "display_name": "Trap Manny",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:4CXSzoyTD2MmedFArsSIUp",
+              "title": "DTB 4 Life",
+              "artists": [
+                {
+                  "uri": "spotify:artist:31W5EY0aAly4Qieq6OFu6I",
+                  "display_name": "A Boogie Wit da Hoodie",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:1U5pPF8f6APVCoc6t2KfIB",
+              "title": "Calm Down (Bittersweet) [feat. Summer Walker]",
+              "artists": [
+                {
+                  "uri": "spotify:artist:31W5EY0aAly4Qieq6OFu6I",
+                  "display_name": "A Boogie Wit da Hoodie",
+                  "image_url": ""
+                },
+                {
+                  "uri": "spotify:artist:57LYzLEk2LcFghVwuWbcuS",
+                  "display_name": "Summer Walker",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:63dg6LdBGxa0QA93M2snLA",
+              "title": "Another Day Gone (feat. Khalid)",
+              "artists": [
+                {
+                  "uri": "spotify:artist:31W5EY0aAly4Qieq6OFu6I",
+                  "display_name": "A Boogie Wit da Hoodie",
+                  "image_url": ""
+                },
+                {
+                  "uri": "spotify:artist:6LuN9FCkKOj5PcnpouEgny",
+                  "display_name": "Khalid",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:76MqbWX5us3UmGJImualTj",
+              "title": "Good Girls Gone Bad",
+              "artists": [
+                {
+                  "uri": "spotify:artist:31W5EY0aAly4Qieq6OFu6I",
+                  "display_name": "A Boogie Wit da Hoodie",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:0LHWHUcUYhFAUkCt2q4Gad",
+              "title": "Blood On My Denim",
+              "artists": [
+                {
+                  "uri": "spotify:artist:31W5EY0aAly4Qieq6OFu6I",
+                  "display_name": "A Boogie Wit da Hoodie",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:5AmzfSxCIOPxPmppoHrr12",
+              "title": "R.O.D.",
+              "artists": [
+                {
+                  "uri": "spotify:artist:31W5EY0aAly4Qieq6OFu6I",
+                  "display_name": "A Boogie Wit da Hoodie",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:0dADaRjZfWrrXPAPr7qe75",
+              "title": "Big Shit",
+              "artists": [
+                {
+                  "uri": "spotify:artist:31W5EY0aAly4Qieq6OFu6I",
+                  "display_name": "A Boogie Wit da Hoodie",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:4NY4FeAJyTd0fkkMI0POPn",
+              "title": "Right Back",
+              "artists": [
+                {
+                  "uri": "spotify:artist:31W5EY0aAly4Qieq6OFu6I",
+                  "display_name": "A Boogie Wit da Hoodie",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:0LVaWrTztFOuN7g7gcyLs8",
+              "title": "Luv Is Art (feat. Lil Uzi Vert)",
+              "artists": [
+                {
+                  "uri": "spotify:artist:31W5EY0aAly4Qieq6OFu6I",
+                  "display_name": "A Boogie Wit da Hoodie",
+                  "image_url": ""
+                },
+                {
+                  "uri": "spotify:artist:4O15NlyKLIASxsJ0PrXPfz",
+                  "display_name": "Lil Uzi Vert",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:3o0nkjyy6eZL5lZcEpvJec",
+              "title": "King Of My City",
+              "artists": [
+                {
+                  "uri": "spotify:artist:31W5EY0aAly4Qieq6OFu6I",
+                  "display_name": "A Boogie Wit da Hoodie",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:0VZe8C7xgAIQC0E0qEVIEh",
+              "title": "Mood Swings",
+              "artists": [
+                {
+                  "uri": "spotify:artist:31W5EY0aAly4Qieq6OFu6I",
+                  "display_name": "A Boogie Wit da Hoodie",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:1njRzdfGNUY2RZU0lVO787",
+              "title": "Reply (feat. Lil Uzi Vert)",
+              "artists": [
+                {
+                  "uri": "spotify:artist:31W5EY0aAly4Qieq6OFu6I",
+                  "display_name": "A Boogie Wit da Hoodie",
+                  "image_url": ""
+                },
+                {
+                  "uri": "spotify:artist:4O15NlyKLIASxsJ0PrXPfz",
+                  "display_name": "Lil Uzi Vert",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:5IhS1ig4KRhO4TXH3uspCa",
+              "title": "Streets Don't Love You",
+              "artists": [
+                {
+                  "uri": "spotify:artist:31W5EY0aAly4Qieq6OFu6I",
+                  "display_name": "A Boogie Wit da Hoodie",
+                  "image_url": ""
+                }
+              ]
+            }
+          ],
+          "interacted": false,
+          "timestamp": 0,
+          "release_time": "2020-02-14T05:00:00Z",
+          "color": "#74624F"
+        }
+      },
+      {
+        "id": "2520788400-ALBUM-2l7xNmS4WXpbhs2mcDOvN5-music_release",
+        "source": "music_release",
+        "view_type": "music_release",
+        "state": {
+          "interacted": false
+        },
+        "music_release": {
+          "uri": "spotify:album:2l7xNmS4WXpbhs2mcDOvN5",
+          "name": "Whoa (feat. Pharrell Williams) [Remix]",
+          "album_type": "Single",
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02c4d71ef52f65999138c6bb10",
+          "artist_pick_message": "",
+          "artists": [
+            {
+              "uri": "spotify:artist:2RdwBSPQiwcmiDo9kixcl8",
+              "display_name": "Pharrell Williams",
+              "image_url": "https://i.scdn.co/image/c9f4915fff4c8be459f7c5b05d4fa16ee6854766"
+            },
+            {
+              "uri": "spotify:artist:1A9o3Ljt67pFZ89YtPPL5X",
+              "display_name": "Snoh Aalegra",
+              "image_url": "https://i.scdn.co/image/a6eabdc989bec03c457a45b7eeed78345da65346"
+            }
+          ],
+          "tracks": [
+            {
+              "uri": "spotify:track:76kePEJD9JiXK4RiGGE23U",
+              "title": "Whoa (feat. Pharrell Williams) - Remix",
+              "artists": [
+                {
+                  "uri": "spotify:artist:1A9o3Ljt67pFZ89YtPPL5X",
+                  "display_name": "Snoh Aalegra",
+                  "image_url": ""
+                },
+                {
+                  "uri": "spotify:artist:2RdwBSPQiwcmiDo9kixcl8",
+                  "display_name": "Pharrell Williams",
+                  "image_url": ""
+                }
+              ]
+            }
+          ],
+          "interacted": false,
+          "timestamp": 0,
+          "release_time": "2020-02-14T05:00:00Z",
+          "color": "#BF5002"
+        }
+      },
+      {
+        "id": "2520788400-ALBUM-35K2EC0ekebCHw5sHn5i1B-music_release",
+        "source": "music_release",
+        "view_type": "music_release",
+        "state": {
+          "interacted": false
+        },
+        "music_release": {
+          "uri": "spotify:album:35K2EC0ekebCHw5sHn5i1B",
+          "name": "Because Of You",
+          "album_type": "Single",
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0202dac3078ee72e526cef3c3a",
+          "artist_pick_message": "",
+          "artists": [
+            {
+              "uri": "spotify:artist:46SHBwWsqBkxI7EeeBEQG7",
+              "display_name": "Kodak Black",
+              "image_url": "https://i.scdn.co/image/ef90a19321978c4431246870132c3a6540412806"
+            }
+          ],
+          "tracks": [
+            {
+              "uri": "spotify:track:75N0cen8wTAlL5nPFprGoE",
+              "title": "Because Of You",
+              "artists": [
+                {
+                  "uri": "spotify:artist:46SHBwWsqBkxI7EeeBEQG7",
+                  "display_name": "Kodak Black",
+                  "image_url": ""
+                }
+              ]
+            }
+          ],
+          "interacted": false,
+          "timestamp": 0,
+          "release_time": "2020-02-14T05:00:00Z",
+          "color": "#CF0405"
+        }
+      },
+      {
+        "id": "2520788400-ALBUM-3KIBtkPev2HvP55IwG8lf6-music_release",
+        "source": "music_release",
+        "view_type": "music_release",
+        "state": {
+          "interacted": false
+        },
+        "music_release": {
+          "uri": "spotify:album:3KIBtkPev2HvP55IwG8lf6",
+          "name": "Walk (Remix)",
+          "album_type": "Single",
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02ee37136dbcd1f896fc77bef7",
+          "artist_pick_message": "",
+          "artists": [
+            {
+              "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo",
+              "display_name": "Gucci Mane",
+              "image_url": "https://i.scdn.co/image/47dd1baa98c414c7920381bc22ad7ba59d2f3166"
+            },
+            {
+              "uri": "spotify:artist:316cPrVpf18LLtyZm7fn3y",
+              "display_name": "Telly Mac",
+              "image_url": "https://i.scdn.co/image/ab67616d00001e02ee37136dbcd1f896fc77bef7"
+            },
+            {
+              "uri": "spotify:artist:50jf4lyx7db4J4s2fxBJSC",
+              "display_name": "Sh8dygotdajuice",
+              "image_url": "https://i.scdn.co/image/ab67616d00001e02ee37136dbcd1f896fc77bef7"
+            }
+          ],
+          "tracks": [
+            {
+              "uri": "spotify:track:5GmdQWKgxSBglITDCPYyKD",
+              "title": "Walk - Remix",
+              "artists": [
+                {
+                  "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo",
+                  "display_name": "Gucci Mane",
+                  "image_url": ""
+                },
+                {
+                  "uri": "spotify:artist:316cPrVpf18LLtyZm7fn3y",
+                  "display_name": "Telly Mac",
+                  "image_url": ""
+                },
+                {
+                  "uri": "spotify:artist:50jf4lyx7db4J4s2fxBJSC",
+                  "display_name": "Sh8dygotdajuice",
+                  "image_url": ""
+                },
+                {
+                  "uri": "spotify:artist:5hZkrKPI0bWR8Yl4Gk8k3M",
+                  "display_name": "LV The Don",
+                  "image_url": ""
+                },
+                {
+                  "uri": "spotify:artist:0awVEQHGTsH2h5E9OVygUE",
+                  "display_name": "Ace Binladen",
+                  "image_url": ""
+                }
+              ]
+            }
+          ],
+          "interacted": false,
+          "timestamp": 0,
+          "release_time": "2020-02-14T05:00:00Z",
+          "color": "#BF8103"
+        }
+      },
+      {
+        "id": "2520788400-ALBUM-3NZWBye9WJwLcY3EJkg3WY-music_release",
+        "source": "music_release",
+        "view_type": "music_release",
+        "state": {
+          "interacted": false
+        },
+        "music_release": {
+          "uri": "spotify:album:3NZWBye9WJwLcY3EJkg3WY",
+          "name": "Trap & B",
+          "album_type": "Album",
+          "image_url": "https://i.scdn.co/image/ab67616d00001e020e49ca322a18f37d63a5b6d7",
+          "artist_pick_message": "",
+          "artists": [
+            {
+              "uri": "spotify:artist:6PXS4YHDkKvl1wkIl4V8DL",
+              "display_name": "Fetty Wap",
+              "image_url": "https://i.scdn.co/image/5e00e172f757fbec11ac071d69961cf1131d57a1"
+            }
+          ],
+          "tracks": [
+            {
+              "uri": "spotify:track:3HLGTt2IsSSbigBJ0Xr0Su",
+              "title": "Black Friday",
+              "artists": [
+                {
+                  "uri": "spotify:artist:6PXS4YHDkKvl1wkIl4V8DL",
+                  "display_name": "Fetty Wap",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:0hgMdo7KaYJwGGmigSrF4b",
+              "title": "Reasons",
+              "artists": [
+                {
+                  "uri": "spotify:artist:6PXS4YHDkKvl1wkIl4V8DL",
+                  "display_name": "Fetty Wap",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:6kA8n8E2ORQJKoExnnwZCp",
+              "title": "Questions",
+              "artists": [
+                {
+                  "uri": "spotify:artist:6PXS4YHDkKvl1wkIl4V8DL",
+                  "display_name": "Fetty Wap",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:5hpI7j78ixLO4VCih78frm",
+              "title": "Teach Me",
+              "artists": [
+                {
+                  "uri": "spotify:artist:6PXS4YHDkKvl1wkIl4V8DL",
+                  "display_name": "Fetty Wap",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:4O9zjfAuYBV3BxJ2yNSgPD",
+              "title": "RnB Shit",
+              "artists": [
+                {
+                  "uri": "spotify:artist:6PXS4YHDkKvl1wkIl4V8DL",
+                  "display_name": "Fetty Wap",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:2iPvdWYbBmPTh3YKQHyEmC",
+              "title": "Just For You",
+              "artists": [
+                {
+                  "uri": "spotify:artist:6PXS4YHDkKvl1wkIl4V8DL",
+                  "display_name": "Fetty Wap",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:766xt1cqAblYahe0gyWPh8",
+              "title": "FWY",
+              "artists": [
+                {
+                  "uri": "spotify:artist:6PXS4YHDkKvl1wkIl4V8DL",
+                  "display_name": "Fetty Wap",
+                  "image_url": ""
+                }
+              ]
+            }
+          ],
+          "interacted": false,
+          "timestamp": 0,
+          "release_time": "2020-02-14T05:00:00Z",
+          "color": "#8B1126"
+        }
+      },
+      {
+        "id": "2520788400-ALBUM-51VSfWyJEmgYRtZeseAWS9-music_release",
+        "source": "music_release",
+        "view_type": "music_release",
+        "state": {
+          "interacted": false
+        },
+        "music_release": {
+          "uri": "spotify:album:51VSfWyJEmgYRtZeseAWS9",
+          "name": "Baby Dance",
+          "album_type": "Single",
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02d4ecb94fb03cdb3abe1c1f2b",
+          "artist_pick_message": "",
+          "artists": [
+            {
+              "uri": "spotify:artist:4RfTXjK9aiiIKDaKUHpL57",
+              "display_name": "Busy Signal",
+              "image_url": "https://i.scdn.co/image/f35695c6a2455b479d3e0bac73d880714c303163"
+            }
+          ],
+          "tracks": [
+            {
+              "uri": "spotify:track:6fviKVbICybiinx1YcWknq",
+              "title": "Baby Dance",
+              "artists": [
+                {
+                  "uri": "spotify:artist:4RfTXjK9aiiIKDaKUHpL57",
+                  "display_name": "Busy Signal",
+                  "image_url": ""
+                }
+              ]
+            }
+          ],
+          "interacted": false,
+          "timestamp": 0,
+          "release_time": "2020-02-14T05:00:00Z",
+          "color": "#DA0102"
+        }
+      },
+      {
+        "id": "2520788400-ALBUM-5PGZpfzDkbbTvhDAuZlSQo-music_release",
+        "source": "music_release",
+        "view_type": "music_release",
+        "state": {
+          "interacted": false
+        },
+        "music_release": {
+          "uri": "spotify:album:5PGZpfzDkbbTvhDAuZlSQo",
+          "name": "Give No Fxk",
+          "album_type": "Single",
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02d5597995a478c7d3f490b34f",
+          "artist_pick_message": "",
+          "artists": [
+            {
+              "uri": "spotify:artist:6oMuImdp5ZcFhWP0ESe6mG",
+              "display_name": "Migos",
+              "image_url": "https://i.scdn.co/image/cc0abb74b914dcb00ea10216e2e9e153abaeaec3"
+            }
+          ],
+          "tracks": [
+            {
+              "uri": "spotify:track:6ZelF5APDN5r6XnFqcnvWR",
+              "title": "Give No Fxk",
+              "artists": [
+                {
+                  "uri": "spotify:artist:6oMuImdp5ZcFhWP0ESe6mG",
+                  "display_name": "Migos",
+                  "image_url": ""
+                },
+                {
+                  "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY",
+                  "display_name": "Travis Scott",
+                  "image_url": ""
+                },
+                {
+                  "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn",
+                  "display_name": "Young Thug",
+                  "image_url": ""
+                }
+              ]
+            }
+          ],
+          "interacted": false,
+          "timestamp": 0,
+          "release_time": "2020-02-14T05:00:00Z",
+          "color": "#D90101"
+        }
+      }
+    ],
+    "delete_item_ids": []
+  }
+}

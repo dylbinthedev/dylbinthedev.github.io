@@ -1,0 +1,8 @@
+Origin: Dylan Elmbark's Repo
+Label: Dylan Elmbark's Repo
+Suite: stable
+Version: 2.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Dylan Elmbark's APT Repository for distribution of iPhoneOS and iPadOS software.

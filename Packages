@@ -1,0 +1,199 @@
+Package: com.rileytestut.Delta.Beta.65YD56KAPC
+Version: 1.2b2
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/Delta.deb
+Size: 18492174
+MD5sum: be98166b43e758dbf8593a1ad4fc31a5
+SHA1: 4c34ef98655e9c5b4ea7bccfceb37578715fcd4f
+SHA256: 5389c13b4f49f2b5de9e4316f90c30892788768dd230eb4c242a9b807f0b3f9d
+Section: Games
+Description: Delta is an multi-emulator for playing GBA/GBC/NDS/N64/SNES/NES games. Supports iOS 12.2-14, run uicache or ldrestart in MTerminal/NewTerm if the icon doesn't show up!
+Author: Riley Testut
+Name: Delta
+Icon: https://dylanelmbark.github.io/icons/com.rileytestut.delta.png
+
+Package: net.nerd.inds
+Version: 1.10.7
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/iNDS.deb
+Size: 8410136
+MD5sum: b205abd66963d617681dc8b3bb00e072
+SHA1: 2ca21d6b65a0837415a66061d96462c01b33cc50
+SHA256: 824a9aa1ae30abaf05432aad2d290bd8c2c6e01e36c6f26353ffd0987cf9e46e
+Section: Games
+Description: Nintendo DS Emulator for iOS/iPadOS 9-14, run uicache or ldrestart in MTerminal/NewTerm if the icon doesn't show up!
+Author: iNDS Team
+Name: iNDS (64-bit)
+Icon: https://dylanelmbark.github.io/icons/net.nerd.inds.png
+
+Package: com.michael.dimentio
+Version: 0.6.2
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Filename: ./debs/Dimentio.deb
+Size: 10728
+MD5sum: 4079552130a35d8645e1ee3eeaa1e8bf
+SHA1: 313e58d3e5338a137061acbb1fc5db77ea3af4a5
+SHA256: 5b78fc73ba0c5349e83ccc3723ef7f8d8dc63c4b876e79ea93d0d71a44193bff
+Section: System
+Description: PoC tool for setting nonce without triggering KPP/KTRR/PAC.
+Author: 0x7ff
+Name: dimentio
+
+Package: com.michael.generatorautosetter
+Version: 0.3.2
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends: firmware (>= 12.3), com.michael.dimentio
+Filename: /debs/checkra1nnonce.deb
+Size: 11284
+MD5sum: 0108078bbcc9394f79811338cd87e09a
+SHA1: 8d3ba7a89e6bc8a6c88f28ca1166557c862c5bbe
+SHA256: b4544377d47638fe9391701db3f14f8fb5b03fbd9f795f0e739c16113cad00a9
+Section: Tweaks
+Description: Auto set your generator when jailbreaking!
+ Auto set your generator when jailbreaking!
+ Usage: setgenerator [generator]
+ If you didn't choose a generator, Generator Auto Setter will set 0x1111111111111111 as default generator.
+ Only Support Checkra1n. (Because other jailbreak tool doesn't need that.)
+Author: halo_michael <yc992147156@me.com>
+Name: Nonce Setter for checkra1n
+
+Package: com.spotify.client
+Version: 8.5.51
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/Spotify.deb
+Size: 52858772
+MD5sum: ae7db3c63defcd502ca5af7d10b6c6e9
+SHA1: ff90ad770ce58bfc16827af3784707cdabc1a308
+SHA256: b466640e379d36b035e8190567dc2f1085c86665e463823bd59dca349aa93d84
+Section: Utilities
+Description: Delete the original Spotify before installing this, Supports iOS/iPadOS 8-14
+Author: Dylan Elmbark & julioverne
+Name: Spotify++ (App)
+Icon: https://dylanelmbark.github.io/icons/com.spotify.client.png
+
+Package: com.xd.mbp2
+Version: 7.4
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends: 
+Filename: /debs/MovieBoxPro.deb
+Size: 54371116
+MD5sum: c4c55632e1ce040dcb920ab7b7c46cb1
+SHA1: db0c7db313a900e92658eac54f8d7a739636ba25
+SHA256: fdb60a34afbae3b91605c9bb5c8ad578a8a834819d1899b7ea715b5c8f93bc61
+Section: Multimedia
+Description: Free Movies and TV Shows, works on iOS/iPadOS 10-14, run uicache or ldrestart in MTerminal/NewTerm if the icon doesn't show up!
+Author: MovieBoxPro Team
+Name: MovieBox Pro
+Icon: file:///Applications/MovieBox.app/AppIcon60x60@3x.png
+
+Package: mediaplayer.box.ios3
+Version: 2.4.9.2
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends: 
+Filename: /debs/Mediabox.deb
+Size: 85016808
+MD5sum: 5db0da7e008b2cb88e3cdd62d513176c
+SHA1: 9da877a14d5671ed5fe6cc41af499a2e9449093a
+SHA256: 8d666fb0a04f91ee5e74960992eb3b243e0505a6792c30db842593fc16e30a51
+Section: Multimedia
+Description: Free Movies and TV Shows, works on iOS/iPadOS 9-14, run uicache or ldrestart in MTerminal/NewTerm if the icon doesn't show up!
+Author: Mediaboxhd
+Name: MediaBox HD
+Icon: https://dylanelmbark.github.io/icons/mediaplayer.box.ios3.png
+
+Package: com.antique.popcorn
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/Popcorn.deb
+Size: 23445406
+MD5sum: 2f01b2aba8a81f96e40b70062391b974
+SHA1: 0e48408072a1a2420f04ad2329c7ccca9f30257a
+SHA256: 4ebeab849d4d148c8cd145138bed51374fc0b68f79b2dc6a8c966f58a2db06e5
+Section: Multimedia
+Description: Spiritual successor to PopcornTime, supports iOS/iPadOS 13-14, run uicache or ldrestart in MTerminal/NewTerm if the icon doesn't show up!
+Author: Antique
+Name: Popcorn
+Icon: file:///Applications/Popcorn.app/oldpopcorn@2x.png
+
+Package: com.hackyouriphone.localiapstore
+Version: 1.4-2
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends: mobilesubstrate
+Filename: /debs/InApp12.deb
+Size: 71040
+MD5sum: 922f94a4f4b404e9d06bb18d14286c7e
+SHA1: 2461d2f4e7b13e79c4c1f04c2d533b0099753088
+SHA256: a48720486f30a1c1bf9623b161306b817d2065a8d60bceb1e3f44c6f1b137fba
+Section: Tweaks
+Description: Pwns in-app purchases on iOS 5 to 12
+Author: AnonDev
+Name: LocalIAPStore (Legacy)
+
+Package: com.hackyouriphone.localiapstore13
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends: mobilesubstrate
+Filename: /debs/InApp13.deb
+Size: 3730
+MD5sum: 785763058cf6cc82240b7e2d1d51fb3c
+SHA1: e82aee2d837905cfbf89b4edbb9c00d2bcbecd1e
+SHA256: fb9a09fd2f260b0d1098895944737fcd0b41a512001299ca9703199ec7567a8a
+Section: Tweaks
+Description: Pwns in-app purchases on iOS/iPadOS 13.x
+Author: pxcex
+Name: LocalIAPStore (iOS 13+)
+
+Package: com.bkstyle.stylzish
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/AnimeGlare.deb
+Size: 20598948
+MD5sum: ea9971754ff1262e371e5d2c8d5d9807
+SHA1: 84ed115d49618d5eaf5be7684cb7621ad23f89c7
+SHA256: 4bd75ec1317b719eb8a336fc1d734a21da3b327d39f94cdec38e5bb698c1d481
+Section: Multimedia
+Description: Watch free anime without ads. Works on iOS/iPadOS 13-14
+Author: BlackKnit
+Name: AnimeGlare v3 (iOS 13+)
+Icon: file:///Applications/Runner.app/AppIcon60x60@2x.png
+
+Package: com.julioverne.spotilife
+Version: 1.1a
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends: mobilesubstrate
+Filename: /debs/Spotilife.deb
+Size: 201134
+MD5sum: 4be44d65dcb7c50576a0f73cf970df7e
+SHA1: 242c0a52df8a20d19ac72cd8e654e4eeff9ca6bd
+SHA256: e4c31947d1a48d2ea381c6b08c447f52da97a1ad0b85b16a435946abd32a6639
+Section: Utilities
+Description: Spotify++ Patch for iOS/iPadOS 7-14, requires Spotify from the App Store.
+Author: Dylan Elmbark & julioverne
+Name: Spotilife
+Icon: https://dylanelmbark.github.io/icons/com.spotify.client.png
+
+
+
+
+
+
+
+
+

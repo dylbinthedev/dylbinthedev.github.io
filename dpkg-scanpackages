@@ -1,0 +1,1 @@
+my @fieldpri = ('Package','Source','Version','Priority','Section','Essential','Maintainer','Pre-Depends','Depends','Recommends','Suggests','Conflicts','Provides','Replaces','Enhances','Architecture','Filename','Size','Installed-Size','MD5sum','Description','Origin','Bugs','Name','Author','Homepage','Website','Depiction','Icon');

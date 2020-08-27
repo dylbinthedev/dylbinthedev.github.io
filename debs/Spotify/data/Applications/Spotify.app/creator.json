@@ -1,0 +1,517 @@
+{
+  "uri": "spotify:podcast-creator:gimletmedia",
+  "display_name": "Gimlet Media",
+  "description": "Gimlet is the award-winning narrative podcasting company that aims to help listeners better understand the world and each other.",
+  "cover_image": "https://i.scdn.co/image/22c98f5bc7713315e8d3e48aa3ce8a98ce4ec873",
+  "tags": [
+    {
+      "uri": "spotify:creator:alexblumberg",
+      "title": "Alex Blumberg"
+    },
+    {
+      "uri": "spotify:creator:pjvogt",
+      "title": "PJ Vogt"
+    },
+    {
+      "uri": "spotify:creator:wendyzukerman",
+      "title": "Wendy Zukerman"
+    },
+    {
+      "uri": "spotify:creator:jonathangoldstein",
+      "title": "Jonathan Goldstein"
+    }
+  ],
+  "pinned_entities": [
+    {
+      "uri": "spotify:episode:5h6wfpF979UhVbHoDQJtXD",
+      "title": "The Break-Up",
+      "subtitle": "How's Work? with Esther Perel",
+      "image_url": "https://i.scdn.co/image/0cb1f853dce2dc791bc85f81ac09942900648804",
+      "description": "They flew fighter jets together in Iraq and Afghanistan. Then they co-founded a successful business. Now, for the first time in their adult lives, they're ready to part ways professionally, but they don't know what their lives would look like without their \"brother of choice.\" Side-by-side on Esther's couch, they talk about letting go of the fierce loyalty bonds forged in the cockpit."
+    },
+    {
+      "uri": "spotify:playlist:2FKpdCjmULOOdPpnTg32d4",
+      "title": "Reply All: Where To Get Started",
+      "image_url": "https://pl.scdn.co/images/pl/default/cc3ed133ee377bfbc3ba816d7b6e3e5c982fd68c"
+    },
+    {
+      "uri": "spotify:playlist:66LoMzsxrF70Q7jqwHay7I",
+      "title": "The Music Behind Mogul Season 2",
+      "image_url": "https://pl.scdn.co/images/pl/default/01c39ec43d660d0d1c0ebd29b5191cb81161d706"
+    }
+  ],
+  "episodes": {
+    "popular": [
+      {
+        "uri": "spotify:episode:6iJHmGMJ0HfY8LrzdFnpmS",
+        "title": "#156 The Cure for Everything ",
+        "subtitle": "Reply All",
+        "image_url": "https://i.scdn.co/image/7bbddc0239dcbdbdd1d65513df5e89c838eb3e2d",
+        "description": "PJ and Alex open up the hotline again to tackle listener problems and mysteries, no job too weird. This time – a Waze vortex, a tribunal for HawtNugz, and a powerful mystery cure that could topple the world into dystopia.  www.helpwiththecure.com"
+      },
+      {
+        "uri": "spotify:episode:3hb25lN2aq156FpLV1GO3T",
+        "title": "Drugs on Screen: A Prop Master Tells All",
+        "subtitle": "Every Little Thing",
+        "image_url": "https://i.scdn.co/image/4c3c9af6ee3c298acaf1715945896d742a7445b2",
+        "description": "Listener Emily is dying to know: what are actors actually using when they do drugs on screen? A prop czar takes ELT behind the scenes. Plus, a tribute to percussionist Emil Richards. Guest: prop master Lynda Reiss. Thanks to caller Emily."
+      },
+      {
+        "uri": "spotify:episode:7w98tfnOOcXOFtU5It9Mfz",
+        "title": "Coronavirus Outbreak: How Scared Should You Be?",
+        "subtitle": "Science Vs",
+        "image_url": "https://i.scdn.co/image/d46a8ce0551a6a87c9a883624da6a5c547b94979",
+        "description": "A new virus showed up in China late last year, and it's making its way to other countries too. So what do scientists know about the virus so far? And how worried should we be? To find out we talk to infectious disease researchers Dr. Kristian Andersen and Dr. Catharine Paules, physician Dr. Hui, and director of the National Institute of Allergy and Infectious Diseases Dr. Anthony Fauci.  We did an episode on a *fictional* pandemic, which you can find here: https://gimletmedia.com/shows/science-vs/49hok3/pandemic   Check out the full transcript here: https://bit.ly/2S7JwXN  Selected references:  The WHO and the CDC are maintaining information centers that update regularly: https://www.who.int/emergencies/diseases/novel-coronavirus-2019 and https://www.cdc.gov/coronavirus/index.html   Scientific journals The Lancet and the New England Journal of Medicine have taken down the paywall for papers related to the outbreak: https://www.thelancet.com/coronavirus and https://www.nejm.org/coronavirus    This episode was produced by Wendy Zukerman, Meryl Horn, Rose Rimler and Michelle Dang. We're edited by Blythe Terrell and Caitlin Kenney. Fact checking by Lexi Krupp. Mix and sound design by Sam Bair. Music written by Peter Leonard, Emma Munger, and Bobby Lord. A big thanks to Dr. Paul Delamater, Dr. Vittoria Colizza, and Shan Li. Recording assistance from Margot Wohl and Randy Scott Carroll. Translation by Yuan Xue, John Deng, and Chiung H Chuang. And special thanks to Bobby Lord, the Zukerman family and Joseph Lavelle Wilson."
+      },
+      {
+        "uri": "spotify:episode:4OSuMy4nUzNhoJfHgQRbg9",
+        "title": "Will My Brother's Car Explode? (Mini)",
+        "subtitle": "Every Little Thing",
+        "image_url": "https://i.scdn.co/image/4c3c9af6ee3c298acaf1715945896d742a7445b2",
+        "description": "Should you turn off your car while you're pumping gas? Guest: Jason Torchinsky, senior editor at Jalopnik."
+      },
+      {
+        "uri": "spotify:episode:0X93S8yVIi7Udo7FktdKoP",
+        "title": "America's Next Top Word",
+        "subtitle": "Every Little Thing",
+        "image_url": "https://i.scdn.co/image/4c3c9af6ee3c298acaf1715945896d742a7445b2",
+        "description": "We asked you, the ELT family, to share your favorite underutilized words -- words that you love and want other listeners to love too. And you delivered. Now, with your help, we want to get one of those words into the dictionary. A professional word nerd tells us which of your submissions have the best chance of making it into the big book. Guest: former Merriam-Webster Dictionary editor Kory Stamper. Thanks to everyone who called in with a word."
+      }
+    ]
+  },
+  "shows": [
+    {
+      "uri": "spotify:show:0b0uSWptXbgIEp87m0nQmc",
+      "title": "Casting Call",
+      "subtitle": "Arts • Society & Culture",
+      "image_url": "https://i.scdn.co/image/2d8cf959038075dce58d1ed1b2d58923cd7b1a29",
+      "description": "Casting Call is like a Hollywood singing competition, but for people who are pros at audio interviews and non-fiction storytelling. On the show, an esteemed panel of judges will join host Jonathan Goldstein to vet submissions from aspiring podcast hosts across the country, and select three finalists to travel to Gimlet HQ to make a pilot of their show. One talented hopeful will have their pilot turned into a mini-series, produced by Gimlet, and maybe even get a Squarespace sponsorship of their own -- the pinnacle of podcast fame.  All of the glory and the drama of the competition will be documented for listeners to hear. Expect a behind-the-scenes look at the weird and wonderful world of podcasting. You'll learn what makes a good host and how entertaining shows get made."
+    },
+    {
+      "uri": "spotify:show:1pV2TiymrzAPDZzy8PfBeJ",
+      "title": "The Horror of Dolores Roach",
+      "subtitle": "Fiction",
+      "image_url": "https://i.scdn.co/image/41d35e3e438a4a8f1511eec1a760e9437ea2d521",
+      "description": "With blood on her hands, the infamous Dolores Roach has fled the recent shocking destruction in Washington Heights and gone into hiding deep under New York City in an abandoned subway tunnel. But she's not alone underground, and her dark night of the soul is interrupted by an extremist faction of similarly self-exiled tunnel-dwellers whose space she's invaded. Facing re-incarceration back above ground, but pushed to the limits of shame, paranoia, lust, hunger, and depraved entrepreneurialism below it, Dolores is the outcast of the outcasts again - until she takes her survival in the tunnels into her own Magic Hands. Season 2 of The Horror of Dolores Roach is written and directed by Aaron Mark and stars Daphne Rubin-Vega, Donnell Rawlings, and Amy Ryan."
+    },
+    {
+      "uri": "spotify:show:21ASCcEXgUlbFSmoqjroZm",
+      "title": "Chompers",
+      "subtitle": "Kids & Family",
+      "image_url": "https://i.scdn.co/image/7ef1ce248e26282fc05206738a4dd1512c891547",
+      "description": "Make tooth time easy with this morning and night tooth brushing show for kids. Kids will hear jokes, riddles, stories, fun facts, silly songs and more, that'll keep them giggling - and brushing - for the full two minutes that dentists recommend. Chompers will have kids reminding parents that it's time to brush, not the other way around! Recommended for tooth brushers ages 3 - 7."
+    },
+    {
+      "uri": "spotify:show:4IUwTQyIFKmE3dMA8Gv8Np",
+      "title": "<~> (Less Than, Approximately, Greater Than)",
+      "subtitle": "Lifestyle & Health",
+      "image_url": "https://i.scdn.co/image/2fed26c8353babe45c4444e17c813e2a42e52568",
+      "description": "A food podcast that is greater than some other food podcasts."
+    },
+    {
+      "uri": "spotify:show:5ykZ7DGfxkdhuCvn3jwP3X",
+      "title": "Wireframe",
+      "subtitle": "Arts & Entertainment • Business & Technology",
+      "image_url": "https://i.scdn.co/image/ff455c704c76609da24559e685dfb39284753af7",
+      "description": "Wireframe reveals the stories behind user experience design, for UX/UI designers, graphic designers, and the design-curious. Hosted by Khoi Vinh, principal designer at Adobe and one of Fast Company's 100 Most Creative People in Business, the podcast explores unexpected ways that user experience design helps technology fit into our lives."
+    },
+    {
+      "uri": "spotify:show:7CeTwrzqdqielssFoJz18Y",
+      "title": "88% Parentheticals",
+      "subtitle": "Lifestyle & Health",
+      "image_url": "https://i.scdn.co/image/e7362f7ab54dad2cc2ca991791b27ef98441f641",
+      "description": "A show about the unanswered questions of our daily lives."
+    },
+    {
+      "uri": "spotify:show:1jFYnTSP29jx6mzWvysW3Q",
+      "title": "The Nod",
+      "subtitle": "Arts • Society & Culture",
+      "image_url": "https://i.scdn.co/image/1184691641676933dc209c8b23e49e9ed36e8c42",
+      "description": "The Nod tells the stories of Black life that don't get told anywhere else, from an explanation of how purple drink became associated with Black culture to the story of how an interracial drag troupe traveled the nation in the 1940s. We celebrate the genius, the innovation, and the resilience that is so particular to being Black -- in America, and around the world."
+    },
+    {
+      "uri": "spotify:show:5WyguKksTmEHLOX4IldMwI",
+      "title": "{Blank} + {Blank} = Fun",
+      "subtitle": "News & Politics",
+      "image_url": "https://i.scdn.co/image/a6cbb0dc51db5528246585fbcb16835bb76a0ea4",
+      "description": "What makes fun? We could find out."
+    },
+    {
+      "uri": "spotify:show:3ltqdX9Em1RtnJNqR3UxrS",
+      "title": "Motherhood Sessions",
+      "subtitle": "Kids & Family",
+      "image_url": "https://i.scdn.co/image/f2c7e8fedd0c48956ad7e0a77ac1974d50f07eba",
+      "description": "Being a mom is hard—everybody knows that. But usually we only hear about sleepless nights and diaper changes, not the profound identity shift that accompanies becoming a mother. Motherhood is a psychological big bang. And yet it's rare to find emotionally honest conversations about it. On Gimlet Media's Motherhood Sessions, Dr. Alexandra Sacks, a renowned reproductive psychiatrist, sits down with mothers and lets us listen in on conversations that are hard to have outside of a therapist's office. Each episode features a woman struggling with some problem or question—from career uncertainty to sex to ambivalence about even being a mother—and she and Dr. Sacks work it through together."
+    },
+    {
+      "uri": "spotify:show:6I73b0kVHO6bg3FOmFUpdA",
+      "title": "The Cut on Tuesdays",
+      "subtitle": "Arts • News",
+      "image_url": "https://i.scdn.co/image/bac1c9e916e70022b68fc86f50fa10d71930a9ea",
+      "description": "The Cut on Tuesdays brings you women's voices on culture, style, sex, politics, and people: It's everything The Cut can't stop talking about. Join host Molly Fischer every week for arguments, obsessions, dissections, reflections, confessions, and other deep dives. From New York Magazine and Gimlet Media."
+    },
+    {
+      "uri": "spotify:show:4JjTsmjNQXlP8jK17nJDm2",
+      "title": "Earning Curve",
+      "subtitle": "Business • Technology",
+      "image_url": "https://i.scdn.co/image/1c058bd2805f76a512c4ea2fb852e9eff0ed8135",
+      "description": "No one builds a business on their own. Earning Curve lets you in on the intimate and raw conversations behind what it takes to grow a business—between people building the next generation of Canadian businesses, and the industry leaders who have already made their mark. Produced by Gimlet Creative and hosted by Canadian tech entrepreneur, television personality, and venture capitalist Michele Romanow, the show brings together a wide range of young entrepreneurs and business leaders for a candid conversation about growing a business."
+    },
+    {
+      "uri": "spotify:show:0JZ2opnltlJ6PJxlZEpx9r",
+      "title": "Mystery Show",
+      "subtitle": "Arts • Comedy",
+      "image_url": "https://i.scdn.co/image/81399c00ff17548b4ced0535dbe3b329b19958a6",
+      "description": "A  podcast about mysteries, hosted by Starlee Kine. From Gimlet."
+    },
+    {
+      "uri": "spotify:show:4okzhZKxw5lSXcADxVxNRj",
+      "title": "Mogul",
+      "subtitle": "History • Music",
+      "image_url": "https://i.scdn.co/image/ba46d1a703e31052b772ee31607ec61656a1a1be",
+      "description": "Mogul is a show about hip hop's most iconic moments, told by the people who lived them. Season 2 dives into the birth of southern hip hop. It all started in Miami with the 2 Live Crew, a group that took hip hop and made it faster, harder, and nastier than anything anyone had heard before. But in 1990 their music was declared legally obscene, and what followed is known today as the most controversial trial in the history of hip hop. This group, this city and this trial changed the course of music history as we know it. Mogul Season 2 features exclusive interviews with Miami legends like Trick Daddy, Rick Ross, Trina, Luke Campbell, Brother Marquis, Mr. Mixx, Walshy Fire, and more."
+    },
+    {
+      "uri": "spotify:show:3ZFCdzRJWGMhok1x69IHRU",
+      "title": "Uncivil",
+      "subtitle": "Education • History",
+      "image_url": "https://i.scdn.co/image/06c4451a5a150ddb0d383541d1b37e7a0ec0cac4",
+      "description": "America is divided, and it always has been. We're going back to the moment when that split turned into war. This is Uncivil: Gimlet Media's new history podcast, hosted by journalists Jack Hitt and Chenjerai Kumanyika. We ransack the official version of the Civil War, and take on the history you grew up with. We bring you untold stories about covert operations, corruption, resistance, mutiny, counterfeiting, antebellum drones, and so much more. And we connect these forgotten struggles to the political battlefield we're living on right now."
+    },
+    {
+      "uri": "spotify:show:2EJNikpL7McoAlSuytgcuA",
+      "title": "Pick Me Up",
+      "subtitle": "Education • Society & Culture",
+      "image_url": "https://i.scdn.co/image/041f90c9bf40d2de898399ba51ab1e4ad9e806ac",
+      "description": "Pick Me Up is a podcast about Lyft drivers who are chasing big dreams both on and off the road. Each episode, we'll meet one of them to find out where they're coming from. And then, we'll give them a little — pick me up —  to help them get to where they're going. Pick Me Up is a production of Lyft and Gimlet Creative, hosted by Mariah Smith."
+    },
+    {
+      "uri": "spotify:show:1oQxxsGXJ5aABOodZ5BH2q",
+      "title": "Invisible Forces",
+      "subtitle": "Business & Technology",
+      "image_url": "https://i.scdn.co/image/195554edb15f0b87dc9b821369cc71e2e72ecec2",
+      "description": "Through conversations with Jefferies insiders, entrepreneurs, and academics, hosts Shannon Murphy and Erin Shea explore the factors inspiring change and innovation in several sectors of the economy. The show also sets out to find people experiencing and helping drive these changes in everyday life. All of these perspectives help unpack some of the most important trends and global shifts and look at what will determine our future and as a result, opportunities for growth."
+    },
+    {
+      "uri": "spotify:show:5CnDmMUG0S5bSSw612fs8C",
+      "title": "StartUp Podcast",
+      "subtitle": "Business • Education",
+      "image_url": "https://i.scdn.co/image/00511e028a3b993efaf5e2e12b552cda1e979206",
+      "description": "A series about what it's really like to start a business."
+    },
+    {
+      "uri": "spotify:show:6rIb9MQgjiNisJ1JdvdTVf",
+      "title": "^space^",
+      "subtitle": "Music",
+      "image_url": "https://i.scdn.co/image/18fb1f45b4dd559f577a435a8459e189f12a4485",
+      "description": "The show that lasts several minutes."
+    },
+    {
+      "uri": "spotify:show:0bs4DtzC50wkTyO3uUz20d",
+      "title": "Sampler",
+      "subtitle": "Education • Society & Culture",
+      "image_url": "https://i.scdn.co/image/1a97392a41592a486df33c4666dcfaf3bd225c61",
+      "description": "Sampler brings you the best moments from the world of podcasts.   We'll feature bite size tastes from a variety of shows plus we'll talk with podcasters to find out why they do what they do.  Sampler is hosted by Brittany Luse and a different special guest each week."
+    },
+    {
+      "uri": "spotify:show:5aIpY8GJb7J9nBzmCliRuI",
+      "title": "Open For Business",
+      "subtitle": "Business • Education",
+      "image_url": "https://i.scdn.co/image/86717fd2d6e633ccbf0da520d4c62c16bbd3d9cd",
+      "description": "Open For Business is a branded podcast from eBay and Gimlet Creative, about building a business from the ground up."
+    },
+    {
+      "uri": "spotify:show:0OHMYcZChEVgTx2jz0yzze",
+      "title": "Story Pirates",
+      "subtitle": "Comedy • Education",
+      "image_url": "https://i.scdn.co/image/651fc1cdff584475cc4107d4560b845ce3970368",
+      "description": "Story Pirates is a group of world-class actors, comedians, improvisers and musicians who adapt stories written by kids into sketch comedy and musical theater. Visit www.storypirates.com for more information on Story Pirates and how you can bring our live show to your school or town!"
+    },
+    {
+      "uri": "spotify:show:5lY4b5PGOvMuOYOjOVEcb9",
+      "title": "Science Vs",
+      "subtitle": "Education • Health & Fitness",
+      "image_url": "https://i.scdn.co/image/d46a8ce0551a6a87c9a883624da6a5c547b94979",
+      "description": "There are a lot of fads, blogs and strong opinions, but then there's SCIENCE. Science Vs is the show from Gimlet Media that finds out what's fact, what's not, and what's somewhere in between. We do the hard work of sifting through all the science so you don't have to. This season we tackle football concussions, heartbreak, 5G networks, sleep, free healthcare, police use of force, asteroids and more."
+    },
+    {
+      "uri": "spotify:show:0P13JasQfVZ1RiDCMZMYNU",
+      "title": "How's Work? with Esther Perel",
+      "subtitle": "Lifestyle & Health",
+      "image_url": "https://i.scdn.co/image/0cb1f853dce2dc791bc85f81ac09942900648804",
+      "description": "All the relational habits you built in life don't immediately disappear the moment you walk in the office door.   In the new podcast, How's Work?, iconic couples therapist Esther Perel brings new perspective to the invisible forces that shape workplace connections, conflict and dynamics through one-time therapy sessions with coworkers, cofounders and colleagues -- touching every work environment from start-ups and family businesses to corporations and service industries."
+    },
+    {
+      "uri": "spotify:show:1DpjNPz2R1uJoBABi8TAMm",
+      "title": "Undone",
+      "subtitle": "History • News",
+      "image_url": "https://i.scdn.co/image/9cfe1ef92927972a6c70987e10391153acc3a76f",
+      "description": "When big news happens, the world tunes in and then moves on. But often the stories we thought were over haven't really ended; they were the beginning of something else. Undone is a new show from Gimlet Media that digs up the surprising things that happened when we weren't looking."
+    },
+    {
+      "uri": "spotify:show:51zf1djWRn5v5HynVupSlU",
+      "title": "The Habitat",
+      "subtitle": "Science • Society & Culture",
+      "image_url": "https://i.scdn.co/image/688468bb145e97199b6c085096ac9b28117a6510",
+      "description": "On a remote mountain in Hawaii, there's a fake planet Mars. Six volunteers are secluded in an imitation Mars habitat where they will work as imitation astronauts for one very real year. The goal: to help NASA understand what life might be like on the red planet—and plan for the day when the dress rehearsals are over, and we blast off for real. Host Lynn Levy has been chronicling this experiment from the moment the crew set foot in their habitat, communicating with them through audio diaries that detail their discoveries, their frustrations, and their evolving and devolving relationships with each other. From those diaries, Gimlet Media has crafted an addictive serialized documentary: the true story of a fake planet."
+    },
+    {
+      "uri": "spotify:show:0Xb6HkjofApCAze2HowSb8",
+      "title": "Present Company",
+      "subtitle": "Society & Culture • TV & Film",
+      "image_url": "https://i.scdn.co/image/7088d2bf6c242554307d43ff6d6b991cdbd329a7",
+      "description": "Present Company with Krista Smith is a weekly show bringing you dynamic conversations with the exceptional people behind your favorite shows, films, specials, and documentaries."
+    },
+    {
+      "uri": "spotify:show:5MvbeTCMNepJWuGDFETan0",
+      "title": "The Clearing",
+      "subtitle": "Stories",
+      "image_url": "https://i.scdn.co/image/20c35d9597ac6f274b4836a0b9d35293f4f4bebb",
+      "description": "When April Balascio was 40 years old, something she'd feared for decades was finally proven true. Her father, Edward Wayne Edwards, really was a murderer. The Clearing is about what came after April called a detective in 2009 to tell him about her suspicions — a call that led to her father's arrest and eventual conviction on multiple murders — and tracks the emotional journey as she and host Josh Dean dig back into her childhood, unravel the truth of her father's life, and overturn a viral online narrative that had turned Edward Wayne Edwards into a kind of serial killer caricature.  Produced by Pineapple Street Media in association with Gimlet."
+    },
+    {
+      "uri": "spotify:show:7vHqMwiTFlivWCb1XwxKEC",
+      "title": "Twice Removed",
+      "subtitle": "History • Science",
+      "image_url": "https://i.scdn.co/image/b2fb826c0b59c12f604f48d53e016795bcd32efa",
+      "description": "A new family history podcast hosted by A.J. Jacobs. They say we're one big family: this is the show that proves it. You will be filled with delight… or abject horror. You never know. It's family."
+    },
+    {
+      "uri": "spotify:show:3xPRJvSzSmd2g38bsmzQfw",
+      "title": "So Help Me",
+      "subtitle": "Lifestyle & Health",
+      "image_url": "https://i.scdn.co/image/03c34466dc80e63bf1c3ce24b2122ba5aee9f462",
+      "description": "So Help Me is a show about self help and what happens when you try to figure yourself out. Profoundly flawed but hopeful host Anna Ladd tries different self help methods to fix everything from her attitude to her apartment, and learns from experts and others who have tried them along the way."
+    },
+    {
+      "uri": "spotify:show:4QsLfk9Xbfuak1KyxD5Hkl",
+      "title": "Up At Night",
+      "subtitle": "Business & Technology • Educational",
+      "image_url": "https://i.scdn.co/image/88d6e31f414071812760f7076e8feec555205916",
+      "description": "Every leader of a growing business has experienced a restless night. A night where a new opportunity or a daunting challenge got in the way of a decent night's sleep. On this show, host John Henry calls up successful leaders of midsize businesses -- at night -- to find out what's really keeping them up.   Don't forget to visit our blog we.co/upatnight, where you'll find more advice and useful solutions for growing your business along with additional information about Up At Night."
+    },
+    {
+      "uri": "spotify:show:3fKOTwtnX5oZLaiNntKWAV",
+      "title": "Where Should We Begin? with Esther Perel",
+      "subtitle": "Health & Fitness • Society & Culture",
+      "image_url": "https://i.scdn.co/image/d1b9c9b6216ab42d6c4bb07c5c0bd0100e1aea45",
+      "description": "Step into iconic couples therapist Esther Perel's office and listen as real couples anonymously bare the raw, intimate, and profound details of their story. From infidelity, to sexlessness, to loss, it's a space for people to be heard and understood. It's also a place for us to listen and feel empowered in our own relationships. So.. where should we begin?"
+    },
+    {
+      "uri": "spotify:show:70QlYnLX3izDdFhlKfOaeF",
+      "title": "The Two Princes",
+      "subtitle": "Comedy • Kids & Family",
+      "image_url": "https://i.scdn.co/image/42e758f2cd62d79f3345919a9afe19ce4990aea4",
+      "description": "Princes Rupert and Amir can't wait to settle down into happily ever after. But on the eve of their wedding, a powerful sorceress named Malkia invades their kingdom. Driven from their castle, the princes set off on a quest to collect an assortment of magical items that will give them the power to defeat Malkia and save their realm.   The Two Princes stars Noah Galvin (Booksmart, Dear Evan Hansen), Ari'el Stachel (The Band's Visit), Samira Wiley (Orange Is the New Black, The Handmaid's Tale), Cynthia Erivo (Harriet, The Color Purple), Tonya Pinkins (Madam Secretary,  Fear the Walking Dead, Jelly's Last Jam), Ali Stroker (Oklahoma). The Two Princes was written by Kevin Christopher Snipes and directed by Mimi O'Donnell."
+    },
+    {
+      "uri": "spotify:show:3XwrCIMKVR6MIDZT5q8b8q",
+      "title": "Sleep by Nature Made",
+      "subtitle": "Lifestyle & Health",
+      "image_url": "https://i.scdn.co/image/d30aac65420c81ce5a936e664c609a1be68b0d13",
+      "description": "Nature sounds and visualizations to help you sleep.  Choose from beautiful nature sounds from around the world, or short visualizations followed by an hour of nature sounds, to help center yourself before sleep."
+    },
+    {
+      "uri": "spotify:show:7rAolxBjL2mq5Dq9osvLmE",
+      "title": "Motherhacker",
+      "subtitle": "Arts & Entertainment • Stories",
+      "image_url": "https://i.scdn.co/image/e71f3845b4dcc5ee2c81e411a32b0ccefcbc40f5",
+      "description": "Bridget's life is a series of dropped calls. With a gift for gab, an ex-husband in rehab, and down to her last dollar, Bridget's life takes a desperate turn when she starts vishing over the phone for a shady identity theft ring in order to support her family. Motherhacker is written by Sandi Farkas and executive produced and directed by Amanda Lipitz. The series stars Carrie Coon, Pedro Pascal, Alan Cumming, Lucas Hedges, Tavi Gevinson, Rupert Friend, Alex Goldman and more."
+    },
+    {
+      "uri": "spotify:show:0L04op9D76TOfmzm7yOf9T",
+      "title": "The Pitch",
+      "subtitle": "Business • Education",
+      "image_url": "https://i.scdn.co/image/4ad125fd64270a8a460c93ecf520e1e17195bb21",
+      "description": "Listen as real entrepreneurs pitch to real investors—for real money. In each episode, we take you behind closed doors to the critical moment when aspiring entrepreneurs put it all on the line. While it offers a glimpse into the high-stakes world of venture capital, it's really a show about human relationships: how people sell their ideas, what makes investors tick, and how these initial conversations can bloom into business deals—or die on the vine. Hosted by Josh Muccio."
+    },
+    {
+      "uri": "spotify:show:2FNiLBehDaHeOSpj3fZH8T",
+      "title": "100% Related?",
+      "subtitle": "Lifestyle & Health",
+      "image_url": "https://i.scdn.co/image/2730ca93db3f22e738668f042b761d8dbade8b35",
+      "description": "Like father, not like father?"
+    },
+    {
+      "uri": "spotify:show:3SltI1zTwbUea66SMtrafu",
+      "title": "Sandra",
+      "subtitle": "Fiction",
+      "image_url": "https://i.scdn.co/image/45c0a1cc6268236b2566fd4612bda190c0f1515b",
+      "description": "Helen's always dreamed of ditching her hometown, so when she lands a job at the company that makes Sandra, everyone's favorite A.I., she figures it's the next-best thing. But working behind the curtain isn't quite the escape from reality that Helen expected. Directed by Sebastian Silva; written by Kevin Moffett and Matthew Derby; executive produced by Mimi O'Donnell; produced by April Lamb, Katie Pastore and Matthew Boll; associate produced by MR Daniel; sound design and editing by Ryan Billia; mixed by Matthew Boll; score by Daniel Brunelle; Special thanks to Mary-Kim Arnold, Eli Horowitz, Corinna Vallianatos and Alex Blumberg. Sandra is a production of Gimlet Media."
+    },
+    {
+      "uri": "spotify:show:62TXefpPe4FAJ3xIyihaET",
+      "title": "DTR - The Official Tinder Podcast ",
+      "subtitle": "Health & Fitness • Society & Culture",
+      "image_url": "https://i.scdn.co/image/131b96bc5a9a97101692b30a89342ebc35e2ef3b",
+      "description": "DTR is a show about everything from opening lines, to profile pics, to dating someone out of your league. Each episode dives deep into the weird, wonderful and hilarious aspects of dating in an Internet-obsessed world. Because even though technology has made it easier to find dates, love is still as unpredictable as ever. For Season 2 of DTR, host Jane Marie (This American Life, Jezebel, The Hairpin, Cosmopolitan) is back and she's on a mission. Joined by celebrity guests (Jason Mantzoukas, Aparna Nancherla, Patti Harrison, and more), they are taking over DTR listeners' Tinder profiles, swiping for them, and sending them out on dates -- and recording all of it. Spark something new with DTR—the official Tinder podcast, produced in partnership with Gimlet Creative."
+    },
+    {
+      "uri": "spotify:show:0Ub5nN9lxJuPfq34AYiONG",
+      "title": "Why We Eat What We Eat",
+      "subtitle": "Arts • Health & Fitness",
+      "image_url": "https://i.scdn.co/image/9c2fb569b6e85e6f83ca841cc22ce5db5d0a0337",
+      "description": "Most Americans now have more choices when it comes to food than any other group of people in the history of the world. We are so, so lucky to live in a time and place when we get to choose between feasting on fresh vegetables from the farmer's market… and ordering a meat lover's pizza delivered right to our door.  With such a ridiculous abundance of options, how do we actually decide what's for dinner?  On Why We Eat What We Eat, host Cathy Erway investigates the unseen forces that shape our eating habits. We'll tackle a kale conspiracy, how to get your kids to quit being so picky, visiting the epicenter of the potluck scene, and more.   Brought to you by Blue Apron and Gimlet Creative."
+    },
+    {
+      "uri": "spotify:show:5c26B28vZMN8PG0Nppmn5G",
+      "title": "Heavyweight",
+      "subtitle": "Comedy • Society & Culture",
+      "image_url": "https://i.scdn.co/image/c5a75917fac79184b98dfb823740641f0750b3ab",
+      "description": "Maybe you've laid awake imagining how it could have been, how it might yet be, but the moment to act was never right. Well, the moment is here and the podcast making it happen is Heavyweight. Join Jonathan Goldstein for road trips, thorny reunions, and difficult conversations as he backpedals his way into the past like a therapist with a time machine. From Gimlet Media."
+    },
+    {
+      "uri": "spotify:show:3G1Ya4WPRpYMLRHtiBHHnf",
+      "title": "Flipping The Game",
+      "subtitle": "Arts • Leisure",
+      "image_url": "https://i.scdn.co/image/9e86274bfede89e8869cee85e60a8670f99d7694",
+      "description": "For women in the sneaker world, it can feel like we've barely got a foot in the door. Flipping the Game is a three part series about the first shoe that got women into the sneaker game: the Reebok Freestyle. We dig into why women are still fighting for recognition in the sneaker world 30 years after the Freestyle dropped. Hosted by Scottie Beam. From Reebok Classic, produced in partnership with Gimlet Creative."
+    },
+    {
+      "uri": "spotify:show:754u4KF9XWCq3BguNFayP0",
+      "title": ".future",
+      "subtitle": "Business • Society & Culture",
+      "image_url": "https://i.scdn.co/image/097927f3f2aec82954fa81956275ce621f929938",
+      "description": "The future isn't random. It's the result of the choices that we make now. We'll be talking about technologies and industries that will define the next decade and beyond.    Join our host Cristina Quinn, a science and technology reporter, as she dives into everything from Minecraft to cyber warfare.    You can wait for the future to happen to you or engage with it right now and ahead of the curve on .future— a branded podcast from Microsoft, produced in partnership with Gimlet Creative."
+    },
+    {
+      "uri": "spotify:show:1JWboBRLGajI3xUU1U3Ons",
+      "title": "On the Inside",
+      "subtitle": "News & Politics • Stories",
+      "image_url": "https://i.scdn.co/image/7371d7cd9a49b30de181a839d2032f79796fb065",
+      "description": "Paul Modrowski is serving a life sentence for a murder he says he didn't commit. Reporter Sruthi Pinnamaneni meets him through the blog he keeps from prison and spends the next year investigating his case. To hear more episodes like this, follow Reply All on Spotify."
+    },
+    {
+      "uri": "spotify:show:0NmJNbAGTmxJLvDZSvmThO",
+      "title": "The Venture",
+      "subtitle": "Business • Leisure",
+      "image_url": "https://i.scdn.co/image/98a2b2a9aca30af0b97ecf83cba8ff21043a8d28",
+      "description": "The real adventures behind pioneering businesses, from the people who lived them. Brought to you by Virgin Atlantic and Gimlet Creative."
+    },
+    {
+      "uri": "spotify:show:2dY2l2v95zz9HTlYvDSAdA",
+      "title": "Every Little Thing",
+      "subtitle": "Comedy • Education",
+      "image_url": "https://i.scdn.co/image/4c3c9af6ee3c298acaf1715945896d742a7445b2",
+      "description": "Who invented pants? How did 'pink for girls' and 'blue for boys' happen? What do dogs say when they bark? ELT is here to answer your burning questions. If you have a question that needs answering, call the ELT Help Line at 833-RING-ELT or send an audio message to elt@gimletmedia.com. Every Little Thing is produced by Gimlet Media and hosted by Flora Lichtman."
+    },
+    {
+      "uri": "spotify:show:2pWaoB1xgi5x6UgMgwRlsV",
+      "title": "Homecoming",
+      "subtitle": "Fiction",
+      "image_url": "https://i.scdn.co/image/8df49f86cefe8d510edd167e7a188120b52143ae",
+      "description": "Now a Prime Original TV series. From Gimlet, Homecoming centers on a caseworker at an experimental facility, her ambitious supervisor, and a soldier eager to rejoin civilian life — presented in an enigmatic collage of telephone calls, therapy sessions, and overheard conversations. Starring Catherine Keener, Oscar Isaac, David Schwimmer, David Cross, Amy Sedaris, Michael Cera, Mercedes Ruehl, Alia Shawkat, Chris Gethard, and Spike Jonze."
+    },
+    {
+      "uri": "spotify:show:1H6EbmX0tV6BkGkfeJ98KG",
+      "title": "The Secret to Victory",
+      "subtitle": "Society & Culture • Sports",
+      "image_url": "https://i.scdn.co/image/b42b58e64f2e20337e8000f2a392cadbe2b66a2b",
+      "description": "What happens when the best athletes in the world lose? From Gatorade and Gimlet Creative, a podcast about how the world's most competitive athletes use defeat as motivation to build strength from the inside out, and ultimately come out on top. Episodes featuring Serena Williams, Peyton Manning, Eli Manning, Matt Ryan, J.J. Watt, Karl-Anthony Towns Jr., Kyle Schwarber, and the people who know them best. The Secret to Victory premieres in July.   Visit gatorade.com/podcast to learn more.   The Secret to Victory is hosted by Domonique Foxworth."
+    },
+    {
+      "uri": "spotify:show:4LwMqG64m0E9zuMwJPZU6J",
+      "title": "THE FENOM EFFECT",
+      "subtitle": "Sports & Recreation",
+      "image_url": "https://i.scdn.co/image/a294a89171ae5fb064cac445b259c4f002a13070",
+      "description": "Stories from athletes who don't stop at sport. They spark change and redefine the rules. Hear from the world's greatest athletes on topics like equality, representation, leadership, confidence, and more. Brought to you by Nike."
+    },
+    {
+      "uri": "spotify:show:5LRoBvyKEVBsFuypsKCPr1",
+      "title": "Dress Codes",
+      "subtitle": "Arts & Entertainment • Lifestyle & Health",
+      "image_url": "https://i.scdn.co/image/1561e9200017be71691c1b3ed68ca3bb791a960e",
+      "description": "A show about the moments that made us — and what we were wearing when they happened. Host Emily Spivack peeks into the style diaries of artists, entrepreneurs, designers, and more. From New Balance and Gimlet Creative. #mydresscode Head over to gimletcreative.com/dresscodes to learn more."
+    },
+    {
+      "uri": "spotify:show:2XquJlPU9ibLYZMH0ZzFwA",
+      "title": "Conviction",
+      "subtitle": "Stories",
+      "image_url": "https://i.scdn.co/image/c9c8a39aaa347c5e07717192e0e36207dca0d758",
+      "description": "When John Quinney was ten years old, he took the stand to testify against his own father. He had come to believe that his dad Melvin was the murderous leader of a satanic cult. It would be decades before John would learn that his family was just one of many swept up in a panic that gripped America in the 1980s—one in which hundreds of people were accused of taking part in underground satanic cults that sacrificed infants and sexually abused children. By the time the panic had subsided, scores of people were in prison, convicted on little to no evidence—people like John's father. Conviction: American Panic takes you inside one of the darkest and most bizarre chapters of American history."
+    },
+    {
+      "uri": "spotify:show:7KBg45FVLskMTXDCq4tf5y",
+      "title": "Surprisingly Awesome",
+      "subtitle": "Comedy • Education",
+      "image_url": "https://i.scdn.co/image/04cc7232de867aed3e52de043cd8ad9909e16425",
+      "description": "A show that delves into topics that seem mundane, annoying and sometimes downright boring - to reveal that they're surprisingly awesome."
+    },
+    {
+      "uri": "spotify:show:5CfCWKI5pZ28U0uOzXkDHe",
+      "title": "Without Fail",
+      "subtitle": "Business • Education",
+      "image_url": "https://i.scdn.co/image/4f19eb7986a7c2246d713dcc46684e2187ccea4f",
+      "description": "Candid conversations with entrepreneurs, artists, athletes, visionaries of all kinds—about their successes, and their failures, and what they learned from both. Hosted by Alex Blumberg, from Gimlet Media."
+    },
+    {
+      "uri": "spotify:show:3yxUnWt3TJWXaKuRU2sLOg",
+      "title": "Shots of Science Vs",
+      "subtitle": "Educational",
+      "image_url": "https://i.scdn.co/image/d31f44a79fbb56920dab5b598041b6565a121aac",
+      "description": "Science Vs for Your Daily Drive"
+    },
+    {
+      "uri": "spotify:show:7gozmLqbcbr6PScMjc0Zl4",
+      "title": "Reply All",
+      "subtitle": "Arts • Society & Culture",
+      "image_url": "https://i.scdn.co/image/7bbddc0239dcbdbdd1d65513df5e89c838eb3e2d",
+      "description": "\"'A podcast about the internet' that is actually an unfailingly original exploration of modern life and how to survive it.\" - The Guardian. Hosted by PJ Vogt and Alex Goldman, from Gimlet."
+    },
+    {
+      "uri": "spotify:show:3kUTcnwiuKDXg3YHwWgn5a",
+      "title": "We Came to Win",
+      "subtitle": "Leisure • Society & Culture",
+      "image_url": "https://i.scdn.co/image/2f4b6c76319e745306f610c7d7f677f7d23f0006",
+      "description": "Every four years, people all over the world turn their eyes, ears, and hearts toward the most exciting sports competition on the planet: The World Cup. We Came to Win tells the stories behind the tournament's most memorable moments. Like, how did one player become a God, and a villain, after breaking the rules? How did the semi-final of the 1990 World Cup save English soccer from falling apart? And how did one player turn a free-kick into an act of protest?  This series from Gimlet Media is an homage to the triumph and heartbreak, victory and defeat that we all experience from soccer (or football, or futbol, or whatever you call it). And it reminds us that so much of what we love about the beautiful game happens off the pitch."
+    }
+  ],
+  "recommended": [
+    {
+      "uri": "spotify:episode:7IyZzG5r605VzEJ9XEfgCJ",
+      "title": "Gimlet Media: Alex Blumberg and Matt Lieber",
+      "subtitle": "How I Built This with Guy Raz",
+      "image_url": "https://i.scdn.co/image/fde21554b2199a97a87add6c12639ad3522d121a",
+      "description": "Alex Blumberg made his early career by helping build two of the most successful shows in radio and podcasting: Planet Money and This American Life. In 2014, convinced that podcasts could make money, he walked away from the safe umbrella of public media to start a new media company with co-founder Matt Lieber. Every doubt, triumph and humiliation of building the business was documented on the podcast Startup, which included the back-and-forth over how the company got its name: Gimlet. Many more successful podcasts followed, and five years after launch, Gimlet sold to Spotify for roughly $200 million. PLUS in our postscript \"How You Built That,\" after years of researching how women's shoes wreak havoc on the joints, Casey Kerrigan quit her job in medicine to start 3D printing more comfortable designs:  Oesh Shoes."
+    },
+    {
+      "uri": "spotify:episode:1q7w7rQYjh3yFgey4Gz2OO",
+      "title": "Gimlet co-founders Alex Blumberg and Matt Lieber, plus Fortune CEO Alan Murray",
+      "subtitle": "Recode Media",
+      "image_url": "https://i.scdn.co/image/8e85277525d203fcf10395595fb1f32420158580",
+      "description": "Gimlet co-founders Alex Blumberg and Matt Lieber talk with Recode's Peter Kafka about selling their company to Spotify. Then later in the show, Fortune Media Group CEO Alan Murray sits down with Peter to talk about selling Fortune to a Thai billionaire and navigating its transition into new digital challenges. In the Gimlet interview: \"We didn't leak the story, I don't know who did\"; Blumberg and Lieber's interactions with Gimlet staff since Recode's scoop on Friday; why the acquisition makes sense; how Spotify became a distribution partner and when acquisition talks started; could Gimlet have remained independent?; how much did Blumberg and Lieber's ability to personally profit influence the decision to sell?; listeners who invested in Gimlet's crowdfunding seed round will see a return; will Gimlet's existing shows become Spotify exclusives? And in the Murray interview: Fortune's acquisition and the end of Time Inc.; why it's hard to destroy legacy media brands; why it would be a problem if Time Magazine owner Marc Benioff had also bought Fortune; who is Fortune's new owner, Chatchaval Jiaravanon?; the \"death sentence\" of working with its old owner, Time Warner; how has Fortune changed since Jiaravanon bought it?; developing and scaling up live events to make them both accessible and valuable; advertising-supported businesses and Fortune's competitors; Murray's background at the Wall Street Journal and why Rupert Murdoch is \"the best thing that could have happened\" to the paper; developing the WSJ's ultimately unsuccessful iPad app, The Daily; President Trump's lies and attacks on journalism; and and how other media outlets are alienating his supporters. Thanks to Microsoft Azure for sponsoring this episode. Get started with a free account and 12 months of popular free services at Azure.com/trial today. Learn more about your ad choices. Visit megaphone.fm/adchoices"
+    },
+    {
+      "uri": "spotify:show:0KxdEdeY2Wb3zr28dMlQva",
+      "title": "The Journal.",
+      "subtitle": "The Wall Street Journal & Gimlet",
+      "image_url": "https://i.scdn.co/image/c5a577dc66de130fa9ebd61f475410be5fc8ada2",
+      "description": "The most important stories, explained through the lens of business. A podcast about money, business and power. Hosted by Kate Linebaugh and Ryan Knutson.  The Journal is a co-production from Gimlet Media and The Wall Street Journal."
+    },
+    {
+      "uri": "spotify:show:2hmkzUtix0qTqvtpPcMzEL",
+      "title": "Radiolab",
+      "subtitle": "WNYC Studios",
+      "image_url": "https://i.scdn.co/image/924cbfeb1b8b29a6ff95b0e35c092ef63786eaba",
+      "description": "A two-time Peabody Award-winner, Radiolab is an investigation told through sounds and stories, and centered around one big idea. In the Radiolab world, information sounds like music and science and culture collide. Hosted by Jad Abumrad and Robert Krulwich, the show is designed for listeners who demand skepticism, but appreciate wonder.   WNYC Studios is a listener-supported producer of other leading podcasts including On the Media, Snap Judgment, Death, Sex & Money, Nancy and Here's the Thing with Alec Baldwin.   © WNYC Studios"
+    },
+    {
+      "uri": "spotify:show:2VRS1IJCTn2Nlkg33ZVfkM",
+      "title": "99% Invisible",
+      "subtitle": "Roman Mars",
+      "image_url": "https://i.scdn.co/image/07177993f7b3a766a47161e61ca33b4f1f99a694",
+      "description": "       Design is everywhere in our lives, perhaps most importantly in the places where we've just stopped noticing. 99% Invisible is a weekly exploration of the process and power of design and architecture. From award winning producer Roman Mars. Learn more at 99percentinvisible.org.    A proud member of Radiotopia, from PRX. Learn more at radiotopia.fm.     "
+    },
+    {
+      "uri": "spotify:show:2LOJaYKijiwNefCvzczyib",
+      "title": "Revisionist History",
+      "subtitle": "Pushkin Industries",
+      "image_url": "https://i.scdn.co/image/ea97b844739d3d64dc60e736a61898ceb224a78a",
+      "description": "Revisionist History is Malcolm Gladwell's journey through the overlooked and the misunderstood. Every episode re-examines something from the past—an event, a person, an idea, even a song—and asks whether we got it right the first time. From Pushkin Industries. Because sometimes the past deserves a second chance."
+    }
+  ],
+  "bio": "Gimlet was founded in August 2014 with the launch of its flagship podcast StartUp hosted by Alex Blumberg. Originally billed as the American Podcasting Corporation (APC), Blumberg was eventually convinced to change the company's name. After working with Lexicon Branding, Blumberg and Lieber chose the name Gimlet Media for the venture.\n\nThe company raised $1.5 million in seed funding at a $10 million valuation. After raising most of its initial capital from investment firms Betaworks, Lowercase Capital, and Knight Enterprise Fund, Gimlet invited the listeners of its shows to help raise the last $200,000 through equity crowdfunding. The company was estimated to bring in $2 million in advertising revenue in 2015. In December 2015, Gimlet closed a Series A round of funding that raised $6 million at a $30 million valuation.\n\nIn July 2015, Gimlet announced it would add the option to pay for membership, a decision motivated by a desire to diversify revenue streams to include more than advertising. Members were given early access to pilots for new Gimlet shows, a Gimlet T-shirt, and access to the company's Slack channel. Gimlet then hired Blumberg's spouse and former Rachel Maddow Show producer Nazanin Rafsanjani to explore other ways to diversify the company's revenue.[6] Rafsanjani spearheads Gimlet Creative, a wing of the company that \"creates highly produced narrative audio in partnership with brands.\"\n\nOn August 2, 2017, Gimlet announced it closed a $15 million Series B investment round, led by Stripes Group. Emerson Collective, Graham Holdings, Betaworks, and Cross Culture Investors also contributed to the round.[13] In September, 2017, British advertising firm WPP announced it was investing $5 million in Gimlet for a minority stake in the company.\n\nOn February 6, 2019, Spotify announced that it had entered into a definitive agreement to acquire Gimlet for $230 million.",
+  "instagram": "https://www.instagram.com/gimletmedia/",
+  "facebook": "https://www.facebook.com/gimletmedia/",
+  "twitter": "https://twitter.com/Gimletmedia"
+}

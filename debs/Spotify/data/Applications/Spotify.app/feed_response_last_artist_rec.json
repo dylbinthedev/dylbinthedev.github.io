@@ -1,0 +1,839 @@
+{
+  "mutations": {
+    "insertions": [
+      {
+        "id": "2529273600000-ALBUM-0APwelcsGIZMvL0qXvjuMp-music_release",
+        "source": "music_release",
+        "view_type": "music_release",
+        "music_release": {
+          "uri": "spotify:album:0APwelcsGIZMvL0qXvjuMp",
+          "name": "Christmas (Baby Please Come Home) [feat. Bryan Adams]",
+          "album_type": "SINGLE",
+          "image_url": "https://i.scdn.co/image/63c7b72f1cf9e1084a5cb0a6e96253991a3c7ade",
+          "artist_pick_message": "",
+          "artists": [
+            {
+              "uri": "spotify:artist:3Z02hBLubJxuFJfhacLSDc",
+              "display_name": "Bryan Adams",
+              "image_url": "https://i.scdn.co/image/1ad5f1b94115088b4163754097a4b104b42f119e"
+            },
+            {
+              "uri": "spotify:artist:2HcwFjNelS49kFbfvMxQYw",
+              "display_name": "Robbie Williams",
+              "image_url": ""
+            }
+          ],
+          "tracks": [
+            {
+              "uri": "spotify:track:0EwajwP54Ai4KRaFyBNhll",
+              "title": "Christmas (Baby Please Come Home) (feat. Bryan Adams)",
+              "artists": [
+                {
+                  "uri": "spotify:artist:2HcwFjNelS49kFbfvMxQYw",
+                  "display_name": "Robbie Williams",
+                  "image_url": ""
+                },
+                {
+                  "uri": "spotify:artist:3Z02hBLubJxuFJfhacLSDc",
+                  "display_name": "Bryan Adams",
+                  "image_url": ""
+                }
+              ]
+            }
+          ],
+          "interacted": false,
+          "timestamp": 0,
+          "release_time": "2019-11-08T00:00:00Z"
+        }
+      },
+      {
+        "id": "2529273600000-ALBUM-0Blm3bfpTfEfrtlRHQ5sqJ-music_release",
+        "source": "music_release",
+        "view_type": "music_release",
+        "music_release": {
+          "uri": "spotify:album:0Blm3bfpTfEfrtlRHQ5sqJ",
+          "name": "You Ain't The Problem (Claptone Remix)",
+          "album_type": "SINGLE",
+          "image_url": "https://i.scdn.co/image/7b78d8901858eaa246f602569b549a93aecb1a3d",
+          "artist_pick_message": "",
+          "artists": [
+            {
+              "uri": "spotify:artist:0bzfPKdbXL5ezYW2z3UGQj",
+              "display_name": "Michael Kiwanuka",
+              "image_url": "https://i.scdn.co/image/4338f4920756bb015eb141f3d6bbfa4f6908ccde"
+            }
+          ],
+          "tracks": [
+            {
+              "uri": "spotify:track:6Mnr3RXqoRWp9MQla71mM8",
+              "title": "You Ain't The Problem - Claptone Remix",
+              "artists": [
+                {
+                  "uri": "spotify:artist:0bzfPKdbXL5ezYW2z3UGQj",
+                  "display_name": "Michael Kiwanuka",
+                  "image_url": ""
+                },
+                {
+                  "uri": "spotify:artist:4mncDFjVLUa3s025Tct3Ry",
+                  "display_name": "Claptone",
+                  "image_url": ""
+                }
+              ]
+            }
+          ],
+          "interacted": false,
+          "timestamp": 0,
+          "release_time": "2019-11-08T00:00:00Z"
+        }
+      },
+      {
+        "id": "follow-recs",
+        "source": "follow_recs",
+        "view_type": "follow_recs",
+        "follow_recs": {
+          "section_title": "Artists to follow",
+          "artists": [
+            {
+              "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp",
+              "display_name": "The Chainsmokers",
+              "image_url": "https://i.scdn.co/image/9da714082fe9696529abadc8e4095451221b4483"
+            }
+          ]
+        }
+      },
+      {
+        "id": "2529273600000-ALBUM-2MYlTMzfYpuGem406rQNI9-music_release",
+        "source": "music_release",
+        "view_type": "music_release",
+        "music_release": {
+          "uri": "spotify:album:2MYlTMzfYpuGem406rQNI9",
+          "name": "What a Time To Be Alive (Deluxe Edition)",
+          "album_type": "ALBUM",
+          "image_url": "https://i.scdn.co/image/939ea49a6d69e673d4d4dd634a84ed1cc8a594cf",
+          "artist_pick_message": "",
+          "artists": [
+            {
+              "uri": "spotify:artist:7z2avKuuiMAT4XZJFv8Rvh",
+              "display_name": "Tom Walker",
+              "image_url": "https://i.scdn.co/image/a4799e3e154d40854fdf24b6f1aeb987c72879d7"
+            }
+          ],
+          "tracks": [
+            {
+              "uri": "spotify:track:4Zy49Z7qvCZhMDX4fmf1kq",
+              "title": "Just You and I",
+              "artists": [
+                {
+                  "uri": "spotify:artist:7z2avKuuiMAT4XZJFv8Rvh",
+                  "display_name": "Tom Walker",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:66KbVgQpVvf5roxIZqfuRa",
+              "title": "Leave a Light On",
+              "artists": [
+                {
+                  "uri": "spotify:artist:7z2avKuuiMAT4XZJFv8Rvh",
+                  "display_name": "Tom Walker",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:4VPlKUSjC9HdZdUbFZ0Y5y",
+              "title": "Better Half of Me",
+              "artists": [
+                {
+                  "uri": "spotify:artist:7z2avKuuiMAT4XZJFv8Rvh",
+                  "display_name": "Tom Walker",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:19Q1sNKXGrNYc2Yt1XaB2v",
+              "title": "Not Giving In",
+              "artists": [
+                {
+                  "uri": "spotify:artist:7z2avKuuiMAT4XZJFv8Rvh",
+                  "display_name": "Tom Walker",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:4ZBpSJJsNhU4qwCAu5Jywt",
+              "title": "How Can You Sleep at Night?",
+              "artists": [
+                {
+                  "uri": "spotify:artist:7z2avKuuiMAT4XZJFv8Rvh",
+                  "display_name": "Tom Walker",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:3xISU7Ns1bkrrs96skFE50",
+              "title": "Angels",
+              "artists": [
+                {
+                  "uri": "spotify:artist:7z2avKuuiMAT4XZJFv8Rvh",
+                  "display_name": "Tom Walker",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:25XgtA5G6maM1USwI2LHVZ",
+              "title": "Now You're Gone (feat. Zara Larsson)",
+              "artists": [
+                {
+                  "uri": "spotify:artist:7z2avKuuiMAT4XZJFv8Rvh",
+                  "display_name": "Tom Walker",
+                  "image_url": ""
+                },
+                {
+                  "uri": "spotify:artist:1Xylc3o4UrD53lo9CvFvVg",
+                  "display_name": "Zara Larsson",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:7uzK7tXrPQRDvx17RsaoCn",
+              "title": "My Way",
+              "artists": [
+                {
+                  "uri": "spotify:artist:7z2avKuuiMAT4XZJFv8Rvh",
+                  "display_name": "Tom Walker",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:1k7fkT4t5gwXQU1FLBkfUl",
+              "title": "Blessings",
+              "artists": [
+                {
+                  "uri": "spotify:artist:7z2avKuuiMAT4XZJFv8Rvh",
+                  "display_name": "Tom Walker",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:2nDn07oGxa234Xc1prx1YG",
+              "title": "Cry Out",
+              "artists": [
+                {
+                  "uri": "spotify:artist:7z2avKuuiMAT4XZJFv8Rvh",
+                  "display_name": "Tom Walker",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:465Ug81LgDfKkNOS01rt8I",
+              "title": "Dominoes",
+              "artists": [
+                {
+                  "uri": "spotify:artist:7z2avKuuiMAT4XZJFv8Rvh",
+                  "display_name": "Tom Walker",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:5ADcANu5KFb9sNaiWvcVeJ",
+              "title": "Fade Away",
+              "artists": [
+                {
+                  "uri": "spotify:artist:7z2avKuuiMAT4XZJFv8Rvh",
+                  "display_name": "Tom Walker",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:4gqCdqfGFFwplAM6qHfhgH",
+              "title": "Just You and I - Acoustic",
+              "artists": [
+                {
+                  "uri": "spotify:artist:7z2avKuuiMAT4XZJFv8Rvh",
+                  "display_name": "Tom Walker",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:5P9TYktm5lVVPmcSzuxoNF",
+              "title": "The Show",
+              "artists": [
+                {
+                  "uri": "spotify:artist:7z2avKuuiMAT4XZJFv8Rvh",
+                  "display_name": "Tom Walker",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:43ymuqYJ28p4hByJnN8sda",
+              "title": "Walk Alone (feat. Tom Walker)",
+              "artists": [
+                {
+                  "uri": "spotify:artist:4WN5naL3ofxrVBgFpguzKo",
+                  "display_name": "Rudimental",
+                  "image_url": ""
+                },
+                {
+                  "uri": "spotify:artist:7z2avKuuiMAT4XZJFv8Rvh",
+                  "display_name": "Tom Walker",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:4QwqJ8uFZ6yMg8BJrbg9Z8",
+              "title": "Heartbeats",
+              "artists": [
+                {
+                  "uri": "spotify:artist:7z2avKuuiMAT4XZJFv8Rvh",
+                  "display_name": "Tom Walker",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:7vLrv7F5BA1eb9gv9u9LEe",
+              "title": "Something to Believe In",
+              "artists": [
+                {
+                  "uri": "spotify:artist:7z2avKuuiMAT4XZJFv8Rvh",
+                  "display_name": "Tom Walker",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:3H2XWknrzSJvDAQuu8WaLf",
+              "title": "Be Myself",
+              "artists": [
+                {
+                  "uri": "spotify:artist:7z2avKuuiMAT4XZJFv8Rvh",
+                  "display_name": "Tom Walker",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:0DGOdNZM8VkE6Y5Dg1L3D0",
+              "title": "All That Matters - Acoustic",
+              "artists": [
+                {
+                  "uri": "spotify:artist:7z2avKuuiMAT4XZJFv8Rvh",
+                  "display_name": "Tom Walker",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:4gU6zGYwjsWm0bzO0H5rUZ",
+              "title": "Fly Away With Me",
+              "artists": [
+                {
+                  "uri": "spotify:artist:7z2avKuuiMAT4XZJFv8Rvh",
+                  "display_name": "Tom Walker",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:2tvCQ4gcLxINmQ47Wyx7lR",
+              "title": "Leave a Light On - Sony Bravia Version",
+              "artists": [
+                {
+                  "uri": "spotify:artist:7z2avKuuiMAT4XZJFv8Rvh",
+                  "display_name": "Tom Walker",
+                  "image_url": ""
+                }
+              ]
+            }
+          ],
+          "interacted": false,
+          "timestamp": 0,
+          "release_time": "2019-11-08T00:00:00Z"
+        }
+      },
+      {
+        "id": "2529273600000-ALBUM-3KNkqgPidrZtALysyposxI-music_release",
+        "source": "music_release",
+        "view_type": "music_release",
+        "music_release": {
+          "uri": "spotify:album:3KNkqgPidrZtALysyposxI",
+          "name": "New Axe",
+          "album_type": "SINGLE",
+          "image_url": "https://i.scdn.co/image/efd7b4b501dd6632300556f4e62a43e0d014b192",
+          "artist_pick_message": "",
+          "artists": [
+            {
+              "uri": "spotify:artist:3GBPw9NK25X1Wt2OUvOwY3",
+              "display_name": "Jack Johnson",
+              "image_url": "https://i.scdn.co/image/18233e3307d5f8559f3ce72e71f4497b8d336b63"
+            }
+          ],
+          "tracks": [
+            {
+              "uri": "spotify:track:0kscetAfk5AYkbcwhE4EHi",
+              "title": "New Axe",
+              "artists": [
+                {
+                  "uri": "spotify:artist:3GBPw9NK25X1Wt2OUvOwY3",
+                  "display_name": "Jack Johnson",
+                  "image_url": ""
+                }
+              ]
+            }
+          ],
+          "interacted": false,
+          "timestamp": 0,
+          "release_time": "2019-11-08T00:00:00Z"
+        }
+      },
+      {
+        "id": "2529273600000-ALBUM-3tRmxSQyoyXXwcVDcUFQic-music_release",
+        "source": "music_release",
+        "view_type": "music_release",
+        "music_release": {
+          "uri": "spotify:album:3tRmxSQyoyXXwcVDcUFQic",
+          "name": "July (feat. Leon Bridges)",
+          "album_type": "SINGLE",
+          "image_url": "https://i.scdn.co/image/1e709297a75767482a62dc43eb5f602c67781c91",
+          "artist_pick_message": "",
+          "artists": [
+            {
+              "uri": "spotify:artist:3qnGvpP8Yth1AqSBMqON5x",
+              "display_name": "Leon Bridges",
+              "image_url": "https://i.scdn.co/image/e861448214198118b89b53c32506cda172519b4f"
+            },
+            {
+              "uri": "spotify:artist:55fhWPvDiMpLnE4ZzNXZyW",
+              "display_name": "Noah Cyrus",
+              "image_url": ""
+            }
+          ],
+          "tracks": [
+            {
+              "uri": "spotify:track:3V0nnQhqvbE3JmiDdnzQFQ",
+              "title": "July (feat. Leon Bridges)",
+              "artists": [
+                {
+                  "uri": "spotify:artist:55fhWPvDiMpLnE4ZzNXZyW",
+                  "display_name": "Noah Cyrus",
+                  "image_url": ""
+                },
+                {
+                  "uri": "spotify:artist:3qnGvpP8Yth1AqSBMqON5x",
+                  "display_name": "Leon Bridges",
+                  "image_url": ""
+                }
+              ]
+            }
+          ],
+          "interacted": false,
+          "timestamp": 0,
+          "release_time": "2019-11-08T00:00:00Z"
+        }
+      },
+      {
+        "id": "2529273600000-ALBUM-5XpCKSCpT2z8ExI5zOUX4e-music_release",
+        "source": "music_release",
+        "view_type": "music_release",
+        "music_release": {
+          "uri": "spotify:album:5XpCKSCpT2z8ExI5zOUX4e",
+          "name": "Headlights",
+          "album_type": "SINGLE",
+          "image_url": "https://i.scdn.co/image/069f714d11efee8176448a31e1a12bca464622cd",
+          "artist_pick_message": "",
+          "artists": [
+            {
+              "uri": "spotify:artist:78CiW0UJbHspFaVuVexOK6",
+              "display_name": "Charlie Cunningham",
+              "image_url": "https://i.scdn.co/image/6e353555d9afd6af7b0d7784fc359d09a276230a"
+            }
+          ],
+          "tracks": [
+            {
+              "uri": "spotify:track:1EpXF6St0g8IvoHWzNDUNi",
+              "title": "Headlights - Live Session",
+              "artists": [
+                {
+                  "uri": "spotify:artist:78CiW0UJbHspFaVuVexOK6",
+                  "display_name": "Charlie Cunningham",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:1to40jRrDPJQB728jQCFG6",
+              "title": "Headlights",
+              "artists": [
+                {
+                  "uri": "spotify:artist:78CiW0UJbHspFaVuVexOK6",
+                  "display_name": "Charlie Cunningham",
+                  "image_url": ""
+                }
+              ]
+            }
+          ],
+          "interacted": false,
+          "timestamp": 0,
+          "release_time": "2019-11-08T00:00:00Z"
+        }
+      },
+      {
+        "id": "2529273600000-ALBUM-78M2SymJDiLORvKBQHgmKl-music_release",
+        "source": "music_release",
+        "view_type": "music_release",
+        "music_release": {
+          "uri": "spotify:album:78M2SymJDiLORvKBQHgmKl",
+          "name": "Make It To Christmas",
+          "album_type": "SINGLE",
+          "image_url": "https://i.scdn.co/image/027cd6a362d6a5098abf3c82cdcfc753be00508b",
+          "artist_pick_message": "",
+          "artists": [
+            {
+              "uri": "spotify:artist:2wUjUUtkb5lvLKcGKsKqsR",
+              "display_name": "Alessia Cara",
+              "image_url": "https://i.scdn.co/image/53796b8f4368f79270fdb1603e1c1480b9605221"
+            }
+          ],
+          "tracks": [
+            {
+              "uri": "spotify:track:6RS6rcjnWrdfVuu2U2W2dj",
+              "title": "Make It To Christmas",
+              "artists": [
+                {
+                  "uri": "spotify:artist:2wUjUUtkb5lvLKcGKsKqsR",
+                  "display_name": "Alessia Cara",
+                  "image_url": ""
+                }
+              ]
+            }
+          ],
+          "interacted": false,
+          "timestamp": 0,
+          "release_time": "2019-11-08T00:00:00Z"
+        }
+      },
+      {
+        "id": "2529705600000-ALBUM-2lbe1rWHU4a03qZipEaMDB-music_release",
+        "source": "music_release",
+        "view_type": "music_release",
+        "music_release": {
+          "uri": "spotify:album:2lbe1rWHU4a03qZipEaMDB",
+          "name": "Everyday Life",
+          "album_type": "SINGLE",
+          "image_url": "https://i.scdn.co/image/c0bbf531b0cba11f3b6a0839df28152fa5315f04",
+          "artist_pick_message": "",
+          "artists": [
+            {
+              "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU",
+              "display_name": "Coldplay",
+              "image_url": "https://i.scdn.co/image/cfa43aa0be7338238c5e4911413b7be070e6a4e3"
+            }
+          ],
+          "tracks": [
+            {
+              "uri": "spotify:track:6WMf0Om41Z6HlMzXFuZ4F0",
+              "title": "Everyday Life",
+              "artists": [
+                {
+                  "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU",
+                  "display_name": "Coldplay",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:4cx0g2ct4cDamU4KDQ0c1P",
+              "title": "Orphans",
+              "artists": [
+                {
+                  "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU",
+                  "display_name": "Coldplay",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:7DUvn8S6N2pyjd72t4sQFo",
+              "title": "Arabesque",
+              "artists": [
+                {
+                  "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU",
+                  "display_name": "Coldplay",
+                  "image_url": ""
+                }
+              ]
+            }
+          ],
+          "interacted": false,
+          "timestamp": 0,
+          "release_time": "2019-11-03T00:00:00Z"
+        }
+      },
+      {
+        "id": "2529878400000-ALBUM-01sVyABzCVhIh523myKLCE-music_release",
+        "source": "music_release",
+        "view_type": "music_release",
+        "music_release": {
+          "uri": "spotify:album:01sVyABzCVhIh523myKLCE",
+          "name": "Something About You (with Rudimental) [Mason Maynard Remix]",
+          "album_type": "SINGLE",
+          "image_url": "https://i.scdn.co/image/8330a273196fef879717c3f5b21ac77995380988",
+          "artist_pick_message": "",
+          "artists": [
+            {
+              "uri": "spotify:artist:4WN5naL3ofxrVBgFpguzKo",
+              "display_name": "Rudimental",
+              "image_url": "https://i.scdn.co/image/9400cf4b806312650cc43d4d7a38123ab21ae1b5"
+            },
+            {
+              "uri": "spotify:artist:2vf4pRsEY6LpL5tKmqWb64",
+              "display_name": "Elderbrook",
+              "image_url": ""
+            }
+          ],
+          "tracks": [
+            {
+              "uri": "spotify:track:10dqLp3PRXrljVeyR0IvEW",
+              "title": "Something About You (with Rudimental) - Mason Maynard Remix Edit",
+              "artists": [
+                {
+                  "uri": "spotify:artist:2vf4pRsEY6LpL5tKmqWb64",
+                  "display_name": "Elderbrook",
+                  "image_url": ""
+                },
+                {
+                  "uri": "spotify:artist:4WN5naL3ofxrVBgFpguzKo",
+                  "display_name": "Rudimental",
+                  "image_url": ""
+                },
+                {
+                  "uri": "spotify:artist:4EdTAy3S5GrswFHCdpiKP3",
+                  "display_name": "Mason Maynard",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:4D8GURc5uwntOCNgxjw8X3",
+              "title": "Something About You (with Rudimental) - Mason Maynard Remix",
+              "artists": [
+                {
+                  "uri": "spotify:artist:2vf4pRsEY6LpL5tKmqWb64",
+                  "display_name": "Elderbrook",
+                  "image_url": ""
+                },
+                {
+                  "uri": "spotify:artist:4WN5naL3ofxrVBgFpguzKo",
+                  "display_name": "Rudimental",
+                  "image_url": ""
+                },
+                {
+                  "uri": "spotify:artist:4EdTAy3S5GrswFHCdpiKP3",
+                  "display_name": "Mason Maynard",
+                  "image_url": ""
+                }
+              ]
+            }
+          ],
+          "interacted": false,
+          "timestamp": 0,
+          "release_time": "2019-11-01T00:00:00Z"
+        }
+      },
+      {
+        "id": "2529878400000-ALBUM-1yIqauTni1V7l7djYAKSsZ-music_release",
+        "source": "music_release",
+        "view_type": "music_release",
+        "music_release": {
+          "uri": "spotify:album:1yIqauTni1V7l7djYAKSsZ",
+          "name": "KIWANUKA",
+          "album_type": "ALBUM",
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0260ada139840fb439d6750f27",
+          "artist_pick_message": "",
+          "artists": [
+            {
+              "uri": "spotify:artist:0bzfPKdbXL5ezYW2z3UGQj",
+              "display_name": "Michael Kiwanuka",
+              "image_url": "https://i.scdn.co/image/4338f4920756bb015eb141f3d6bbfa4f6908ccde"
+            }
+          ],
+          "tracks": [
+            {
+              "uri": "spotify:track:3zJ5RDG0bLQAV2rntFgUtb",
+              "title": "You Ain't The Problem",
+              "artists": [
+                {
+                  "uri": "spotify:artist:0bzfPKdbXL5ezYW2z3UGQj",
+                  "display_name": "Michael Kiwanuka",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:3CQBal6JaIQziWGgX7FUqB",
+              "title": "Rolling",
+              "artists": [
+                {
+                  "uri": "spotify:artist:0bzfPKdbXL5ezYW2z3UGQj",
+                  "display_name": "Michael Kiwanuka",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:7o0Wmu96vJWVW0KqTowxD3",
+              "title": "I've Been Dazed",
+              "artists": [
+                {
+                  "uri": "spotify:artist:0bzfPKdbXL5ezYW2z3UGQj",
+                  "display_name": "Michael Kiwanuka",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:28VPwKoMfagSr5RnofkRkl",
+              "title": "Piano Joint (This Kind Of Love) - Intro",
+              "artists": [
+                {
+                  "uri": "spotify:artist:0bzfPKdbXL5ezYW2z3UGQj",
+                  "display_name": "Michael Kiwanuka",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:1I44zWi6wdcWcnd2B68Hio",
+              "title": "Piano Joint (This Kind Of Love)",
+              "artists": [
+                {
+                  "uri": "spotify:artist:0bzfPKdbXL5ezYW2z3UGQj",
+                  "display_name": "Michael Kiwanuka",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:50AWhpT326QvfEwgOOwAqU",
+              "title": "Another Human Being",
+              "artists": [
+                {
+                  "uri": "spotify:artist:0bzfPKdbXL5ezYW2z3UGQj",
+                  "display_name": "Michael Kiwanuka",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:2MAvGEK5gCeXOwgPD6pb5Q",
+              "title": "Living In Denial",
+              "artists": [
+                {
+                  "uri": "spotify:artist:0bzfPKdbXL5ezYW2z3UGQj",
+                  "display_name": "Michael Kiwanuka",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:5ROsG1nL9gIDyIlpvlxIe9",
+              "title": "Hero - Intro",
+              "artists": [
+                {
+                  "uri": "spotify:artist:0bzfPKdbXL5ezYW2z3UGQj",
+                  "display_name": "Michael Kiwanuka",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:2Y61ZvCuuLOhdkgl1B9ekh",
+              "title": "Hero",
+              "artists": [
+                {
+                  "uri": "spotify:artist:0bzfPKdbXL5ezYW2z3UGQj",
+                  "display_name": "Michael Kiwanuka",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:2x53FW29GmBddp7uC8SnoQ",
+              "title": "Hard To Say Goodbye",
+              "artists": [
+                {
+                  "uri": "spotify:artist:0bzfPKdbXL5ezYW2z3UGQj",
+                  "display_name": "Michael Kiwanuka",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:4CJiAsRwM7MaCgWlnFaSRz",
+              "title": "Final Days",
+              "artists": [
+                {
+                  "uri": "spotify:artist:0bzfPKdbXL5ezYW2z3UGQj",
+                  "display_name": "Michael Kiwanuka",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:29h7Mur4Urml85JkCEMaMO",
+              "title": "Interlude (Loving The People)",
+              "artists": [
+                {
+                  "uri": "spotify:artist:0bzfPKdbXL5ezYW2z3UGQj",
+                  "display_name": "Michael Kiwanuka",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:3aLq93pLZHx25jcFhfbEee",
+              "title": "Solid Ground",
+              "artists": [
+                {
+                  "uri": "spotify:artist:0bzfPKdbXL5ezYW2z3UGQj",
+                  "display_name": "Michael Kiwanuka",
+                  "image_url": ""
+                }
+              ]
+            },
+            {
+              "uri": "spotify:track:7fXDbKX1W7HM1zWLw2Wac2",
+              "title": "Light",
+              "artists": [
+                {
+                  "uri": "spotify:artist:0bzfPKdbXL5ezYW2z3UGQj",
+                  "display_name": "Michael Kiwanuka",
+                  "image_url": ""
+                }
+              ]
+            }
+          ],
+          "interacted": false,
+          "timestamp": 0,
+          "release_time": "2019-11-01T00:00:00Z"
+        }
+      }
+    ],
+    "delete_item_ids": []
+  }
+}

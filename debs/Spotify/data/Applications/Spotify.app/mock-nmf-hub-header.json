@@ -1,0 +1,588 @@
+{
+  "id": "cosmic-page",
+  "title": "Cosmic",
+  "header": {
+    "id": "cosmic-header",
+    "component": {
+      "id": "marketing-format:slide-header",
+      "category": "header"
+    },
+    "custom": {
+      "color": "#e3e4df",
+      "page_uri": "spotify:nmf:hub"
+    },
+    "children": [
+      {
+        "id": "genre-cosmic-header-slide_0",
+        "component": {
+          "id": "marketing-format:slide-header-intro",
+          "category": "card"
+        },
+        "images": {
+          "background": {
+            "uri": "https://edison-dev.scdn.co/nmf-cosmic/intro-bg.png"
+          }
+        },
+        "text": {
+          "title": "Cosmic Playlists",
+          "subtitle": "Your horoscope now comes with its own playlist, created monthly by Chani Nicholas."
+        },
+        "custom": {
+          "accentColor": "#e3e4df",
+          "appearance": "dark"
+        }
+      },
+      {
+        "id": "genre-cosmic-header-slide_1",
+        "component": {
+          "id": "marketing-format:slide-header-info",
+          "category": "card"
+        },
+        "images": {
+          "background": {
+            "uri": "https://edison-dev.scdn.co/nmf-cosmic/info-bg.jpg"
+          }
+        },
+        "text": {
+          "title": "Chani Nicholas",
+          "subtitle": "Chani Nicholas is a world renowned astrologer who weaves progressive politics, activism, and queer identity into her work."
+        }
+      },
+      {
+        "id": "genre-cosmic-header-slide_2",
+        "component": {
+          "id": "marketing-format:slide-header-entity",
+          "category": "card"
+        },
+        "metadata": {
+          "uri": "spotify:playlist:37i9dQZF1DX2rcqmLx0nK4"
+        },
+        "images": {
+          "main": {
+            "uri": "https://pl.scdn.co/images/pl/default/49c61dce490f7fe52825793a9c63b66aaa28858a"
+          },
+          "background": {
+            "uri": "https://edison-dev.scdn.co/nmf-cosmic/entity-bg.png"
+          }
+        },
+        "text": {
+          "title": "Capricorn",
+          "subtitle": "What you start now has wings and wind beneath them.",
+          "accessory": "Featured playlist"
+        },
+        "custom": {
+          "accentColor": "#e3e4df",
+          "appearance": "dark"
+        }
+      },
+      {
+        "id": "genre-cosmic-header-slide_3",
+        "component": {
+          "id": "marketing-format:slide-header-playable-entity",
+          "category": "card"
+        },
+        "metadata": {
+          "uri": "spotify:episode:1dVig1DCsma4mPtmJvOxU6"
+        },
+        "images": {
+          "main": {
+            "uri": "spotify:image:45d16566d4de9f09a7b2ada5faaa32da100076d6"
+          },
+          "background": {
+            "uri": "https://edison-dev.scdn.co/nmf-cosmic/playable-entity-bg.jpg"
+          }
+        },
+        "text": {
+          "title": "January 9, 2020",
+          "subtitle": "Capricorn Today • 15 episodes",
+          "description": "It's CAPRICORN Season! Listen to today's episode for your readings for life, love, and inner peace in your season.",
+          "accessory": "New podcast episode"
+        },
+        "custom": {
+          "accentColor": "#503750",
+          "secondaryAccentColor": "#509bf5",
+          "appearance": "light"
+        }
+      },
+      {
+        "id": "genre-cosmic-header-share",
+        "component": {
+          "id": "marketing-format:slide-header-share",
+          "category": "card"
+        },
+        "text": {
+          "title": "Cosmic",
+          "subtitle": "Your horoscope now comes with its own playlist, created monthly by Chani Nicholas.",
+          "description": "Your horoscope now comes with its own playlist."
+        },
+        "images": {
+          "main": {}
+        },
+        "custom": {
+          "entityUri": "spotify:genre:cosmic",
+          "shareImageUri": "https://pl.scdn.co/images/pl/default/1f879976823410aa0419c1ff9e48a935cf1fd6ba",
+          "contextUri": "spotify:nmf:hub",
+          "dialogImageUri": "https://pl.scdn.co/images/pl/default/1f879976823410aa0419c1ff9e48a935cf1fd6ba"
+        }
+      }
+    ]
+  },
+  "body": [
+    {
+      "id": "cosmic-playlist",
+      "component": {
+        "id": "glue:sectionHeader",
+        "category": "header"
+      },
+      "text": {
+        "title": "Your sign"
+      }
+    },
+    {
+      "id": "cosmic-playlist_row",
+      "component": {
+        "id": "glue2:imageRow",
+        "category": "row"
+      },
+      "text": {
+        "title": "Libra",
+        "subtitle": "81,153 followers",
+        "description": "Eclipse season's emotional tides have an intense undertow."
+      },
+      "images": {
+        "main": {
+          "uri": "https://pl.scdn.co/images/pl/default/6cffe2fe02d53a550c9cebf74d743d2581ebf5ee",
+          "placeholder": "playlist"
+        }
+      },
+      "metadata": {
+        "uri": "spotify:playlist:37i9dQZF1DXco4NYQOMLiT"
+      },
+      "custom": {
+        "accessoryRightIcon": "SPTIconChevronRight"
+      },
+      "events": {
+        "click": {
+          "name": "navigate",
+          "data": {
+            "uri": "spotify:playlist:37i9dQZF1DXco4NYQOMLiT"
+          }
+        }
+      }
+    },
+    {
+      "id": "cosmic-playlists-blurb",
+      "component": {
+        "id": "marketing-format:blurb-card",
+        "category": "card"
+      },
+      "text": {
+        "title": "Happy December! Jupiter has just entered Capricorn,  joining Pluto, Saturn, and the south node. These are important times wherein which we can make a long-lasting impact. Your December 2019 horoscopes focus on these themes and are published with a companion Cosmic Playlist that I curate in collaboration with Spotify. They are made with a lot of love and magic and we hope they help you cultivate more of the same.",
+        "subtitle": "— Chani Nicholas"
+      },
+      "images": {
+        "main": {
+          "uri": "https://edison-dev.scdn.co/nmf-cosmic/blurb-bg.png"
+        }
+      }
+    },
+    {
+      "id": "cosmic-playlists-all",
+      "component": {
+        "id": "glue:sectionHeader",
+        "category": "header"
+      },
+      "text": {
+        "title": "All signs"
+      }
+    },
+    {
+      "id": "cosmic-playlists_card_0",
+      "component": {
+        "id": "glue2:card",
+        "category": "card"
+      },
+      "text": {
+        "title": "Aries",
+        "subtitle": "76,416 followers",
+        "description": "Satiating success requires a rich inner life."
+      },
+      "images": {
+        "main": {
+          "uri": "https://pl.scdn.co/images/pl/default/cce474e606c13e1ef081e818a74533517f3a92ac",
+          "placeholder": "playlist"
+        }
+      },
+      "custom": {
+        "subtitleStyle": "metadata"
+      },
+      "metadata": {
+        "uri": "spotify:playlist:37i9dQZF1DX2DC3Q7JOmYe"
+      },
+      "events": {
+        "click": {
+          "name": "navigate",
+          "data": {
+            "uri": "spotify:playlist:37i9dQZF1DX2DC3Q7JOmYe"
+          }
+        }
+      }
+    },
+    {
+      "id": "cosmic-playlists_card_1",
+      "component": {
+        "id": "glue2:card",
+        "category": "card"
+      },
+      "text": {
+        "title": "Taurus",
+        "subtitle": "81,028 followers",
+        "description": "Take the time you need before responding."
+      },
+      "images": {
+        "main": {
+          "uri": "https://pl.scdn.co/images/pl/default/1f879976823410aa0419c1ff9e48a935cf1fd6ba",
+          "placeholder": "playlist"
+        }
+      },
+      "custom": {
+        "subtitleStyle": "metadata"
+      },
+      "metadata": {
+        "uri": "spotify:playlist:37i9dQZF1DXbCgDGG5xQtb"
+      },
+      "events": {
+        "click": {
+          "name": "navigate",
+          "data": {
+            "uri": "spotify:playlist:37i9dQZF1DXbCgDGG5xQtb"
+          }
+        }
+      }
+    },
+    {
+      "id": "cosmic-playlists_card_2",
+      "component": {
+        "id": "glue2:card",
+        "category": "card"
+      },
+      "text": {
+        "title": "Gemini",
+        "subtitle": "78,771 followers",
+        "description": "Get real about your numbers."
+      },
+      "images": {
+        "main": {
+          "uri": "https://pl.scdn.co/images/pl/default/9f754cf32ecb3e3c1bdfe487a0fe2e5549d710bb",
+          "placeholder": "playlist"
+        }
+      },
+      "custom": {
+        "subtitleStyle": "metadata"
+      },
+      "metadata": {
+        "uri": "spotify:playlist:37i9dQZF1DWWVULl5wUsL9"
+      },
+      "events": {
+        "click": {
+          "name": "navigate",
+          "data": {
+            "uri": "spotify:playlist:37i9dQZF1DWWVULl5wUsL9"
+          }
+        }
+      }
+    },
+    {
+      "id": "cosmic-playlists_card_3",
+      "component": {
+        "id": "glue2:card",
+        "category": "card"
+      },
+      "text": {
+        "title": "Cancer",
+        "subtitle": "82,251 followers",
+        "description": "2020 starts off by shining the spotlight on you."
+      },
+      "images": {
+        "main": {
+          "uri": "https://pl.scdn.co/images/pl/default/19e0add47dc06195fe15d87bb2231eea845c8b81",
+          "placeholder": "playlist"
+        }
+      },
+      "custom": {
+        "subtitleStyle": "metadata"
+      },
+      "metadata": {
+        "uri": "spotify:playlist:37i9dQZF1DXaeX3MJpiD4U"
+      },
+      "events": {
+        "click": {
+          "name": "navigate",
+          "data": {
+            "uri": "spotify:playlist:37i9dQZF1DXaeX3MJpiD4U"
+          }
+        }
+      }
+    },
+    {
+      "id": "cosmic-playlists_card_4",
+      "component": {
+        "id": "glue2:card",
+        "category": "card"
+      },
+      "text": {
+        "title": "Leo",
+        "subtitle": "80,958 followers",
+        "description": "Focus on what thrills and funds you."
+      },
+      "images": {
+        "main": {
+          "uri": "https://pl.scdn.co/images/pl/default/075531b2412483b8dd6940e738ac8b8524e3529c",
+          "placeholder": "playlist"
+        }
+      },
+      "custom": {
+        "subtitleStyle": "metadata"
+      },
+      "metadata": {
+        "uri": "spotify:playlist:37i9dQZF1DX7cvHpkIJFt2"
+      },
+      "events": {
+        "click": {
+          "name": "navigate",
+          "data": {
+            "uri": "spotify:playlist:37i9dQZF1DX7cvHpkIJFt2"
+          }
+        }
+      }
+    },
+    {
+      "id": "cosmic-playlists_card_5",
+      "component": {
+        "id": "glue2:card",
+        "category": "card"
+      },
+      "text": {
+        "title": "Virgo",
+        "subtitle": "81,216 followers",
+        "description": "Serve your creations the best of what you have to offer."
+      },
+      "images": {
+        "main": {
+          "uri": "https://pl.scdn.co/images/pl/default/f4c27a9c938590e63de9c04efabd5d65f3d645c7",
+          "placeholder": "playlist"
+        }
+      },
+      "custom": {
+        "subtitleStyle": "metadata"
+      },
+      "metadata": {
+        "uri": "spotify:playlist:37i9dQZF1DX6PdsVYbP4rI"
+      },
+      "events": {
+        "click": {
+          "name": "navigate",
+          "data": {
+            "uri": "spotify:playlist:37i9dQZF1DX6PdsVYbP4rI"
+          }
+        }
+      }
+    },
+    {
+      "id": "cosmic-playlists_card_6",
+      "component": {
+        "id": "glue2:card",
+        "category": "card"
+      },
+      "text": {
+        "title": "Libra",
+        "subtitle": "81,153 followers",
+        "description": "Eclipse season's emotional tides have an intense undertow."
+      },
+      "images": {
+        "main": {
+          "uri": "https://pl.scdn.co/images/pl/default/6cffe2fe02d53a550c9cebf74d743d2581ebf5ee",
+          "placeholder": "playlist"
+        }
+      },
+      "custom": {
+        "subtitleStyle": "metadata"
+      },
+      "metadata": {
+        "uri": "spotify:playlist:37i9dQZF1DXco4NYQOMLiT"
+      },
+      "events": {
+        "click": {
+          "name": "navigate",
+          "data": {
+            "uri": "spotify:playlist:37i9dQZF1DXco4NYQOMLiT"
+          }
+        }
+      }
+    },
+    {
+      "id": "cosmic-playlists_card_7",
+      "component": {
+        "id": "glue2:card",
+        "category": "card"
+      },
+      "text": {
+        "title": "Scorpio",
+        "subtitle": "96,162 followers",
+        "description": "Cleanse your mind of the beliefs that don't support you."
+      },
+      "images": {
+        "main": {
+          "uri": "https://pl.scdn.co/images/pl/default/ee0aa1088b0162a5bbbc68974ab9ca3014c8c14a",
+          "placeholder": "playlist"
+        }
+      },
+      "custom": {
+        "subtitleStyle": "metadata"
+      },
+      "metadata": {
+        "uri": "spotify:playlist:37i9dQZF1DX0YZgrwmizcR"
+      },
+      "events": {
+        "click": {
+          "name": "navigate",
+          "data": {
+            "uri": "spotify:playlist:37i9dQZF1DX0YZgrwmizcR"
+          }
+        }
+      }
+    },
+    {
+      "id": "cosmic-playlists_card_8",
+      "component": {
+        "id": "glue2:card",
+        "category": "card"
+      },
+      "text": {
+        "title": "Sagittarius",
+        "subtitle": "78,214 followers",
+        "description": "2020 asks you to count your blessings."
+      },
+      "images": {
+        "main": {
+          "uri": "https://pl.scdn.co/images/pl/default/f32dc10ea1fd7bbe020ce06b3eb1dd3c406eb5ce",
+          "placeholder": "playlist"
+        }
+      },
+      "custom": {
+        "subtitleStyle": "metadata"
+      },
+      "metadata": {
+        "uri": "spotify:playlist:37i9dQZF1DX93MXPufCcuk"
+      },
+      "events": {
+        "click": {
+          "name": "navigate",
+          "data": {
+            "uri": "spotify:playlist:37i9dQZF1DX93MXPufCcuk"
+          }
+        }
+      }
+    },
+    {
+      "id": "cosmic-playlists_card_9",
+      "component": {
+        "id": "glue2:card",
+        "category": "card"
+      },
+      "text": {
+        "title": "Capricorn",
+        "subtitle": "69,885 followers",
+        "description": "Eclipse season helps you make room for your rebirth."
+      },
+      "images": {
+        "main": {
+          "uri": "https://pl.scdn.co/images/pl/default/49c61dce490f7fe52825793a9c63b66aaa28858a",
+          "placeholder": "playlist"
+        }
+      },
+      "custom": {
+        "subtitleStyle": "metadata"
+      },
+      "metadata": {
+        "uri": "spotify:playlist:37i9dQZF1DX2rcqmLx0nK4"
+      },
+      "events": {
+        "click": {
+          "name": "navigate",
+          "data": {
+            "uri": "spotify:playlist:37i9dQZF1DX2rcqmLx0nK4"
+          }
+        }
+      }
+    },
+    {
+      "id": "cosmic-playlists_card_10",
+      "component": {
+        "id": "glue2:card",
+        "category": "card"
+      },
+      "text": {
+        "title": "Aquarius",
+        "subtitle": "81,101 followers",
+        "description": "Purge the professional patterns that impede your progress."
+      },
+      "images": {
+        "main": {
+          "uri": "https://pl.scdn.co/images/pl/default/29f441389b87bec3d512e13b24dca72d3a8a0786",
+          "placeholder": "playlist"
+        }
+      },
+      "custom": {
+        "subtitleStyle": "metadata"
+      },
+      "metadata": {
+        "uri": "spotify:playlist:37i9dQZF1DX7F9VDRJOFhw"
+      },
+      "events": {
+        "click": {
+          "name": "navigate",
+          "data": {
+            "uri": "spotify:playlist:37i9dQZF1DX7F9VDRJOFhw"
+          }
+        }
+      }
+    },
+    {
+      "id": "cosmic-playlists_card_11",
+      "component": {
+        "id": "glue2:card",
+        "category": "card"
+      },
+      "text": {
+        "title": "Pisces",
+        "subtitle": "84,498 followers",
+        "description": "Your need for pleasure becomes crystal clear."
+      },
+      "images": {
+        "main": {
+          "uri": "https://pl.scdn.co/images/pl/default/be42d4210cf8fc7929553d3e7dcbd2148a0a305b",
+          "placeholder": "playlist"
+        }
+      },
+      "custom": {
+        "subtitleStyle": "metadata"
+      },
+      "metadata": {
+        "uri": "spotify:playlist:37i9dQZF1DWX0EDWtabVRv"
+      },
+      "events": {
+        "click": {
+          "name": "navigate",
+          "data": {
+            "uri": "spotify:playlist:37i9dQZF1DWX0EDWtabVRv"
+          }
+        }
+      }
+    }
+  ],
+  "custom": {
+    "navigationBarState": "hiddenWithControls",
+    "pageIdentifier": "genre/cosmic"
+  }
+}
