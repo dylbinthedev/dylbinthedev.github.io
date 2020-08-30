@@ -205,6 +205,21 @@ Author: lordscotland
 Name: MTerminal iOS 7-13
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mterminalDp
 
+Package: Big Sur Theme
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/BigSurTheme.deb
+Size: 4792996
+MD5sum: bc4215fbaf33d7dc8e5114ede94bc0f5
+SHA1: 94f513013b778f1557d9b445be4ba7fdbd42bf02
+SHA256: 1a2815dacb6e280f3bb3951c03a1fa4113d2faae5b56211464f867a7054c3c83
+Section: Themes
+Description: Ports macOS Big Sur icons to iOS
+Author: alt03b1
+Name: Big Sur Theme
+
 
 
 
