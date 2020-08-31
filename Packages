@@ -341,6 +341,21 @@ Description: Enables background refresh in Cydia to pre-load repositories in the
 Author: SarahH12099
 Name: CydiaBackgroundRefresh
 
+Package: net.hollr2099.speedtestpp
+Version: 1.0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/SpeedTestPlus.deb
+Size: 3574
+MD5sum: 632ab742962b71920bbc4e262d2e2e06
+SHA1: 1bfbc5c4fee6354a1042c1ef65e1b7b23097f482
+SHA256: 2c4fdcec01e920242e5cead940d0e14d91074fb7feb41475f0a5f5e58994fb63
+Section: Tweaks
+Description: Removes ads in SpeedTest app
+Author: SarahH12099
+Name: Speedtest++
+
 
 
 
