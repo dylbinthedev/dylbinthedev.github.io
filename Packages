@@ -266,6 +266,22 @@ Description: No video ads in Twitch
 Author: SarahH12099
 Name: Twitch++
 
+Package: net.hollr2099.adguardpp
+Version: 1.0.0.2
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/TwitchPlus.deb
+Size: 3910
+MD5sum: 8f18e29a2970ff68516cab42614cd572
+SHA1: c471cae7f56f7a241199b42949512af0953de0b5
+SHA256: f61d54670a2a461cf7b52d6c5009baac43ed5e443672e62f4b5ff037fd2b2613
+Section: Tweaks
+Description: Free Premium in Adguard
+Author: SarahH12099
+Name: Adguard++
+
+
 
 
 
