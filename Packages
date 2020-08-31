@@ -311,6 +311,21 @@ Description: No ads, high quality enabled and dev mode enabled
 Author: SarahH12099
 Name: SoundCloud++
 
+Package: net.hollr2099.lastpasspp
+Version: 1.0.0.0
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/LastPassPlus.deb
+Size: 3038
+MD5sum: 399d3792a5c143ccc7184307d637b2f4
+SHA1: 495cf53266aadc4e3c572e93b2b0d979968d0719
+SHA256: a2c1df9682f5922a70578b54b181cc52954711e2e5d9f2ba10915d7194dd6b4b
+Section: Tweaks
+Description: Free Premium in LastPass
+Author: SarahH12099
+Name: LastPass++
+
 
 
 
