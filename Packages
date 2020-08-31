@@ -251,6 +251,21 @@ Description: No Ads and highest quality enabled for Crunchyroll.
 Author: SarahH12099
 Name: Crunchyroll++
 
+Package: net.hollr2099.twitchpp
+Version: 1.0.1.2
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/TwitchPlus.deb
+Size: 3810
+MD5sum: 01dfdb7a6dc9cd923d649d91dbfaa706
+SHA1: 8fd49444dd15d48e666ee6fb7c1a493bc5e093a6
+SHA256: a7e78e79dc5aad736b19a80f25c25c00a2c850da39405720709a16aea52c3c62
+Section: Tweaks
+Description: No video ads in Twitch
+Author: SarahH12099
+Name: Twitch++
+
 
 
 
