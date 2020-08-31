@@ -271,7 +271,7 @@ Version: 1.0.0.2
 Architecture: iphoneos-arm
 Maintainer: Dylan Elmbark
 Depends:
-Filename: /debs/TwitchPlus.deb
+Filename: /debs/AdguardPlus.deb
 Size: 3910
 MD5sum: 8f18e29a2970ff68516cab42614cd572
 SHA1: c471cae7f56f7a241199b42949512af0953de0b5
@@ -280,6 +280,21 @@ Section: Tweaks
 Description: Free Premium in Adguard
 Author: SarahH12099
 Name: Adguard++
+
+Package: net.hollr2099.comicboxpp
+Version: 1.0.0.0
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/ComicBoxPlus.deb
+Size: 4538
+MD5sum: 3b9327ab6dda695c4a21de5a43aa07a5
+SHA1: 694c351d183dac8312aa88293d2dcd6039699acd
+SHA256: ac5ee8567fd8baaca0b981b89ccb51ae5f25d02f0112956e20fd56fcedd1c097
+Section: Tweaks
+Description: Removes ComicBox ads and enables premium features.
+Author: SarahH12099
+Name: ComicBox++
 
 
 
