@@ -431,7 +431,7 @@ Section: Games
 Description: Updated version of FlappyBird! Works on iOS 7 up to 14, supports both 32-bit and 64-bit devices.
 Author: Brandon Plank
 Name: Flappy Bird
-Icon: https://dylbinthedev.github.io/icons/org.brandonplank.flappybird
+Icon: https://dylbinthedev.github.io/icons/org.brandonplank.flappybird.png
 
 Package: com.thatmarcel.tweaks.docktyle
 Version: 1.1.1
@@ -447,7 +447,23 @@ Section: Tweaks
 Description: Unlock other dock styles Change your dock to a gradient, another iOS style or hide it completely. For an even cleaner home screen, you can also hide page dots.
 Author: Marcel Braun
 Name: Docktyle
-Icon: https://dylbinthedev.github.io/icons/com.thatmarcel.tweaks.docktyle
+Icon: https://dylbinthedev.github.io/icons/com.thatmarcel.tweaks.docktyle.png
+
+Package: tech.kodeycodesstuff.spotifyblue
+Version: 1.4-b
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/SpotifyBlue.deb
+Size: 89974
+MD5sum: 327f67e3e9847731af562ec7caa9f93b
+SHA1: 9de44340ac0b079106d6e4b2e999506ccde324ad
+SHA256: d6e7f56dc05ddfe68b9a3171a0a1191937bec054347ae6a1352757183c10b9c1
+Section: Tweaks
+Description: Blue themed Spotify!
+Author: Kodey Thomas
+Name: SpotifyBlue
+Icon: https://dylbinthedev.github.io/icons/tech.kodeycodesstuff.spotifyblue.png
 
 
 
