@@ -326,6 +326,21 @@ Description: Free Premium in LastPass
 Author: SarahH12099
 Name: LastPass++
 
+Package: net.hollr2099.cydiabackgroundrefresh
+Version: 1.0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/CydiaBackgroundRefresh.deb
+Size: 2678
+MD5sum: 86d9ffb3dfad4e43371898c6a649aa09
+SHA1: 368dd8e6a315e57511fb4194dbaee9abf7289486
+SHA256: 201e9ba12067f6d6d21f4708348c7bc7c932de8e1087bb6725a54e404cef66e4
+Section: Tweaks
+Description: Enables background refresh in Cydia to pre-load repositories in the background.
+Author: SarahH12099
+Name: CydiaBackgroundRefresh
+
 
 
 
