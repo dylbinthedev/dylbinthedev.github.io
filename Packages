@@ -433,6 +433,22 @@ Author: Brandon Plank
 Name: Flappy Bird
 Icon: https://dylbinthedev.github.io/icons/org.brandonplank.flappybird
 
+Package: com.thatmarcel.tweaks.docktyle
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/DockTyle.deb
+Size: 21524
+MD5sum: 8dc511c9817ee3faa0c2c907c056edc3
+SHA1: 1f2b9985e06226cd0070f26830d8a6c2bf8be59d
+SHA256: a72f45392fcd1050bf5cddc7cd970ccebdeb56f23eeb3fb564dd71393022554e
+Section: Tweaks
+Description: Unlock other dock styles Change your dock to a gradient, another iOS style or hide it completely. For an even cleaner home screen, you can also hide page dots.
+Author: Marcel Braun
+Name: Docktyle
+Icon: https://dylbinthedev.github.io/icons/com.thatmarcel.tweaks.docktyle
+
 
 
 
