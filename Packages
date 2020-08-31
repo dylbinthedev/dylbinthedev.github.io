@@ -386,6 +386,22 @@ Description: Free Pro for Infuse 6
 Author: SarahH12099
 Name: Infuse 6++
 
+Package: net.hollr2099.zinitevipp
+Version: 1.0.0.0
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/ZiniTVPlus.deb
+Size: 3912
+MD5sum: f9b80565b82a4010311939a3b45c88a6
+SHA1: 882472d89effb68dcad70f2e393b32ae3d4411e1
+SHA256: 60d87c08443b3c06d1ff9009799980557759dc570b53830ef4a3872bb0e3d8a6
+Section: Tweaks
+Description: No Ads and bypass ad limit tracking on ZiniTV
+Author: SarahH12099
+Name: ZiniTV++
+
+
 
 
 
