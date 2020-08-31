@@ -417,6 +417,22 @@ Author: ZiniTV Team
 Name: ZiniTV (App)
 Icon: https://dylbinthedev.github.io/icons/com.zini.jb.png
 
+Package: org.brandonplank.flappybird
+Version: 3.8
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/FlappyBird.deb
+Size: 66376364
+MD5sum: b8088e73787499d879e90dae0cb0fa24
+SHA1: 9e54090bd0bee10b1ac2c89ee1cd62b98324f2f4
+SHA256: ef8504838a57fee5173dbc5ce15b09209be54f81353481dcc0414230c9a930aa
+Section: Games
+Description: Updated version of FlappyBird! Works on iOS 7 up to 14, supports both 32-bit and 64-bit devices.
+Author: Brandon Plank
+Name: Flappy Bird
+Icon: https://dylbinthedev.github.io/icons/org.brandonplank.flappybird
+
 
 
 
