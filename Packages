@@ -356,6 +356,36 @@ Description: Removes ads in SpeedTest app
 Author: SarahH12099
 Name: Speedtest++
 
+Package: net.hollr2099.infuse5pp
+Version: 1.0.0.0
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/Infuse5Plus.deb
+Size: 3812
+MD5sum: a18fe70401ac10a167e7529fedfabfea
+SHA1: bff33167d49c04fcf4ae33b7d6efc34d157478c0
+SHA256: 4f96472811d1a88e4a300a997351d14242e4036f7c33e6b54ae3535ae78e3b20
+Section: Tweaks
+Description: Free Pro for Infuse 5
+Author: SarahH12099
+Name: Infuse 5++
+
+Package: net.hollr2099.infuse6pp
+Version: 1.0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/Infuse6Plus.deb
+Size: 3234
+MD5sum: 6ff2bdccfe8a3cfdd1c282c961d63c94
+SHA1: 15a40a9b391189bbc1c6a023112db515d3ee1d05
+SHA256: 467d08d0fd81707b5610bb3e07acda1b8155b26303e0a5a01f383eb1ce4623ab
+Section: Tweaks
+Description: Free Pro for Infuse 6
+Author: SarahH12099
+Name: Infuse 6++
+
 
 
 
