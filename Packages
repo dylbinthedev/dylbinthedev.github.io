@@ -221,7 +221,20 @@ Author: SarahH12099
 Name: YouTube Reborn
 Conflicts: com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers
 
-
+Package: net.hollr2099.adobepremiererushccpp
+Version: 1.0.0.0
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/AdobeRush.deb
+Size: 3572
+MD5sum: 79bc240cf7d164f642a9cfb6281fcb6f
+SHA1: 003b29bcea0bf6ba3ec303b770ef8a1b6c401374
+SHA256: 3468da3d938b000d543339a4950d763cd74154fbbed496f1c40cf9fe063a3120
+Section: Tweaks
+Description: Free Adobe Premiere Rush subscription
+Author: SarahH12099
+Name: Adobe Premiere Rush CC++
 
 
 
