@@ -236,6 +236,22 @@ Description: Free Adobe Premiere Rush subscription
 Author: SarahH12099
 Name: Adobe Premiere Rush CC++
 
+Package: net.hollr2099.crunchyrollpp
+Version: 1.0.0.3
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/CrunchyRoll.deb
+Size: 4302
+MD5sum: 55fa51965604e9b923864d5cdd64bb6b
+SHA1: 23d7e704fafd270a16eb588dc363d3db25a606f0
+SHA256: 18d5ef2310ce375c4aea8ad876da3f426a112bfb2e7d7465146631091b11bad8
+Section: Tweaks
+Description: No Ads and highest quality enabled for Crunchyroll.
+Author: SarahH12099
+Name: Crunchyroll++
+
+
 
 
 
