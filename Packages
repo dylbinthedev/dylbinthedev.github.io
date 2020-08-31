@@ -205,21 +205,21 @@ Author: lordscotland
 Name: MTerminal iOS 7-13
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mterminalDp
 
-Package: Big Sur Theme
-Version: 1.0.1
+Package: com.twickd.sarahh12099.youtube-reborn
+Version: 1.0.4.4
 Architecture: iphoneos-arm
 Maintainer: Dylan Elmbark
-Depends:
-Filename: /debs/BigSurTheme.deb
-Size: 4792996
-MD5sum: bc4215fbaf33d7dc8e5114ede94bc0f5
-SHA1: 94f513013b778f1557d9b445be4ba7fdbd42bf02
-SHA256: 1a2815dacb6e280f3bb3951c03a1fa4113d2faae5b56211464f867a7054c3c83
-Section: Themes
-Description: Ports macOS Big Sur icons to iOS
-Author: alt03b1
-Name: Big Sur Theme
-
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 11.0)
+Filename: /debs/YouTubeReborn.deb
+Size: 38032
+MD5sum: 11c59b2ac3a641d46fbc3ed0b681bd42
+SHA1: 24298ff0032015173ed38cba74901fd1e4102aeb
+SHA256: a02b59a4b8d22799747d7069e867c0b151a2ac61ee7ca5de6d3dcb5dbfe9ad4a
+Section: Tweaks
+Description: A more lightweight/up-to date version of Youtube++. Supports iOS 11 up to 13
+Author: SarahH12099
+Name: YouTube Reborn
+Conflicts: com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers
 
 
 

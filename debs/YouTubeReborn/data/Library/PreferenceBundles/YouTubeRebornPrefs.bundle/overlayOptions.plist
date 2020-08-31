@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>net.sarahh12099.youtuberebornprefs</string>
+			<key>key</key>
+			<string>ShowStatusBarInOverlay</string>
+			<key>label</key>
+			<string>Show Status Bar In Overlay (Portrait Only)</string>
+			<key>PostNotification</key>
+			<string>net.sarahh12099.youtuberebornprefs.prefschanged</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>net.sarahh12099.youtuberebornprefs</string>
+			<key>key</key>
+			<string>HidePreviousAndNextButtonInOverlay</string>
+			<key>label</key>
+			<string>Hide Previous &amp; Next Button In Overlay</string>
+			<key>PostNotification</key>
+			<string>net.sarahh12099.youtuberebornprefs.prefschanged</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>net.sarahh12099.youtuberebornprefs</string>
+			<key>key</key>
+			<string>DisableRelatedVideosInOverlay</string>
+			<key>label</key>
+			<string>Disable Related Videos In Overlay</string>
+			<key>PostNotification</key>
+			<string>net.sarahh12099.youtuberebornprefs.prefschanged</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>net.sarahh12099.youtuberebornprefs</string>
+			<key>key</key>
+			<string>HideShareButtonInOverlay</string>
+			<key>label</key>
+			<string>Hide Share Button In Overlay</string>
+			<key>PostNotification</key>
+			<string>net.sarahh12099.youtuberebornprefs.prefschanged</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>net.sarahh12099.youtuberebornprefs</string>
+			<key>key</key>
+			<string>HideOverlayDarkBackground</string>
+			<key>label</key>
+			<string>Hide Overlay Dark Background</string>
+			<key>PostNotification</key>
+			<string>net.sarahh12099.youtuberebornprefs.prefschanged</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Overlay</string>
+</dict>
+</plist>

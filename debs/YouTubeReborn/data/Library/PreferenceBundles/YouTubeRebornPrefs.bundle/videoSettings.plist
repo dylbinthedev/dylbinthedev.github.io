@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>net.sarahh12099.youtuberebornprefs</string>
+			<key>key</key>
+			<string>NoVideoAds</string>
+			<key>label</key>
+			<string>No Video Ads</string>
+			<key>PostNotification</key>
+			<string>net.sarahh12099.youtuberebornprefs.prefschanged</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>net.sarahh12099.youtuberebornprefs</string>
+			<key>key</key>
+			<string>BackgroundPlayback</string>
+			<key>label</key>
+			<string>Enable Background Playback</string>
+			<key>PostNotification</key>
+			<string>net.sarahh12099.youtuberebornprefs.prefschanged</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>net.sarahh12099.youtuberebornprefs</string>
+			<key>key</key>
+			<string>AllowHDOnCellularData</string>
+			<key>label</key>
+			<string>Allow HD On Cellular Data</string>
+			<key>PostNotification</key>
+			<string>net.sarahh12099.youtuberebornprefs.prefschanged</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>net.sarahh12099.youtuberebornprefs</string>
+			<key>key</key>
+			<string>DisableVideoEndscreenPopups</string>
+			<key>label</key>
+			<string>Disable Video Endscreen Popups</string>
+			<key>PostNotification</key>
+			<string>net.sarahh12099.youtuberebornprefs.prefschanged</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>net.sarahh12099.youtuberebornprefs</string>
+			<key>key</key>
+			<string>DisableVideoAutoPlay</string>
+			<key>label</key>
+			<string>Disable Video AutoPlay</string>
+			<key>PostNotification</key>
+			<string>net.sarahh12099.youtuberebornprefs.prefschanged</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>net.sarahh12099.youtuberebornprefs</string>
+			<key>key</key>
+			<string>DisableDoubleTapToSkip</string>
+			<key>label</key>
+			<string>Disable Double Tap To Skip</string>
+			<key>PostNotification</key>
+			<string>net.sarahh12099.youtuberebornprefs.prefschanged</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>net.sarahh12099.youtuberebornprefs</string>
+			<key>key</key>
+			<string>DisableAgeRestriction</string>
+			<key>label</key>
+			<string>Disable Age Restriction</string>
+			<key>PostNotification</key>
+			<string>net.sarahh12099.youtuberebornprefs.prefschanged</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>net.sarahh12099.youtuberebornprefs</string>
+			<key>key</key>
+			<string>AlwaysShowPlayerBar</string>
+			<key>label</key>
+			<string>Always Show Player Bar</string>
+			<key>PostNotification</key>
+			<string>net.sarahh12099.youtuberebornprefs.prefschanged</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Video</string>
+</dict>
+</plist>
