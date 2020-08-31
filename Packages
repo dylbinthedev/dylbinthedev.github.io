@@ -296,6 +296,20 @@ Description: Removes ComicBox ads and enables premium features.
 Author: SarahH12099
 Name: ComicBox++
 
+Package: net.hollr2099.soundcloudpp
+Version: 1.0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/SoundCloudPlus.deb
+Size: 43938
+MD5sum: be690e88fd51e68cecc497394c7e9e8c
+SHA1: 3de6a37fa27d90a4fbb0c95fc8d8f3cad8824d7f
+SHA256: 665a020c15cecbfec48128f574439dffb38077be0ecdcbc65c54753fe65a4f94
+Section: Tweaks
+Description: No ads, high quality enabled and dev mode enabled
+Author: SarahH12099
+Name: SoundCloud++
 
 
 
