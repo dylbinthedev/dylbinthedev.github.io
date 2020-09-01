@@ -112,20 +112,20 @@ Name: MediaBox HD
 Icon: https://dylbinthedev.github.io/icons/mediaplayer.box.ios3.png
 
 Package: com.antique.popcorn
-Version: 2.1
+Version: 2.1.6
 Architecture: iphoneos-arm
 Maintainer: Dylan Elmbark
 Depends:
 Filename: /debs/Popcorn.deb
-Size: 23445406
-MD5sum: 2f01b2aba8a81f96e40b70062391b974
-SHA1: 0e48408072a1a2420f04ad2329c7ccca9f30257a
-SHA256: 4ebeab849d4d148c8cd145138bed51374fc0b68f79b2dc6a8c966f58a2db06e5
+Size: 41106366
+MD5sum: 51249303b2f31d82f9ec8d15aedf0134
+SHA1: 28bb1cd5c197c049e7f9c175fd5942d2afe22058
+SHA256: fdeb9b0aaa98291ae2b8555c1c57839d5d42aeeac04a032b1159ae7500cc9696
 Section: Multimedia
 Description: Spiritual successor to PopcornTime, supports iOS/iPadOS 13-14, run uicache or ldrestart in MTerminal/NewTerm if the icon doesn't show up!
 Author: Antique
 Name: Popcorn
-Icon: file:///Applications/Popcorn.app/oldpopcorn@2x.png
+Icon: https://dylbinthedev.github.io/icons/com.antique.popcorn.png
 
 Package: com.hackyouriphone.localiapstore
 Version: 1.4-2
