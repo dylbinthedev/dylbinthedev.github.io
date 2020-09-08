@@ -465,6 +465,21 @@ Author: Kodey Thomas
 Name: SpotifyBlue
 Icon: https://dylbinthedev.github.io/icons/tech.kodeycodesstuff.spotifyblue.png
 
+Package: net.hollr2099.plexpp
+Version: 1.0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/PlexPlus.deb
+Size: 3528
+MD5sum: 9b4e93862d6df8e3af90b87c6f9a313a
+SHA1: 1317da72b4de998b771aea8c3a91c692ac82f509
+SHA256: d5ee446c5c8fd03738644d61dacea0e1c2f7b4f90bd210049c6ac47234358af7
+Section: Tweaks
+Description: Background playback on Plex!
+Author: SarahH12099
+Name: Plex++
+
 
 
 
