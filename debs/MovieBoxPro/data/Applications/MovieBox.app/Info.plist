@@ -18,11 +18,11 @@
       <string>UIInterfaceOrientationLandscapeRight</string>
     </array>
     <key>DTPlatformVersion</key>
-    <string>13.5</string>
+    <string>13.6</string>
     <key>CFBundleName</key>
     <string>MovieBox</string>
     <key>DTSDKName</key>
-    <string>iphoneos13.5</string>
+    <string>iphoneos13.6</string>
     <key>NSPhotoLibraryUsageDescription</key>
     <string>Allow MovieBoxPro save  photo to your library?</string>
     <key>UIViewControllerBasedStatusBarAppearance</key>
@@ -76,11 +76,11 @@
       <string>remote-notification</string>
     </array>
     <key>DTSDKBuild</key>
-    <string>17F65</string>
+    <string>17G64</string>
     <key>NSCameraUsageDescription</key>
     <string>Allow MovieBoxPro access your Camera?</string>
     <key>CFBundleShortVersionString</key>
-    <string>7.4</string>
+    <string>7.6</string>
     <key>CFBundleSupportedPlatforms</key>
     <array>
       <string>iPhoneOS</string>
@@ -96,7 +96,7 @@
     <key>BuildMachineOSBuild</key>
     <string>19E266</string>
     <key>DTPlatformBuild</key>
-    <string>17F65</string>
+    <string>17G64</string>
     <key>BGTaskSchedulerPermittedIdentifiers</key>
     <array>
       <string>com.googleusercontent.apps.939879918880-iivvs1u1i0jk5jviduoja63p1n45cs6n</string>
@@ -106,7 +106,7 @@
     <key>CFBundleDevelopmentRegion</key>
     <string>en</string>
     <key>DTXcodeBuild</key>
-    <string>11E608c</string>
+    <string>11E708</string>
     <key>CFBundleVersion</key>
     <string>1</string>
     <key>MinimumOSVersion</key>
@@ -129,7 +129,7 @@
     <key>CFBundleIdentifier</key>
     <string>com.xd.mbp2</string>
     <key>DTXcode</key>
-    <string>1150</string>
+    <string>1160</string>
     <key>CFBundleExecutable</key>
     <string>MovieBox</string>
     <key>NSAppTransportSecurity</key>
@@ -163,14 +163,6 @@
         <string>Editor</string>
         <key>CFBundleURLSchemes</key>
         <array>
-          <string>prefs</string>
-        </array>
-      </dict>
-      <dict>
-        <key>CFBundleTypeRole</key>
-        <string>Editor</string>
-        <key>CFBundleURLSchemes</key>
-        <array>
           <string>movieboxpro</string>
         </array>
       </dict>
@@ -192,6 +184,6 @@
       </dict>
     </array>
     <key>DTAppStoreToolsBuild</key>
-    <string>11E608c</string>
+    <string>11E708</string>
   </dict>
 </plist>
