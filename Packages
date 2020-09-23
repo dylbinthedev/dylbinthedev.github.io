@@ -480,6 +480,22 @@ Description: Background playback on Plex!
 Author: SarahH12099
 Name: Plex++
 
+Package: NoahEvans.Spork
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/Spork.deb
+Size: 34687048
+MD5sum: a10824ecc7104d1a06827a53978861ab
+SHA1: a1e0324ebd1fc0a4c95ba2229e8ccfbb7e44f5f9
+SHA256: 9f11504abb584d5e5d9a4df37222d52f1981df420e06cb7b9549db5d11218352
+Section: Utilities
+Description: The only app you'll need on your phone. Go on Twitter and give @ThisIsNoahEvans a follow for this amazing app!
+Author: Noah Evans
+Name: Spork
+
+
 
 
 
