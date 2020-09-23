@@ -112,15 +112,15 @@ Name: MediaBox HD
 Icon: https://dylbinthedev.github.io/icons/mediaplayer.box.ios3.png
 
 Package: com.antique.popcorn
-Version: 2.1.8
+Version: 2.2.3
 Architecture: iphoneos-arm
 Maintainer: Dylan Elmbark
 Depends:
 Filename: /debs/Popcorn.deb
-Size: 41114410
-MD5sum: 52036ddc8db7e610a7c195f50a6b7842
-SHA1: 88e7af0b13bb4f90a2a38b92ead5f3f87e1473f2
-SHA256: 46c72f11cd6f05fe2a1b551445aff142ffc18a61b518d1cf7ee535470e461c1b
+Size: 30571968
+MD5sum: 34dca40153d2d49e4f0ab6f32de23302
+SHA1: 55440d7454fc3247fffc81e512ad5a46579d48d8
+SHA256: c655a74199cdc81e1d4d1d34fef025d3572f0c8f4a261bd7658905596d26c034
 Section: Multimedia
 Description: Spiritual successor to PopcornTime, supports iOS/iPadOS 13-14, run uicache or ldrestart in MTerminal/NewTerm if the icon doesn't show up!
 Author: Antique
@@ -190,19 +190,19 @@ Name: Spotilife
 Icon: https://dylbinthedev.github.io/icons/com.spotify.client.png
 
 Package: mterminal
-Version: 1.4-6
+Version: 1.5-2
 Architecture: iphoneos-arm
 Maintainer: Dylan Elmbark
-Depends: bash, coreutils, ncurses, system-cmds
+Depends:
 Filename: /debs/MTerminal.deb
-Size: 108042
-MD5sum: dedfc589450b43d268bfc369d5b2f4c8
-SHA1: c7ede4ad96c384ca5c682c6528e51c60695c5240
-SHA256: 48a4f4f6a3185a1244a4f731329c1911058d114c963674cef65dc66fc18fc527
+Size: 87796
+MD5sum: 60f0f17457459b6591010c20cee1f29a
+SHA1: d273a015f24d981582686c6dfa1b5c31aeaa48f6
+SHA256: c51385b506d1fb829dbccd152b15ea0d1e01a26bb25b1d3d5cf28da674d89057
 Section: Utilities
-Description: A MobileTerminal fork for iOS/iPadOS 7-13
+Description: A MobileTerminal fork, this special version fixes screen resolution issues on iPhone X/XR/XS/11/Pro/Max devices. Also adds basic support for iOS 14
 Author: lordscotland
-Name: MTerminal iOS 7-13
+Name: MTerminal iOS 7-14
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mterminalDp
 
 Package: com.twickd.sarahh12099.youtube-reborn
