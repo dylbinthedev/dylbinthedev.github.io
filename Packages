@@ -61,6 +61,7 @@ Description: Free Movies and TV Shows, works on iOS/iPadOS 10-14, run uicache or
 Author: MovieBoxPro Team
 Name: MovieBox Pro
 Icon: file:///Applications/MovieBox.app/AppIcon60x60@3x.png
+SileoDepiction: https://github.com/dylbinthedev/dylbinthedev.github.io/assets/MovieBox.json
 
 Package: mediaplayer.box.ios3
 Version: 2.4.9.2
@@ -93,36 +94,6 @@ Description: Spiritual successor to PopcornTime, supports iOS/iPadOS 13-14, run 
 Author: Antique
 Name: Popcorn
 Icon: https://dylbinthedev.github.io/icons/com.antique.popcorn.png
-
-Package: com.hackyouriphone.localiapstore
-Version: 1.4-2
-Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
-Depends: mobilesubstrate
-Filename: /debs/InApp12.deb
-Size: 71040
-MD5sum: 922f94a4f4b404e9d06bb18d14286c7e
-SHA1: 2461d2f4e7b13e79c4c1f04c2d533b0099753088
-SHA256: a48720486f30a1c1bf9623b161306b817d2065a8d60bceb1e3f44c6f1b137fba
-Section: Tweaks
-Description: Pwns in-app purchases on iOS 5 to 12
-Author: AnonDev
-Name: LocalIAPStore (Legacy)
-
-Package: com.hackyouriphone.localiapstore13
-Version: 0.0.2
-Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
-Depends: mobilesubstrate
-Filename: /debs/InApp13.deb
-Size: 3730
-MD5sum: 785763058cf6cc82240b7e2d1d51fb3c
-SHA1: e82aee2d837905cfbf89b4edbb9c00d2bcbecd1e
-SHA256: fb9a09fd2f260b0d1098895944737fcd0b41a512001299ca9703199ec7567a8a
-Section: Tweaks
-Description: Pwns in-app purchases on iOS/iPadOS 13.x
-Author: pxcex
-Name: LocalIAPStore (iOS 13+)
 
 Package: com.bkstyle.stylzish
 Version: 1.0.0
