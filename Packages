@@ -30,39 +30,6 @@ Author: iNDS Team
 Name: iNDS (64-bit)
 Icon: https://dylbinthedev.github.io/icons/net.nerd.inds.png
 
-Package: com.michael.dimentio
-Version: 0.6.2
-Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
-Filename: ./debs/Dimentio.deb
-Size: 10728
-MD5sum: 4079552130a35d8645e1ee3eeaa1e8bf
-SHA1: 313e58d3e5338a137061acbb1fc5db77ea3af4a5
-SHA256: 5b78fc73ba0c5349e83ccc3723ef7f8d8dc63c4b876e79ea93d0d71a44193bff
-Section: System
-Description: PoC tool for setting nonce without triggering KPP/KTRR/PAC.
-Author: 0x7ff
-Name: dimentio
-
-Package: com.michael.generatorautosetter
-Version: 0.3.2
-Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
-Depends: firmware (>= 12.3), com.michael.dimentio
-Filename: /debs/checkra1nnonce.deb
-Size: 11284
-MD5sum: 0108078bbcc9394f79811338cd87e09a
-SHA1: 8d3ba7a89e6bc8a6c88f28ca1166557c862c5bbe
-SHA256: b4544377d47638fe9391701db3f14f8fb5b03fbd9f795f0e739c16113cad00a9
-Section: Tweaks
-Description: Auto set your generator when jailbreaking!
- Auto set your generator when jailbreaking!
- Usage: setgenerator [generator]
- If you didn't choose a generator, Generator Auto Setter will set 0x1111111111111111 as default generator.
- Only Support Checkra1n. (Because other jailbreak tool doesn't need that.)
-Author: halo_michael <yc992147156@me.com>
-Name: Nonce Setter for checkra1n
-
 Package: com.spotify.client
 Version: 8.5.51
 Architecture: iphoneos-arm
