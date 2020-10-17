@@ -2,8 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>ALTBundleIdentifier</key>
+	<string>com.rileytestut.Delta.Beta</string>
 	<key>BuildMachineOSBuild</key>
-	<string>19E287</string>
+	<string>19G2021</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDocumentTypes</key>
@@ -134,17 +136,15 @@
 		</dict>
 	</dict>
 	<key>CFBundleIdentifier</key>
-	<string>com.rileytestut.Delta.Beta.65YD56KAPC</string>
+	<string>com.rileytestut.Delta.Beta.NV3R4T9ZYB</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
 	<string>Delta</string>
-	<key>CFBundleNumericVersion</key>
-	<integer>587235328</integer>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.2b2</string>
+	<string>1.2b3</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -191,23 +191,23 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>23</string>
+	<string>24</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>17E8258</string>
+	<string>18B5052f</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>13.4</string>
+	<string>14.2</string>
 	<key>DTSDKBuild</key>
-	<string>17E8258</string>
+	<string>18B5052f</string>
 	<key>DTSDKName</key>
-	<string>iphoneos13.4</string>
+	<string>iphoneos14.2</string>
 	<key>DTXcode</key>
-	<string>1141</string>
+	<string>1220</string>
 	<key>DTXcodeBuild</key>
-	<string>11E503a</string>
+	<string>12B5018i</string>
 	<key>Fabric</key>
 	<dict>
 		<key>APIKey</key>
@@ -417,7 +417,7 @@
 			<key>UTTypeIconFiles</key>
 			<array/>
 			<key>UTTypeIdentifier</key>
-			<string>io.altstore.Installed.com.rileytestut.Delta.Beta.65YD56KAPC</string>
+			<string>io.altstore.Installed.com.rileytestut.Delta.Beta.NV3R4T9ZYB</string>
 			<key>UTTypeTagSpecification</key>
 			<dict/>
 		</dict>

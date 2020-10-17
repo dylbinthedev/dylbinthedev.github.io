@@ -1,13 +1,13 @@
-Package: com.rileytestut.Delta.Beta.65YD56KAPC
-Version: 1.2b2
+Package: com.rileytestut.Delta.Beta.NV3R4T9ZYB
+Version: 1.2b3
 Architecture: iphoneos-arm
 Maintainer: Dylan Elmbark
 Depends:
 Filename: /debs/Delta.deb
-Size: 18492174
-MD5sum: be98166b43e758dbf8593a1ad4fc31a5
-SHA1: 4c34ef98655e9c5b4ea7bccfceb37578715fcd4f
-SHA256: 5389c13b4f49f2b5de9e4316f90c30892788768dd230eb4c242a9b807f0b3f9d
+Size: 15059164
+MD5sum: be352edbadd0877b54752d5cd7f4239c
+SHA1: 8401801ae324fb0026a88d691b03f587f12f782b
+SHA256: 592607327a931f7a87f5787eec40eaec91c687120f5c0d907b8e511a82b52c7a
 Section: Games
 Description: Delta is an multi-emulator for playing GBA/GBC/NDS/N64/SNES/NES games. Supports iOS 12.2-14, run uicache or ldrestart in MTerminal/NewTerm if the icon doesn't show up!
 Author: Riley Testut
@@ -126,22 +126,6 @@ Description: Spotify++ Patch for iOS/iPadOS 7-14, requires Spotify from the App 
 Author: Dylan Elmbark & julioverne
 Name: Spotilife
 Icon: https://dylbinthedev.github.io/icons/com.spotify.client.png
-
-Package: mterminal
-Version: 1.5-2
-Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
-Depends:
-Filename: /debs/MTerminal.deb
-Size: 87796
-MD5sum: 60f0f17457459b6591010c20cee1f29a
-SHA1: d273a015f24d981582686c6dfa1b5c31aeaa48f6
-SHA256: c51385b506d1fb829dbccd152b15ea0d1e01a26bb25b1d3d5cf28da674d89057
-Section: Utilities
-Description: A MobileTerminal fork, this special version fixes screen resolution issues on iPhone X/XR/XS/11/Pro/Max devices. Also adds basic support for iOS 14
-Author: lordscotland
-Name: MTerminal iOS 7-14
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mterminalDp
 
 Package: com.twickd.sarahh12099.youtube-reborn
 Version: 1.0.4.4
@@ -370,22 +354,6 @@ Description: Updated version of FlappyBird! Works on iOS 7 up to 14, supports bo
 Author: Brandon Plank
 Name: Flappy Bird
 Icon: https://dylbinthedev.github.io/icons/org.brandonplank.flappybird.png
-
-Package: com.thatmarcel.tweaks.docktyle
-Version: 1.1.1
-Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
-Depends:
-Filename: /debs/DockTyle.deb
-Size: 21524
-MD5sum: 8dc511c9817ee3faa0c2c907c056edc3
-SHA1: 1f2b9985e06226cd0070f26830d8a6c2bf8be59d
-SHA256: a72f45392fcd1050bf5cddc7cd970ccebdeb56f23eeb3fb564dd71393022554e
-Section: Tweaks
-Description: Unlock other dock styles Change your dock to a gradient, another iOS style or hide it completely. For an even cleaner home screen, you can also hide page dots.
-Author: Marcel Braun
-Name: Docktyle
-Icon: https://dylbinthedev.github.io/icons/com.thatmarcel.tweaks.docktyle.png
 
 Package: tech.kodeycodesstuff.spotifyblue
 Version: 1.4-b
