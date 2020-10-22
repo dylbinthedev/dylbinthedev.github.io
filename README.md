@@ -6,7 +6,7 @@ This is where I upload my packages to be visible in package managers like Cydia,
 
 Simply launch your Package Manager and add a new "Source" then type https://dylbinthedev.github.io/ or click these links.
 
-[Add to Cydia](cydia://url/https://cydia.saurik.com/api/share#?source=https://dylbinthedev.github.io/ "Add to Cydia")
+[Add to Cydia](https://cydia.saurik.com/api/share#?source=https://dylbinthedev.github.io/ "Add to Cydia")
 [Add to Sileo](sileo://source/https://dylbinthedev.github.io/ "Add to Sileo")
 [Add to Installer](installer://add/repo=https://dylbinthedev.github.io/ "Add to Installer")
 [Add to Zebra](zbra://sources/add/https://dylbinthedev.github.io/ "Add to Zebra")
