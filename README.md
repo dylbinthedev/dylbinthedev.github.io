@@ -14,9 +14,9 @@ Most of the packages hosted supports modern versions of iOS/iPadOS being 12.0 an
 
 ## Popular Packages
 
-[MovieBoxPro](cydia://url/https://cydia.saurik.com/api/share#?package=com.xd.mbp2 "MovieBoxPro")
-[AnimeGlareV3](cydia://url/https://cydia.saurik.com/api/share#?package=com.bkstyle.stylzish "AnimeGlareV3")
-[MediaBoxHD](cydia://url/https://cydia.saurik.com/api/share#?package=mediaplayer.box.ios3 "MediaBoxHD")
-[Delta](cydia://url/https://cydia.saurik.com/api/share#?package=com.rileytestut.delta.beta.NV3R4T9ZYB "Delta Beta")
-[Spotilife](cydia://url/https://cydia.saurik.com/api/share#?package=com.julioverne.spotilife "Spotilife")
-[Youtube Reborn](cydia://url/https://cydia.saurik.com/api/share#?package=com.twickd.sarahh12099.youtube-reborn "YouTube Reborn")
+[MovieBoxPro](https://cydia.saurik.com/api/share#?package=com.xd.mbp2 "MovieBoxPro")
+[AnimeGlareV3](https://cydia.saurik.com/api/share#?package=com.bkstyle.stylzish "AnimeGlareV3")
+[MediaBoxHD](https://cydia.saurik.com/api/share#?package=mediaplayer.box.ios3 "MediaBoxHD")
+[Delta](https://cydia.saurik.com/api/share#?package=com.rileytestut.delta.beta.NV3R4T9ZYB "Delta Beta")
+[Spotilife](https://cydia.saurik.com/api/share#?package=com.julioverne.spotilife "Spotilife")
+[Youtube Reborn](https://cydia.saurik.com/api/share#?package=com.twickd.sarahh12099.youtube-reborn "YouTube Reborn")
