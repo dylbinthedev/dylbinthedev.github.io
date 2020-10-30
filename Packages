@@ -127,22 +127,6 @@ Author: Dylan Elmbark & julioverne
 Name: Spotilife
 Icon: https://dylbinthedev.github.io/icons/com.spotify.client.png
 
-Package: com.twickd.sarahh12099.youtube-reborn
-Version: 1.0.4.4
-Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 11.0)
-Filename: /debs/YouTubeReborn.deb
-Size: 38032
-MD5sum: 11c59b2ac3a641d46fbc3ed0b681bd42
-SHA1: 24298ff0032015173ed38cba74901fd1e4102aeb
-SHA256: a02b59a4b8d22799747d7069e867c0b151a2ac61ee7ca5de6d3dcb5dbfe9ad4a
-Section: Tweaks
-Description: A more lightweight/up-to date version of Youtube++. Supports iOS 11 up to 13
-Author: SarahH12099
-Name: YouTube Reborn
-Conflicts: com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers
-
 Package: net.hollr2099.adobepremiererushccpp
 Version: 1.0.0.0
 Architecture: iphoneos-arm
@@ -401,6 +385,50 @@ Description: The only app you'll need on your phone. Go on Twitter and give @Thi
 Author: Noah Evans
 Name: Spork
 
+Package: NoahEvans.Spork
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/Spork.deb
+Size: 34687048
+MD5sum: a10824ecc7104d1a06827a53978861ab
+SHA1: a1e0324ebd1fc0a4c95ba2229e8ccfbb7e44f5f9
+SHA256: 9f11504abb584d5e5d9a4df37222d52f1981df420e06cb7b9549db5d11218352
+Section: Utilities
+Description: The only app you'll need on your phone. Go on Twitter and give @ThisIsNoahEvans a follow for this amazing app!
+Author: Noah Evans
+Name: Spork
+
+Package: com.ichitaso.youtubepatcher
+Version: 0.3
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/YouTubePatcher.deb
+Size: 3178
+MD5sum: 60a9631384a97620ba45247a1c4b0632
+SHA1: bb780eaece198ea23053c007038629514b0f7e8b
+SHA256: 1587823b61249bd69b77f5d659870313f36a11b5e058f795deca4f85d4dc8e57
+Section: Tweaks
+Description: No Ads, Background Playback. Supports latest youtube app version and iOS 12-14
+Author: iChitaso	
+Name: YouTube Patcher
+
+Package: io.pangu.loader
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/PanguLoader.deb
+Size: 1320044
+MD5sum: d497c2ecbf6fc7adec667fa9a8fa080b
+SHA1: 63ba199937d8e39ee6ecb006f45db74fe9fcea54
+SHA256: 3dd6e5150209c1be6cb8953ff756992be5c3ad234fbe2a4812d3851dc00cc5a0
+Section: Packaging
+Description: Pangu's package manager installed by the Pangu8 untethered jailbreak. Supports iOS 8.0 - 8.1.x only
+Author: Pangu Team	
+Name: Pangu Loader (iOS 8)
 
 
 
