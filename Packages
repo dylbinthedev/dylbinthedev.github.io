@@ -47,17 +47,17 @@ Name: Spotify++ (App)
 Icon: https://dylbinthedev.github.io/icons/com.spotify.client.png
 
 Package: com.xd.mbp2
-Version: 7.6
+Version: 7.8
 Architecture: iphoneos-arm
 Maintainer: Dylan Elmbark
 Depends: 
 Filename: /debs/MovieBoxPro.deb
-Size: 55291824
-MD5sum: c4953889b827d2fcefe215f3e6efcc64
-SHA1: be4866ece856fe89487b1b63d308981652edb538
-SHA256: 92de87be55e45229e4a5be91128ae75d4ab3df34b0ec11318a8fa3c6cf3026e6
+Size: 37663808
+MD5sum: 68d29b1d386f6a5fb3f16d96eda86ca9
+SHA1: d8627b307e6b2085933d8a6639aec1ee82c4385a
+SHA256: 552d60129be9c838e06534b3c3cd822fd1feba9cc7dd32f4b9f6a64e81626b6e
 Section: Multimedia
-Description: Free Movies and TV Shows, works on iOS/iPadOS 10-14, run uicache or ldrestart in MTerminal/NewTerm if the icon doesn't show up!
+Description: Free Movies and TV Shows, works on iOS 11 through 14.1, run uicache or ldrestart in MTerminal/NewTerm if the icon doesn't show up!
 Author: MovieBoxPro Team
 Name: MovieBox Pro
 Icon: file:///Applications/MovieBox.app/AppIcon60x60@3x.png
@@ -90,7 +90,7 @@ MD5sum: 34dca40153d2d49e4f0ab6f32de23302
 SHA1: 55440d7454fc3247fffc81e512ad5a46579d48d8
 SHA256: c655a74199cdc81e1d4d1d34fef025d3572f0c8f4a261bd7658905596d26c034
 Section: Multimedia
-Description: Spiritual successor to PopcornTime, supports iOS/iPadOS 13-14, run uicache or ldrestart in MTerminal/NewTerm if the icon doesn't show up!
+Description: Spiritual successor to PopcornTime, supports iOS/iPadOS 13, run uicache or ldrestart in MTerminal/NewTerm if the icon doesn't show up!
 Author: Antique
 Name: Popcorn
 Icon: https://dylbinthedev.github.io/icons/com.antique.popcorn.png

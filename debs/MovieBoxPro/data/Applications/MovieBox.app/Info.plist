@@ -4,12 +4,29 @@
   <dict>
     <key>DTCompiler</key>
     <string>com.apple.compilers.llvm.clang.1_0</string>
+    <key>NSUserTrackingUsageDescription</key>
+    <string>MovieBoxPro need to access your idfa as an unique identifier to sign in, this identifier will be also used to deliver personalized ads to you.</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>SKAdNetworkItems</key>
+    <array>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>cstr6suwn9.skadnetwork</string>
+      </dict>
+    </array>
+    <key>DTPlatformVersion</key>
+    <string>14.0</string>
     <key>UIRequiredDeviceCapabilities</key>
     <array>
       <string>armv7</string>
     </array>
-    <key>CFBundleInfoDictionaryVersion</key>
-    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>MovieBox</string>
+    <key>DTSDKName</key>
+    <string>iphoneos14.0</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>Allow MovieBoxPro save  photo to your library?</string>
     <key>UISupportedInterfaceOrientations~ipad</key>
     <array>
       <string>UIInterfaceOrientationPortrait</string>
@@ -17,16 +34,6 @@
       <string>UIInterfaceOrientationLandscapeLeft</string>
       <string>UIInterfaceOrientationLandscapeRight</string>
     </array>
-    <key>DTPlatformVersion</key>
-    <string>13.6</string>
-    <key>CFBundleName</key>
-    <string>MovieBox</string>
-    <key>DTSDKName</key>
-    <string>iphoneos13.6</string>
-    <key>NSPhotoLibraryUsageDescription</key>
-    <string>Allow MovieBoxPro save  photo to your library?</string>
-    <key>UIViewControllerBasedStatusBarAppearance</key>
-    <true/>
     <key>GADApplicationIdentifier</key>
     <string>ca-app-pub-1521485315766016~2900209867</string>
     <key>CFBundleIcons</key>
@@ -48,6 +55,8 @@
     <string>Allow MovieBoxPro use Bluetooth?</string>
     <key>UIStatusBarStyle</key>
     <string>UIStatusBarStyleLightContent</string>
+    <key>UIViewControllerBasedStatusBarAppearance</key>
+    <true/>
     <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
     <string>Allow MovieBoxPro to access your location for detailed feedback info?</string>
     <key>CFBundleDisplayName</key>
@@ -76,11 +85,11 @@
       <string>remote-notification</string>
     </array>
     <key>DTSDKBuild</key>
-    <string>17G64</string>
+    <string>18A390</string>
     <key>NSCameraUsageDescription</key>
     <string>Allow MovieBoxPro access your Camera?</string>
     <key>CFBundleShortVersionString</key>
-    <string>7.6</string>
+    <string>7.8</string>
     <key>CFBundleSupportedPlatforms</key>
     <array>
       <string>iPhoneOS</string>
@@ -96,7 +105,7 @@
     <key>BuildMachineOSBuild</key>
     <string>19E266</string>
     <key>DTPlatformBuild</key>
-    <string>17G64</string>
+    <string>18A390</string>
     <key>BGTaskSchedulerPermittedIdentifiers</key>
     <array>
       <string>com.googleusercontent.apps.939879918880-iivvs1u1i0jk5jviduoja63p1n45cs6n</string>
@@ -106,17 +115,22 @@
     <key>CFBundleDevelopmentRegion</key>
     <string>en</string>
     <key>DTXcodeBuild</key>
-    <string>11E708</string>
+    <string>12A7300</string>
     <key>CFBundleVersion</key>
     <string>1</string>
     <key>MinimumOSVersion</key>
     <string>10.0</string>
     <key>NSBluetoothPeripheralUsageDescription</key>
     <string>Allow MovieBoxPro access your Bluetooth?</string>
-    <key>NSPhotoLibraryAddUsageDescription</key>
-    <string>Allow MovieBoxPro save  photo to your library?</string>
+    <key>NSBonjourServices</key>
+    <array>
+      <string>_googlecast._tcp</string>
+      <string>_com.xd.mbp7._googlecast._tcp</string>
+    </array>
     <key>FirebaseAppDelegateProxyEnabled</key>
     <false/>
+    <key>NSPhotoLibraryAddUsageDescription</key>
+    <string>Allow MovieBoxPro save  photo to your library?</string>
     <key>UIDeviceFamily</key>
     <array>
       <integer>1</integer>
@@ -127,9 +141,9 @@
     <key>NSMicrophoneUsageDescription</key>
     <string>Allow MovieBoxPro access your Microphone?</string>
     <key>CFBundleIdentifier</key>
-    <string>com.xd.mbp2</string>
+    <string>com.xd.mbp7</string>
     <key>DTXcode</key>
-    <string>1160</string>
+    <string>1201</string>
     <key>CFBundleExecutable</key>
     <string>MovieBox</string>
     <key>NSAppTransportSecurity</key>
@@ -156,6 +170,9 @@
     </dict>
     <key>DTPlatformName</key>
     <string>iphoneos</string>
+    <key>NSLocalNetworkUsageDescription</key>
+    <string>MovieBox uses the local network to discover Cast-enabled devices on your WiFi
+network.</string>
     <key>CFBundleURLTypes</key>
     <array>
       <dict>
@@ -184,6 +201,6 @@
       </dict>
     </array>
     <key>DTAppStoreToolsBuild</key>
-    <string>11E708</string>
+    <string>12A7300</string>
   </dict>
 </plist>
