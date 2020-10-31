@@ -77,7 +77,7 @@ Section: Multimedia
 Description: Works on iOS 9 through 14
 Author: Mediaboxhd
 Name: MediaBox HD
-Icon: https://dylbinthedev.github.io/icons/mediaplayer.box.ios3.png
+Icon: file:///Applications/MediaBox HD.app/AppIcon60x60@3x.png
 
 Package: com.bkstyle.stylzish
 Version: 1.0.0
@@ -235,7 +235,7 @@ Section: Multimedia
 Description: Works on iOS 9 through 14
 Author: SarahH12099
 Name: MediaBox HD (No Ads)
-Icon: https://dylbinthedev.github.io/icons/mediaboxhd.event.2.png
+Icon: file:///Applications/MediaBox HD.app/AppIcon60x60@3x.png
 
 
 
