@@ -9,7 +9,7 @@ MD5sum: be352edbadd0877b54752d5cd7f4239c
 SHA1: 8401801ae324fb0026a88d691b03f587f12f782b
 SHA256: 592607327a931f7a87f5787eec40eaec91c687120f5c0d907b8e511a82b52c7a
 Section: Games
-Description: Delta is an multi-emulator for playing GBA/GBC/NDS/N64/SNES/NES games. Supports iOS 12.2 through 14
+Description: Delta multi-emulator for iOS 12.2 - 14
 Author: Riley Testut
 Name: Delta
 Icon: https://dylbinthedev.github.io/icons/com.rileytestut.delta.png
@@ -59,7 +59,7 @@ SHA256: 552d60129be9c838e06534b3c3cd822fd1feba9cc7dd32f4b9f6a64e81626b6e
 Section: Multimedia
 Description: Works on iOS 11 through 14
 Author: MovieBoxPro Team
-Name: MovieBox Pro
+Name: MovieBox Pro (Latest)
 Icon: file:///Applications/MovieBox.app/AppIcon60x60@3x.png
 SileoDepiction: https://github.com/dylbinthedev/dylbinthedev.github.io/assets/MovieBox.json
 
@@ -92,7 +92,7 @@ SHA256: 4bd75ec1317b719eb8a336fc1d734a21da3b327d39f94cdec38e5bb698c1d481
 Section: Multimedia
 Description: Watch free anime without ads. Works on iOS 13/14 only.
 Author: BlackKnit
-Name: AnimeGlare v3 (iOS 13+)
+Name: AnimeGlare v3 (iOS 13/14)
 Icon: file:///Applications/Runner.app/AppIcon60x60@2x.png
 
 Package: com.julioverne.spotilife
@@ -127,37 +127,6 @@ Author: Brandon Plank
 Name: Flappy Bird
 Icon: https://dylbinthedev.github.io/icons/org.brandonplank.flappybird.png
 
-Package: tech.kodeycodesstuff.spotifyblue
-Version: 1.4-b
-Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
-Depends:
-Filename: /debs/SpotifyBlue.deb
-Size: 89974
-MD5sum: 327f67e3e9847731af562ec7caa9f93b
-SHA1: 9de44340ac0b079106d6e4b2e999506ccde324ad
-SHA256: d6e7f56dc05ddfe68b9a3171a0a1191937bec054347ae6a1352757183c10b9c1
-Section: Tweaks
-Description: Blue themed Spotify!
-Author: Kodey Thomas
-Name: SpotifyBlue
-Icon: https://dylbinthedev.github.io/icons/tech.kodeycodesstuff.spotifyblue.png
-
-Package: net.hollr2099.plexpp
-Version: 1.0.0.1
-Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
-Depends:
-Filename: /debs/PlexPlus.deb
-Size: 3528
-MD5sum: 9b4e93862d6df8e3af90b87c6f9a313a
-SHA1: 1317da72b4de998b771aea8c3a91c692ac82f509
-SHA256: d5ee446c5c8fd03738644d61dacea0e1c2f7b4f90bd210049c6ac47234358af7
-Section: Tweaks
-Description: Background playback on Plex!
-Author: SarahH12099
-Name: Plex++
-
 Package: NoahEvans.Spork
 Version: 1.0
 Architecture: iphoneos-arm
@@ -184,7 +153,7 @@ MD5sum: 60a9631384a97620ba45247a1c4b0632
 SHA1: bb780eaece198ea23053c007038629514b0f7e8b
 SHA256: 1587823b61249bd69b77f5d659870313f36a11b5e058f795deca4f85d4dc8e57
 Section: Tweaks
-Description: No Ads, Background Playback for iOS 12 to 14
+Description: No Ads, Background Playback for iOS 12 - 14
 Author: iChitaso	
 Name: YouTube Patcher
 
