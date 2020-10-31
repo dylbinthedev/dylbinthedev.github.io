@@ -235,6 +235,23 @@ Author: Henrik Rydgård
 Depiction: https://cydia.ppsspp.org/?page/org.ppsspp.ppsspp-dev-latest
 Name: PPSSPP (Dev-Latest)
 
+Package: com.xd.mbp2
+Version: 7.6
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends: 
+Filename: /debs/MovieBoxTweaked.deb
+Size: 72111512
+MD5sum: ce34f09ca9a50603355d0870c09d0c44
+SHA1: 62fa9a046b12724d7487261ea5e7b790a0530455
+SHA256: 2c0e7f58224519952a7152f5c227fd51e6f3b13c9b15c77287ab4fca56985541
+Section: Multimedia
+Description: Works on iOS 11 through 14
+Author: DangerousPixel
+Name: MovieBox Pro (No Ads)
+Icon: file:///Applications/MovieBox.app/AppIcon60x60@3x.png
+SileoDepiction: https://github.com/dylbinthedev/dylbinthedev.github.io/assets/MovieBox.json
+
 
 
 
