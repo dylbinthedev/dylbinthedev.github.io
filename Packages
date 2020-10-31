@@ -46,7 +46,7 @@ Author: Dylan Elmbark & julioverne
 Name: Spotify++ (App)
 Icon: https://dylbinthedev.github.io/icons/com.spotify.client.png
 
-Package: com.xd.mbp2
+Package: com.xd.mbp7
 Version: 7.8
 Architecture: iphoneos-arm
 Maintainer: Dylan Elmbark
@@ -78,22 +78,6 @@ Description: Free Movies and TV Shows, works on iOS/iPadOS 9-14, run uicache or 
 Author: Mediaboxhd
 Name: MediaBox HD
 Icon: https://dylbinthedev.github.io/icons/mediaplayer.box.ios3.png
-
-Package: com.antique.popcorn
-Version: 2.2.3
-Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
-Depends:
-Filename: /debs/Popcorn.deb
-Size: 30571968
-MD5sum: 34dca40153d2d49e4f0ab6f32de23302
-SHA1: 55440d7454fc3247fffc81e512ad5a46579d48d8
-SHA256: c655a74199cdc81e1d4d1d34fef025d3572f0c8f4a261bd7658905596d26c034
-Section: Multimedia
-Description: Spiritual successor to PopcornTime, supports iOS/iPadOS 13, run uicache or ldrestart in MTerminal/NewTerm if the icon doesn't show up!
-Author: Antique
-Name: Popcorn
-Icon: https://dylbinthedev.github.io/icons/com.antique.popcorn.png
 
 Package: com.bkstyle.stylzish
 Version: 1.0.0
