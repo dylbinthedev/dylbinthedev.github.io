@@ -5,4 +5,4 @@ Version: 2.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Dylan's APT Repo, This repo provides tweaks,apps and more.
+Description: This repository provides emulators, dev tools, tweaks, apps and more.
