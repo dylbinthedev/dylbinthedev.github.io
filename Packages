@@ -28,7 +28,7 @@ Section: Games
 Description: Nintendo DS Emulator for iOS 9-14
 Author: iNDS Team
 Name: iNDS (64-bit)
-Icon: https://dylbinthedev.github.io/icons/net.nerd.inds.png
+Icon: file:///Applications/iNDS.app/AppIcon60x60@3x.png
 
 Package: com.spotify.client
 Version: 8.5.51
@@ -186,6 +186,7 @@ Section: Games
 Description: A PSP Emulator for iOS 6 - 14 (Latest Working Dev Build)
 Author: Henrik Rydgård	
 Depiction: https://cydia.ppsspp.org/?page/org.ppsspp.ppsspp-dev-working
+Icon: file:///Applications/PPSSPP.app/assets/Icon@3x.png
 Name: PPSSPP (Dev-Working)
 
 Package: org.ppsspp.ppsspp-dev-latest
@@ -202,6 +203,7 @@ Section: Games
 Description: A PSP Emulator for iOS 6 - 14 (Latest Dev Build)
 Author: Henrik Rydgård
 Depiction: https://cydia.ppsspp.org/?page/org.ppsspp.ppsspp-dev-latest
+Icon: file:///Applications/PPSSPP.app/assets/Icon@3x.png
 Name: PPSSPP (Dev-Latest)
 
 Package: com.xd.mbp2
