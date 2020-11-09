@@ -1,0 +1,11 @@
+/.
+/usr
+/usr/bin
+/usr/bin/asu_inject
+/Library
+/Library/MobileSubstrate
+/Library/MobileSubstrate/DynamicLibraries
+/Library/MobileSubstrate/DynamicLibraries/AppSyncUnified.dylib
+/Library/MobileSubstrate/DynamicLibraries/AppSyncUnified.plist
+/Library/LaunchDaemons
+/Library/LaunchDaemons/net.angelxwind.asu_inject.plist

@@ -239,21 +239,36 @@ Author: SarahH12099
 Name: MediaBox HD (No Ads)
 Icon: file:///Applications/MediaBox HD.app/AppIcon60x60@3x.png
 
-Package: syto203.zinitevi.pp
-Version: 1.3.6
+Package: com.cydia.love.appsyncunified
+Version: 84.0
 Architecture: iphoneos-arm
 Maintainer: Dylan Elmbark
 Depends: 
-Filename: /debs/ZiniTV.deb
-Size: 15203630
-MD5sum: 92733a73d8d61a5581b8ae865cc7aafe
-SHA1: 930a9742b12dabab5d9f2e9d77cea0db479374a9
-SHA256: 26e2458a174e8ebeb7f8b9ef394743a85af3c2c52db63bb22eae46eeaadaae41
-Section: Multimedia
-Description: Works on iOS 9 through 14, This tweaked version removes ads and disables ad tracking.
-Author: syto203
-Name: ZiniTV (No Ads)
-Icon: file:///Applications/ZiniTV.app/AppIcon60x60@3x.png
+Filename: /debs/AppSync14.deb
+Size: 41364
+MD5sum: c29f99b6152489d14ead3e659f13e495
+SHA1: b8a506e39e1ea981a57370975db8e07c44cdee74
+SHA256: e0f56f56ed811713c4b903abca87631229e493827fee51822e062e3725177e85
+Section: Tweaks
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Karen/あけみ(angelxwind)
+Name: AppSync Unified (iOS 14)
+
+Package: com.alt.bigsur
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends: 
+Filename: /debs/BigSurTheme.deb
+Size: 4792996
+MD5sum: bc4215fbaf33d7dc8e5114ede94bc0f5
+SHA1: 94f513013b778f1557d9b445be4ba7fdbd42bf02
+SHA256: 1a2815dacb6e280f3bb3951c03a1fa4113d2faae5b56211464f867a7054c3c83
+Section: Themes
+Description: Ports macOS Big Sur icons to iOS! Supports Anemone and Snowboard.
+Author: alt03b1
+Name: Big Sur Theme
+
 
 
 
