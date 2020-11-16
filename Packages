@@ -285,6 +285,66 @@ Author: PandaHelper Store
 Name: PandaHelper
 Icon: https://dylbinthedev.github.io/icons/com.pandahelper.deb.png
 
+Package: com.1conan.tsssaver
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends: com.0x7ff.dimentio
+Filename: /debs/TSSSaver.deb
+Size: 90836
+MD5sum: 1d5df2c153f6c9b5c206c4648d953072
+SHA1: 3ca2c341ec55d15a44e6a0272e8975a7a0f826e4
+SHA256: e0ecf73306c98ca137dbaaaeca335a38355a07205665dd5db5fa18722b05e449
+Section: Utilities
+Description: TSS Saver 2 app to save SHSH2 blobs, works with A7-A13 devices on iOS 7 through 14
+Author: 1Conan
+Name: TSS Saver 2
+
+Package: com.0x7ff.dimentio
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends: 
+Filename: /debs/Dimentio.deb
+Size: 11332
+MD5sum: 38fdce0be6a5f72823fdd6d25ab1ca09
+SHA1: 5d20830a72cb473cc1526125612240cf24f213fb
+SHA256: d2fa4586f2c108db5d97d192568dcf0a859ab3564e8c8fa3d0b559840043d245
+Section: System
+Description: PoC tool for setting/getting nonce without triggering KPP/KTRR/PAC. (requires tfp0)
+Author: 0x7ff
+Name: dimentio
+
+Package: com.0x7ff.golb
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends: 
+Filename: /debs/Golb.deb
+Size: 14610
+MD5sum: 1a80eba4c8491b42a8c00627615db590
+SHA1: 266a510c608cbc1887292b790419256ab7a5b557
+SHA256: 91395aa1bdb5b71bfb47e70dbc52ca1ce691c4731a002a0df540842286a52a3f
+Section: System
+Description: Mapping physical memory to user space (EL0) on iOS. (+ AES PoC)
+Author: 0x7ff
+Name: golb
+
+Package: com.saurik.afc2d
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends: mobilesubstrate
+Filename: /debs/AppleFileConduit.deb
+Size: 18114
+MD5sum: 34291f44d22cfbbf3eb4bad0ade3b89c
+SHA1: bddaf385263b9aad2b032b2116179f83afd077cc
+SHA256: 287ac4ce1a6e4095e824fd90f71fed301ff7d9508f1cd2d87a7354053e347a3c
+Section: System
+Description: allow full file-system access over USB on iOS 9 and below.
+Author: Jay Freeman (saurik)
+Name: Apple File Conduit "2" (Legacy)
+
 
 
 
