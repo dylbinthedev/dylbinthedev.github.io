@@ -345,6 +345,51 @@ Description: allow full file-system access over USB on iOS 9 and below.
 Author: Jay Freeman (saurik)
 Name: Apple File Conduit "2" (Legacy)
 
+Package: jp.akusio.kernbypass-unofficial
+Version: 0.0.4-1
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends: mobilesubstrate, applist, preferenceloader, firmware(>=12.0)
+Filename: /debs/KernBypass.deb
+Size: 124572
+MD5sum: 2c2b66ad38f31c88d9ce296eed8cd820
+SHA1: 9dd23c9263ea835024cffce1b004dabe05c6f3ed
+SHA256: f059bf1b650ac75e16b8c3f0934fe9d5094fb633bd336c67551ff2f474ea39ce
+Section: System
+Description: kernel level jailbreak detection bypass, works on iOS 12 - 14.1 only. Setup process: Settings -> KernBypass -> Enable KernBypass -> Reboot -> Select Applications
+Author: akusio
+Name: KernBypass
+
+Package: xyz.mogdan.tweakmanager
+Version: 0.1.6-2
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends: mobilesubstrate
+Filename: /debs/TweakManager.deb
+Size: 1680422
+MD5sum: cc791d881a5f95997c5e81239fd1c7e8
+SHA1: 1ac1bd199bef4a9bb497c6d5d168e17601fbf6ca
+SHA256: ea610d8e222176b18e2f1cdc7a8615325a6fe5f303870ea9694d41f7ec60597a
+Section: Utilities
+Description: Enable or disable tweaks in bulk.
+Author: Unicorn808
+Name: TweakManager
+
+Package: uncar
+Version: 0.0.1-6
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends: mobilesubstrate
+Filename: /debs/Uncar.deb
+Size: 8576
+MD5sum: 460de3820c701b7e4f0c61754bb6dd4b
+SHA1: 25d6d7146e3dd42a0633e6e2cae4c518bae7e0f7
+SHA256: a2448d5d75e57515effaeb18e7a566e38b6422fd57d3c7a48ac2733b485488e3
+Section: System
+Description: Command line tool that allows you to extract png images from Asset.car files.
+Author: Unicorn808
+Name: uncar
+
 
 
 
