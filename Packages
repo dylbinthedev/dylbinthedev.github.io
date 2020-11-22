@@ -387,7 +387,7 @@ SHA1: 25d6d7146e3dd42a0633e6e2cae4c518bae7e0f7
 SHA256: a2448d5d75e57515effaeb18e7a566e38b6422fd57d3c7a48ac2733b485488e3
 Section: System
 Description: Command line tool that allows you to extract png images from Asset.car files.
-Author: Unicorn808
+Author: Elias Limneos
 Name: uncar
 
 
