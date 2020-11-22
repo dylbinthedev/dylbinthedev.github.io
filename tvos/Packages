@@ -13,6 +13,40 @@ Description: Enables the ability to install unsigned/fakesigned tvOS application
 Author: angelxwind & Diatrus
 Name: AppSync Unified
 
+Package: com.linusyang.appinst
+Version: 1.1.2
+Architecture: appletvos-arm64
+Maintainer: Dylan Elmbark
+Depends: us.diatr.appsyncunified (>= 5.1)
+Filename: /dylbinthedev.github.io/tvos/debs/AppInst.deb
+Size: 25436
+MD5sum: 0f6f4d9dfdf71e58359692c1f2b6ebdc
+SHA1: 9e6ad361ec5e83edcd01e22d750fcb4a00f13874
+SHA256: 4428c5a34b911fa3122817bd4bab88ffcef96af491f73542376121874c7c2d67
+Section: Utilities
+Description: Install IPAs from the command line (requires AppSync Unified.)
+Author: Linus Yang & Diatrus
+Name: appinst (IPA Installer)
+
+Package: ldid
+Version: 2.0.1
+Architecture: appletvos-arm64
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /dylbinthedev.github.io/tvos/debs/LinkIdentityEditor.deb
+Size: 569552
+MD5sum: ae1f48bb8ecc411261381dc82a261619
+SHA1: 46b21741da7ee78638e2092c101e56c7e929090f
+SHA256: 6ba37ee822ffe21da2212bf1c25ca8d83abbebb1ff3c117b8629078858c9ee8d
+Section: Development
+Description: pseudo-codesign Mach-O files.
+Author: Jay Freeman (saurik)
+Name: Link Identity Editor (ldid)
+
+
+
+
+
 
 
 
