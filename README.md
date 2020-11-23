@@ -12,5 +12,4 @@ On nitoTV you need to add https://dylbinthedev.github.io/tvos
 ## Requirements
 - Requires a jailbroken iPhone, iPad, iPod touch, Apple TV
 - Package Manager: Cydia, Sileo, Installer, Zebra, nitoTV
-- Supports iOS 7 - 14
-- Supports tvOS 10.2.2 - 14
+- Supports iOS and tvOS
