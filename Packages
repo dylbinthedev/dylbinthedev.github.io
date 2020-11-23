@@ -25,7 +25,7 @@ MD5sum: b205abd66963d617681dc8b3bb00e072
 SHA1: 2ca21d6b65a0837415a66061d96462c01b33cc50
 SHA256: 824a9aa1ae30abaf05432aad2d290bd8c2c6e01e36c6f26353ffd0987cf9e46e
 Section: Games
-Description: Nintendo DS Emulator for iOS 9-14
+Description: Nintendo DS Emulator for iOS 9 - 14
 Author: iNDS Team
 Name: iNDS (64-bit)
 Icon: file:///Applications/iNDS.app/AppIcon60x60@3x.png
@@ -41,7 +41,7 @@ MD5sum: ae7db3c63defcd502ca5af7d10b6c6e9
 SHA1: ff90ad770ce58bfc16827af3784707cdabc1a308
 SHA256: b466640e379d36b035e8190567dc2f1085c86665e463823bd59dca349aa93d84
 Section: Utilities
-Description: Spotify++ Delete the original Spotify before installing this, Supports iOS 8-13
+Description: Spotify++ (Full App) for iOS 8 - 13
 Author: Dylan Elmbark & julioverne
 Name: Spotify++ (App)
 Icon: https://dylbinthedev.github.io/icons/com.spotify.client.png
@@ -74,7 +74,7 @@ MD5sum: 5db0da7e008b2cb88e3cdd62d513176c
 SHA1: 9da877a14d5671ed5fe6cc41af499a2e9449093a
 SHA256: 8d666fb0a04f91ee5e74960992eb3b243e0505a6792c30db842593fc16e30a51
 Section: Multimedia
-Description: Works on iOS 9 through 14
+Description: MediaboxHD for iOS 9 - 14
 Author: Mediaboxhd
 Name: MediaBox HD
 Icon: file:///Applications/MediaBox HD.app/AppIcon60x60@3x.png
@@ -90,7 +90,7 @@ MD5sum: ea9971754ff1262e371e5d2c8d5d9807
 SHA1: 84ed115d49618d5eaf5be7684cb7621ad23f89c7
 SHA256: 4bd75ec1317b719eb8a336fc1d734a21da3b327d39f94cdec38e5bb698c1d481
 Section: Multimedia
-Description: Watch free anime without ads. Works on iOS 13/14 only.
+Description: Watch free anime without ads. Works on iOS 13 - 14 only.
 Author: BlackKnit
 Name: AnimeGlare v3 (iOS 13/14)
 Icon: file:///Applications/Runner.app/AppIcon60x60@2x.png
@@ -122,7 +122,7 @@ MD5sum: b8088e73787499d879e90dae0cb0fa24
 SHA1: 9e54090bd0bee10b1ac2c89ee1cd62b98324f2f4
 SHA256: ef8504838a57fee5173dbc5ce15b09209be54f81353481dcc0414230c9a930aa
 Section: Games
-Description: Works on iOS 7 through 14
+Description: Perfect Flappy Bird Clone for iOS 7 - 14
 Author: Brandon Plank
 Name: Flappy Bird
 Icon: https://dylbinthedev.github.io/icons/org.brandonplank.flappybird.png
@@ -153,7 +153,7 @@ MD5sum: 60a9631384a97620ba45247a1c4b0632
 SHA1: bb780eaece198ea23053c007038629514b0f7e8b
 SHA256: 1587823b61249bd69b77f5d659870313f36a11b5e058f795deca4f85d4dc8e57
 Section: Tweaks
-Description: No Ads, Background Playback for iOS 12 - 14
+Description: Patch for YouTube to add background playback and removal of ads. Supports iOS 12 - 14
 Author: iChitaso	
 Name: YouTube Patcher
 
@@ -217,7 +217,7 @@ MD5sum: ce34f09ca9a50603355d0870c09d0c44
 SHA1: 62fa9a046b12724d7487261ea5e7b790a0530455
 SHA256: 2c0e7f58224519952a7152f5c227fd51e6f3b13c9b15c77287ab4fca56985541
 Section: Multimedia
-Description: Works on iOS 11 through 14
+Description: MovieBoxPro without ads, Supports iOS 11 - 14
 Author: DangerousPixel
 Name: MovieBox Pro (No Ads)
 Icon: file:///Applications/MovieBox.app/AppIcon60x60@3x.png
