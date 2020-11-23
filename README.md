@@ -10,5 +10,7 @@ On nitoTV you need to add https://dylbinthedev.github.io/tvos
 [Add to Cydia](https://cydia.saurik.com/api/share#?source=https://dylbinthedev.github.io/ "Add to Cydia")
 
 ## Requirements
+- Requires a jailbroken iPhone, iPad, iPod touch, Apple TV
+- Package Manager: Cydia, Sileo, Installer, Zebra, nitoTV
 - Supports iOS 7 - 14
 - Supports tvOS 10.2.2 - 14
