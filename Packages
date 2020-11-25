@@ -1,13 +1,13 @@
 Package: com.rileytestut.Delta.Beta.NV3R4T9ZYB
-Version: 1.2b3
+Version: 1.3b1
 Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
+Maintainer: DylbinTheDev
 Depends:
 Filename: /debs/Delta.deb
-Size: 15059164
-MD5sum: be352edbadd0877b54752d5cd7f4239c
-SHA1: 8401801ae324fb0026a88d691b03f587f12f782b
-SHA256: 592607327a931f7a87f5787eec40eaec91c687120f5c0d907b8e511a82b52c7a
+Size: 14900940
+MD5sum: 23e6e2ba1e49950f6b775ff649bd3715
+SHA1: 2403c75101991b683c8028909e7c06462f988080
+SHA256: f170427f318a600df300656e8cfc3fdd858d1e16b2377241815f4bdede0fab45
 Section: Games
 Description: Delta multi-emulator for iOS 12.2 - 14
 Author: Riley Testut
@@ -17,7 +17,7 @@ Icon: https://dylbinthedev.github.io/icons/com.rileytestut.delta.png
 Package: net.nerd.inds
 Version: 1.10.7
 Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
+Maintainer: DylbinTheDev
 Depends:
 Filename: /debs/iNDS.deb
 Size: 8410136
@@ -33,7 +33,7 @@ Icon: file:///Applications/iNDS.app/AppIcon60x60@3x.png
 Package: com.spotify.client
 Version: 8.5.51
 Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
+Maintainer: DylbinTheDev
 Depends:
 Filename: /debs/Spotify.deb
 Size: 52858772
@@ -42,14 +42,14 @@ SHA1: ff90ad770ce58bfc16827af3784707cdabc1a308
 SHA256: b466640e379d36b035e8190567dc2f1085c86665e463823bd59dca349aa93d84
 Section: Utilities
 Description: Spotify++ (Full App) for iOS 8 - 13
-Author: Dylan Elmbark & julioverne
+Author: DylbinTheDev & julioverne
 Name: Spotify++ (App)
 Icon: https://dylbinthedev.github.io/icons/com.spotify.client.png
 
 Package: com.xd.mbp7
 Version: 7.8
 Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
+Maintainer: DylbinTheDev
 Depends: 
 Filename: /debs/MovieBoxPro.deb
 Size: 37663808
@@ -66,7 +66,7 @@ SileoDepiction: https://github.com/dylbinthedev/dylbinthedev.github.io/assets/Mo
 Package: mediaplayer.box.ios3
 Version: 2.4.9.2
 Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
+Maintainer: DylbinTheDev
 Depends: 
 Filename: /debs/Mediabox.deb
 Size: 85016808
@@ -82,7 +82,7 @@ Icon: file:///Applications/MediaBox HD.app/AppIcon60x60@3x.png
 Package: com.bkstyle.stylzish
 Version: 1.0.0
 Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
+Maintainer: DylbinTheDev
 Depends:
 Filename: /debs/AnimeGlare.deb
 Size: 20598948
@@ -98,23 +98,23 @@ Icon: file:///Applications/Runner.app/AppIcon60x60@2x.png
 Package: com.julioverne.spotilife
 Version: 1.1a
 Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
+Maintainer: DylbinTheDev
 Depends: mobilesubstrate
 Filename: /debs/Spotilife.deb
 Size: 201134
 MD5sum: 4be44d65dcb7c50576a0f73cf970df7e
 SHA1: 242c0a52df8a20d19ac72cd8e654e4eeff9ca6bd
 SHA256: e4c31947d1a48d2ea381c6b08c447f52da97a1ad0b85b16a435946abd32a6639
-Section: Utilities
+Section: Tweaks
 Description: Spotify++ Patch for iOS 7 through 14
-Author: Dylan Elmbark & julioverne
+Author: DylbinTheDev & julioverne
 Name: Spotilife
 Icon: https://dylbinthedev.github.io/icons/com.spotify.client.png
 
 Package: org.brandonplank.flappybird
 Version: 3.8
 Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
+Maintainer: DylbinTheDev
 Depends:
 Filename: /debs/FlappyBird.deb
 Size: 66376364
@@ -130,7 +130,7 @@ Icon: https://dylbinthedev.github.io/icons/org.brandonplank.flappybird.png
 Package: NoahEvans.Spork
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
+Maintainer: DylbinTheDev
 Depends:
 Filename: /debs/Spork.deb
 Size: 34687048
@@ -145,7 +145,7 @@ Name: Spork
 Package: com.ichitaso.youtubepatcher
 Version: 0.3
 Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
+Maintainer: DylbinTheDev
 Depends:
 Filename: /debs/YouTubePatcher.deb
 Size: 3178
@@ -160,7 +160,7 @@ Name: YouTube Patcher
 Package: io.pangu.loader
 Version: 1.2.0
 Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
+Maintainer: DylbinTheDev
 Depends:
 Filename: /debs/PanguLoader.deb
 Size: 1320044
@@ -175,7 +175,7 @@ Name: Pangu Loader (iOS 8)
 Package: org.ppsspp.ppsspp-dev-working
 Version: 0v1.6.3-456-g6d0ed4ad0
 Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
+Maintainer: DylbinTheDev
 Depends:
 Filename: /debs/PPSSPPDevWorking.deb
 Size: 17258916
@@ -192,7 +192,7 @@ Name: PPSSPP (Dev-Working)
 Package: org.ppsspp.ppsspp-dev-latest
 Version: 0v1.6.3-456-g6d0ed4ad0
 Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
+Maintainer: DylbinTheDev
 Depends:
 Filename: /debs/PPSSPPDevLatest.deb
 Size: 17259000
@@ -209,7 +209,7 @@ Name: PPSSPP (Dev-Latest)
 Package: com.xd.mbp2
 Version: 7.6
 Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
+Maintainer: DylbinTheDev
 Depends: 
 Filename: /debs/MovieBoxTweaked.deb
 Size: 72111512
@@ -226,7 +226,7 @@ SileoDepiction: https://github.com/dylbinthedev/dylbinthedev.github.io/assets/Mo
 Package: mediaboxhd.event.2
 Version: 2.4.9.2
 Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
+Maintainer: DylbinTheDev
 Depends: 
 Filename: /debs/MediaBoxTweaked.deb
 Size: 59858130
@@ -242,7 +242,7 @@ Icon: file:///Applications/MediaBox HD.app/AppIcon60x60@3x.png
 Package: com.cydia.love.appsyncunified
 Version: 84.0
 Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
+Maintainer: DylbinTheDev
 Depends: 
 Filename: /debs/AppSync14.deb
 Size: 41364
@@ -257,7 +257,7 @@ Name: AppSync Unified (iOS 14)
 Package: com.alt.bigsur
 Version: 1.0.1
 Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
+Maintainer: DylbinTheDev
 Depends: 
 Filename: /debs/BigSurTheme.deb
 Size: 4792996
@@ -272,7 +272,7 @@ Name: Big Sur Theme
 Package: com.pandahelper.deb
 Version: 2.0.9
 Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
+Maintainer: DylbinTheDev
 Depends: 
 Filename: /debs/PandaHelper.deb
 Size: 59182050
@@ -288,7 +288,7 @@ Icon: https://dylbinthedev.github.io/icons/com.pandahelper.deb.png
 Package: com.1conan.tsssaver
 Version: 0.0.4
 Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
+Maintainer: DylbinTheDev
 Depends: com.0x7ff.dimentio
 Filename: /debs/TSSSaver.deb
 Size: 90836
@@ -303,7 +303,7 @@ Name: TSS Saver 2
 Package: com.0x7ff.dimentio
 Version: 0.0.4
 Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
+Maintainer: DylbinTheDev
 Depends: 
 Filename: /debs/Dimentio.deb
 Size: 11332
@@ -318,7 +318,7 @@ Name: dimentio
 Package: com.0x7ff.golb
 Version: 0.0.1
 Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
+Maintainer: DylbinTheDev
 Depends: 
 Filename: /debs/Golb.deb
 Size: 14610
@@ -333,7 +333,7 @@ Name: golb
 Package: com.saurik.afc2d
 Version: 1.2
 Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
+Maintainer: DylbinTheDev
 Depends: mobilesubstrate
 Filename: /debs/AppleFileConduit.deb
 Size: 18114
@@ -348,7 +348,7 @@ Name: Apple File Conduit "2" (Legacy)
 Package: jp.akusio.kernbypass-unofficial
 Version: 0.0.4-1
 Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
+Maintainer: DylbinTheDev
 Depends: mobilesubstrate, applist, preferenceloader, firmware(>=12.0)
 Filename: /debs/KernBypass.deb
 Size: 124572
@@ -363,7 +363,7 @@ Name: KernBypass
 Package: xyz.mogdan.tweakmanager
 Version: 0.1.6-2
 Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
+Maintainer: DylbinTheDev
 Depends: mobilesubstrate
 Filename: /debs/TweakManager.deb
 Size: 1680422
@@ -378,7 +378,7 @@ Name: TweakManager
 Package: uncar
 Version: 0.0.1-6
 Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
+Maintainer: DylbinTheDev
 Depends: mobilesubstrate
 Filename: /debs/Uncar.deb
 Size: 8576
