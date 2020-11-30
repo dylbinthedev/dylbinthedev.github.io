@@ -13,6 +13,7 @@ Description: Delta multi-emulator for iOS 12.2 - 14
 Author: Riley Testut
 Name: Delta
 Icon: https://dylbinthedev.github.io/icons/com.rileytestut.delta.png
+Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/Delta/Delta.html
 
 Package: net.nerd.inds
 Version: 1.10.7
@@ -93,8 +94,9 @@ SHA256: 4bd75ec1317b719eb8a336fc1d734a21da3b327d39f94cdec38e5bb698c1d481
 Section: Multimedia
 Description: Watch free anime without ads. Works on iOS 13 - 14 only.
 Author: BlackKnit
-Name: AnimeGlare v3 (iOS 13/14)
+Name: AnimeGlare v3
 Icon: file:///Applications/Runner.app/AppIcon60x60@2x.png
+Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/AnimeGlare/AnimeGlare.html
 
 Package: com.julioverne.spotilife
 Version: 1.1a
