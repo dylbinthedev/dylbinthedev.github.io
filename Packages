@@ -78,6 +78,7 @@ Description: MediaboxHD for iOS 9 - 14
 Author: Mediaboxhd
 Name: MediaBox HD
 Icon: file:///Applications/MediaBox HD.app/AppIcon60x60@3x.png
+Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/MediaBoxHD/MediaBoxHD.html
 
 Package: com.bkstyle.stylzish
 Version: 1.0.0
