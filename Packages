@@ -14,6 +14,7 @@ Author: Riley Testut
 Name: Delta
 Icon: https://dylbinthedev.github.io/icons/com.rileytestut.delta.png
 Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/Delta/Delta.html
+SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/Delta.json
 
 Package: net.nerd.inds
 Version: 1.10.7
@@ -29,7 +30,7 @@ Section: Games
 Description: Nintendo DS Emulator for iOS 7 - 14
 Author: iNDS Team
 Name: iNDS (64-bit)
-Icon: file:///Applications/iNDS.app/AppIcon60x60@3x.png
+Icon: https://dylbinthedev.github.io/icons/net.nerd.inds.png
 Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/iNDS/iNDS.html
 
 Package: com.spotify.client
