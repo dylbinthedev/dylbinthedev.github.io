@@ -26,7 +26,7 @@ MD5sum: b205abd66963d617681dc8b3bb00e072
 SHA1: 2ca21d6b65a0837415a66061d96462c01b33cc50
 SHA256: 824a9aa1ae30abaf05432aad2d290bd8c2c6e01e36c6f26353ffd0987cf9e46e
 Section: Games
-Description: Nintendo DS Emulator for iOS 9 - 14
+Description: Nintendo DS Emulator for iOS 7 - 14
 Author: iNDS Team
 Name: iNDS (64-bit)
 Icon: file:///Applications/iNDS.app/AppIcon60x60@3x.png
@@ -43,7 +43,7 @@ MD5sum: ae7db3c63defcd502ca5af7d10b6c6e9
 SHA1: ff90ad770ce58bfc16827af3784707cdabc1a308
 SHA256: b466640e379d36b035e8190567dc2f1085c86665e463823bd59dca349aa93d84
 Section: Utilities
-Description: Spotify++ (Full App) for iOS 8 - 14
+Description: Spotify++ (Full App) for iOS 7 - 14
 Author: DylbinTheDev & julioverne
 Name: Spotify++ (App)
 Icon: https://dylbinthedev.github.io/icons/com.spotify.client.png
