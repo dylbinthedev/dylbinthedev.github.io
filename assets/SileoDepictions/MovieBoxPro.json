@@ -24,7 +24,7 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": ""
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Screenshots/1.pnghttps://dylbinthedev.github.io/assets/SileoDepictions/Screenshots/2.pnghttps://dylbinthedev.github.io/assets/SileoDepictions/Screenshots/3.png"
                         }
                     ],
                     "class": "DepictionScreenshotsView"
@@ -32,7 +32,7 @@
                 {
                     "useBoldText": true,
                     "useBottomMargin": false,
-                    "markdown": "This is MovieBoxPro (Latest), which is the latest build of the application pulled straight from the developers.\r\n\r\nWatch your favourite Movies and TV Shows for free. This application is based on the original MovieBox application with many improvements and a new UI.\r\n\r\nYou can watch anything you want for free, but if you want higher quality you have to purchase the VIP package.",
+                    "markdown": "This is MovieBoxPro (Latest), which is the latest build of the application pulled straight from the developers.\r\n\r\nWatch your favourite Movies and TV Shows for free. This application is based on the original MovieBox application with many improvements and a new UI.\r\n\r\nYou can watch anything you want for free, but if you want higher quality you have to purchase the VIP package.\r\n\r\nSupports iOS 11 - 14",
                     "title": "markdown-description",
                     "class": "DepictionMarkdownView"
                 },
@@ -72,7 +72,7 @@
             "class": "DepictionStackView"
         }
     ],
-    "headerImage": "",
+    "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/Screenshots/Moviebox.png",
     "class": "DepictionTabView",
     "tintColor": "#2c2c30"
 }
