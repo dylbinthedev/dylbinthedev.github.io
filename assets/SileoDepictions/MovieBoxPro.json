@@ -1,20 +1,78 @@
 {
-  "minVersion": "7.8",
-  "class": "DepictionTabView",
-  "headerImage": "https://example.com/banner.png",
-  "tintColor": "#2c2c30",
-  "tabs": [
-    {
-      "class": "DepictionStackView",
-      "tabname": "MovieBox Pro",
-      "views": [
+    "minVersion": "0.1",
+    "tabs": [
         {
-          "class": "DepictionHeaderView",
-          "title": "MovieBoxPro (Latest) "
-        },
-        // ... more views can be added here.
-      ],
-        // ... more pages can be added here.
-    }
-  ]
+            "views": [
+                {
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "MovieBoxPro",
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Free Movies and TV Shows",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "itemSize": "{160, 275.41333333333336}",
+                    "itemCornerRadius": 6,
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": ""
+                        }
+                    ],
+                    "class": "DepictionScreenshotsView"
+                },
+                {
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "markdown": "This is MovieBoxPro (Latest), which is the latest build of the application pulled straight from the developers.\r\n\r\nWatch your favourite Movies and TV Shows for free. This application is based on the original MovieBox application with many improvements and a new UI.\r\n\r\nYou can watch anything you want for free, but if you want higher quality you have to purchase the VIP package.",
+                    "title": "markdown-description",
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "7.8",
+                    "title": "Version",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "12-01-2020",
+                    "title": "Released",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "Free",
+                    "title": "Price",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "MovieBoxPro Team",
+                    "title": "Developer",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "tabname": "Details",
+            "class": "DepictionStackView"
+        }
+    ],
+    "headerImage": "",
+    "class": "DepictionTabView",
+    "tintColor": "#2c2c30"
 }
