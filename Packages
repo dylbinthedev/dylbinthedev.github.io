@@ -1,13 +1,13 @@
-Package: com.rileytestut.Delta.Beta.NV3R4T9ZYB
-Version: 1.3b1
+Package: com.rileytestut.Delta
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: DylbinTheDev
 Depends:
 Filename: /debs/Delta.deb
-Size: 14900940
-MD5sum: 23e6e2ba1e49950f6b775ff649bd3715
-SHA1: 2403c75101991b683c8028909e7c06462f988080
-SHA256: f170427f318a600df300656e8cfc3fdd858d1e16b2377241815f4bdede0fab45
+Size: 15059872
+MD5sum: 8b8d83d35d7e7e294c5e3fa4ff19ffad
+SHA1: a4e0b7c59229d9e90d2f3a9c916b82b5c1bcb6a9
+SHA256: 7ba92c5efd950778508f96f6868f7440e18c6939376be37bf66b448e656e5492
 Section: Games
 Description: Delta multi-emulator for iOS 12.2 - 14
 Author: Riley Testut
