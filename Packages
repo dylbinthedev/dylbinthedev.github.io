@@ -114,6 +114,7 @@ Description: Spotify++ Patch for iOS 7 through 14
 Author: DylbinTheDev & julioverne
 Name: Spotilife
 Icon: https://dylbinthedev.github.io/icons/com.spotify.client.png
+Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/Spotilife/Spotilife.html
 
 Package: org.brandonplank.flappybird
 Version: 3.8
@@ -240,6 +241,7 @@ Section: Utilities
 Description: TSS Saver 2 app to save SHSH2 blobs, works with A7-A13 devices on iOS 7 through 14
 Author: 1Conan
 Name: TSS Saver 2
+Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/TSSSaver2/TSSSaver2.html
 
 Package: com.0x7ff.dimentio
 Version: 0.0.4
