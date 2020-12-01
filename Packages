@@ -210,21 +210,6 @@ Depiction: https://cydia.ppsspp.org/?page/org.ppsspp.ppsspp-dev-latest
 Icon: file:///Applications/PPSSPP.app/assets/Icon@3x.png
 Name: PPSSPP (Dev-Latest)
 
-Package: com.cydia.love.appsyncunified
-Version: 84.0
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
-Depends: 
-Filename: /debs/AppSync14.deb
-Size: 41364
-MD5sum: c29f99b6152489d14ead3e659f13e495
-SHA1: b8a506e39e1ea981a57370975db8e07c44cdee74
-SHA256: e0f56f56ed811713c4b903abca87631229e493827fee51822e062e3725177e85
-Section: Tweaks
-Description: Enables the ability to install unsigned/fakesigned iOS applications.
-Author: Karen/あけみ(angelxwind)
-Name: AppSync Unified (iOS 14)
-
 Package: com.alt.bigsur
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -239,22 +224,6 @@ Section: Themes
 Description: Ports macOS Big Sur icons to iOS! Supports Anemone and Snowboard.
 Author: alt03b1
 Name: Big Sur Theme
-
-Package: com.pandahelper.deb
-Version: 2.0.9
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
-Depends: 
-Filename: /debs/PandaHelper.deb
-Size: 59182050
-MD5sum: ca996c4814d5432d90599bfe319eb06b
-SHA1: 72202e9838d40997d7258add434938d8afeb152f
-SHA256: 62c9190238f2f188f6d6b8a63fa30e3330a85e5251d2efc5880c2b4d5b0f7bf6
-Section: Applications
-Description: Panda Helper Store, Supports iOS 9 - 14
-Author: PandaHelper Store
-Name: PandaHelper
-Icon: https://dylbinthedev.github.io/icons/com.pandahelper.deb.png
 
 Package: com.1conan.tsssaver
 Version: 0.0.4

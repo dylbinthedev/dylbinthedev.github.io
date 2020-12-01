@@ -1,6 +1,0 @@
-framework module PHSBReloadFramework {
-  umbrella header "PHSBReloadFramework.h"
-
-  export *
-  module * { export * }
-}
