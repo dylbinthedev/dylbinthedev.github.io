@@ -32,6 +32,7 @@ Author: iNDS Team
 Name: iNDS (64-bit)
 Icon: https://dylbinthedev.github.io/icons/net.nerd.inds.png
 Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/iNDS/iNDS.html
+SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/iNDS.json
 
 Package: com.spotify.client
 Version: 8.5.51
