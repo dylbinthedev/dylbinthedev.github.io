@@ -30,6 +30,7 @@ Description: Nintendo DS Emulator for iOS 9 - 14
 Author: iNDS Team
 Name: iNDS (64-bit)
 Icon: file:///Applications/iNDS.app/AppIcon60x60@3x.png
+Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/iNDS/iNDS.html
 
 Package: com.spotify.client
 Version: 8.5.51
