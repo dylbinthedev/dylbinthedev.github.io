@@ -129,6 +129,7 @@ Description: Perfect Flappy Bird Clone for iOS 7 - 14
 Author: Brandon Plank
 Name: Flappy Bird
 Icon: https://dylbinthedev.github.io/icons/org.brandonplank.flappybird.png
+Depicition: https://dylbinthedev.github.io/assets/CydiaDepictions/FlappyBird/FlappyBird.html
 
 Package: NoahEvans.Spork
 Version: 1.0
@@ -208,39 +209,6 @@ Author: Henrik Rydgård
 Depiction: https://cydia.ppsspp.org/?page/org.ppsspp.ppsspp-dev-latest
 Icon: file:///Applications/PPSSPP.app/assets/Icon@3x.png
 Name: PPSSPP (Dev-Latest)
-
-Package: com.xd.mbp2
-Version: 7.6
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
-Depends: 
-Filename: /debs/MovieBoxTweaked.deb
-Size: 72111512
-MD5sum: ce34f09ca9a50603355d0870c09d0c44
-SHA1: 62fa9a046b12724d7487261ea5e7b790a0530455
-SHA256: 2c0e7f58224519952a7152f5c227fd51e6f3b13c9b15c77287ab4fca56985541
-Section: Multimedia
-Description: MovieBoxPro without ads, Supports iOS 11 - 14
-Author: DangerousPixel
-Name: MovieBox Pro (No Ads)
-Icon: file:///Applications/MovieBox.app/AppIcon60x60@3x.png
-SileoDepiction: https://github.com/dylbinthedev/dylbinthedev.github.io/assets/MovieBox.json
-
-Package: mediaboxhd.event.2
-Version: 2.4.9.2
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
-Depends: 
-Filename: /debs/MediaBoxTweaked.deb
-Size: 59858130
-MD5sum: 4c63ef20c7fcc72c324c7c2d88eaae8d
-SHA1: 6c770ad621c40206adcd1868668af8e901895c12
-SHA256: 498a787da2a3d193b30c803ed69af045c660b005d45728f0a9f1c585d909e0d2
-Section: Multimedia
-Description: Works on iOS 9 through 14
-Author: SarahH12099
-Name: MediaBox HD (No Ads)
-Icon: file:///Applications/MediaBox HD.app/AppIcon60x60@3x.png
 
 Package: com.cydia.love.appsyncunified
 Version: 84.0
