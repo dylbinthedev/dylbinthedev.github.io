@@ -24,7 +24,15 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Screenshots/1.pnghttps://dylbinthedev.github.io/assets/SileoDepictions/Screenshots/2.pnghttps://dylbinthedev.github.io/assets/SileoDepictions/Screenshots/3.png"
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Screenshots/1.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Screenshots/2.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot2",
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Screenshots/3.png"
                         }
                     ],
                     "class": "DepictionScreenshotsView"
