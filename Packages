@@ -99,6 +99,7 @@ Author: BlackKnit
 Name: AnimeGlare v3
 Icon: file:///Applications/Runner.app/AppIcon60x60@2x.png
 Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/AnimeGlare/AnimeGlare.html
+SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/AnimeGlare.json
 
 Package: com.julioverne.spotilife
 Version: 1.1a

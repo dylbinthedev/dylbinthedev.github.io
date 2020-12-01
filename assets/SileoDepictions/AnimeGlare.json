@@ -1,0 +1,86 @@
+{
+    "minVersion": "0.1",
+    "tabs": [
+        {
+            "views": [
+                {
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "AnimeGlarev3",
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Watch free anime without ads and without bullshit.",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "itemSize": "{160, 275.41333333333336}",
+                    "itemCornerRadius": 6,
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/AnimeGlare/1.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/AnimeGlare/2.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot2",
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/AnimeGlare/3.png"
+                        }
+                    ],
+                    "class": "DepictionScreenshotsView"
+                },
+                {
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "markdown": "This is AnimeGlare Version 3, which is the latest build of the application pulled straight from the developer.\r\n\r\nThis application is an improved version of AnimeGlare v2.\r\n\r\nCompatible with iOS 13 - 14 only.",
+                    "title": "markdown-description",
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "1.0.0",
+                    "title": "Version",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "12-01-2020",
+                    "title": "Released",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "Free",
+                    "title": "Price",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "BlackKnit",
+                    "title": "Developer",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "tabname": "Details",
+            "class": "DepictionStackView"
+        }
+    ],
+    "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/AnimeGlare/header.png",
+    "class": "DepictionTabView",
+    "tintColor": "#f55255"
+}
