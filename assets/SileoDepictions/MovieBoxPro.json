@@ -1,0 +1,20 @@
+{
+  "minVersion": "7.8",
+  "class": "DepictionTabView",
+  "headerImage": "https://example.com/banner.png",
+  "tintColor": "#2c2c30",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "MovieBox Pro",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "MovieBoxPro (Latest) "
+        },
+        // ... more views can be added here.
+      ],
+        // ... more pages can be added here.
+    }
+  ]
+}

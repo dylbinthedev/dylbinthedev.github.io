@@ -64,6 +64,7 @@ Author: MovieBoxPro Team
 Name: MovieBox Pro (Latest)
 Icon: file:///Applications/MovieBox.app/AppIcon60x60@3x.png
 Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/MovieBoxPro/MovieBoxPro.html
+SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/MovieBoxPro.json
 
 Package: mediaplayer.box.ios3
 Version: 2.4.9.2
