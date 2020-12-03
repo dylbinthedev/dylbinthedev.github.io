@@ -168,6 +168,7 @@ Section: Tweaks
 Description: Patch for YouTube to add background playback and removal of ads. Supports iOS 12 - 14
 Author: iChitaso	
 Name: YouTube Patcher
+Depiction: https://dylbinthedev.github.io/CydiaDepictions/YouTubePatcher/YouTubePatcher.html
 
 Package: io.pangu.loader
 Version: 1.2.0
@@ -183,6 +184,7 @@ Section: Packaging
 Description: Pangu's package manager installed by the Pangu8 untethered jailbreak. Supports iOS 8.0 - 8.1.x only
 Author: Pangu Team	
 Name: Pangu Loader (iOS 8)
+Icon: https://dylbinthedev.github.io/icons/io.pangu.loader.png
 
 Package: org.ppsspp.ppsspp-dev-working
 Version: 0v1.6.3-456-g6d0ed4ad0
@@ -198,7 +200,7 @@ Section: Games
 Description: A PSP Emulator for iOS 6 - 14 (Latest Working Dev Build)
 Author: Henrik Rydgård	
 Depiction: https://cydia.ppsspp.org/?page/org.ppsspp.ppsspp-dev-working
-Icon: file:///Applications/PPSSPP.app/assets/Icon@3x.png
+Icon: https://cydia.ppsspp.org/favicon.ico
 Name: PPSSPP (Dev-Working)
 
 Package: org.ppsspp.ppsspp-dev-latest
@@ -215,7 +217,7 @@ Section: Games
 Description: A PSP Emulator for iOS 6 - 14 (Latest Dev Build)
 Author: Henrik Rydgård
 Depiction: https://cydia.ppsspp.org/?page/org.ppsspp.ppsspp-dev-latest
-Icon: file:///Applications/PPSSPP.app/assets/Icon@3x.png
+Icon: https://cydia.ppsspp.org/favicon.ico
 Name: PPSSPP (Dev-Latest)
 
 Package: com.alt.bigsur
