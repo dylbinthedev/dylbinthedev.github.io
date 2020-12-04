@@ -169,6 +169,7 @@ Section: Tweaks
 Description: Patch for YouTube to add background playback and removal of ads. Supports iOS 12 - 14
 Author: iChitaso	
 Name: YouTube Patcher
+Icon: https://dylbinthedev.github.io/icons/com.ichitaso.youtubepatcher.png
 Depiction: https://dylbinthedev.github.io/CydiaDepictions/YouTubePatcher/YouTubePatcher.html
 
 Package: io.pangu.loader
@@ -234,6 +235,7 @@ SHA256: 1a2815dacb6e280f3bb3951c03a1fa4113d2faae5b56211464f867a7054c3c83
 Section: Themes
 Description: Ports macOS Big Sur icons to iOS! Supports Anemone and Snowboard.
 Author: alt03b1
+Icon: https://dylbinthedev.github.io/icons/com.alt.bigsur.png
 Name: Big Sur Theme
 
 Package: com.1conan.tsssaver
@@ -250,6 +252,7 @@ Section: Utilities
 Description: TSS Saver 2 app to save SHSH2 blobs, works with A7-A13 devices on iOS 7 through 14
 Author: 1Conan
 Name: TSS Saver 2
+Icon: https://dylbinthedev.github.io/icons/com.1conan.tsssaver.png
 Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/TSSSaver2/TSSSaver2.html
 
 Package: com.0x7ff.dimentio
@@ -343,6 +346,7 @@ SHA256: a2448d5d75e57515effaeb18e7a566e38b6422fd57d3c7a48ac2733b485488e3
 Section: System
 Description: Command line tool that allows you to extract png images from Asset.car files.
 Author: Elias Limneos
+Icon: https://dylbinthedev.github.io/icons/uncar.png
 Name: uncar
 
 
