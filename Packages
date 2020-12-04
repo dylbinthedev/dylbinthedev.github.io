@@ -49,6 +49,7 @@ Description: Spotify++ (Full App) for iOS 7 - 14
 Author: DylbinTheDev & julioverne
 Name: Spotify++ (App)
 Icon: https://dylbinthedev.github.io/icons/com.spotify.client.png
+Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/Spotify++/Spotify++.html
 
 Package: com.xd.mbp7
 Version: 7.8
@@ -265,6 +266,7 @@ Section: System
 Description: PoC tool for setting/getting nonce without triggering KPP/KTRR/PAC. (requires tfp0)
 Author: 0x7ff
 Name: dimentio
+Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/dimentio/dimentio.html
 
 Package: com.0x7ff.golb
 Version: 0.0.1
@@ -295,6 +297,7 @@ Section: System
 Description: allow full file-system access over USB on iOS 9 and below.
 Author: Jay Freeman (saurik)
 Name: Apple File Conduit "2" (Legacy)
+Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/AppleFileConduit/AppleFileConduit.html
 
 Package: jp.akusio.kernbypass-unofficial
 Version: 0.0.4-1
@@ -310,6 +313,7 @@ Section: System
 Description: kernel level jailbreak detection bypass, works on iOS 12 - 14.1 only. Setup process: Settings -> KernBypass -> Enable KernBypass -> Reboot -> Select Applications
 Author: akusio
 Name: KernBypass
+Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/KernBypass/KernBypass.html
 
 Package: xyz.mogdan.tweakmanager
 Version: 0.1.6-2
