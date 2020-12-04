@@ -1,0 +1,78 @@
+{
+    "minVersion": "0.1",
+    "tabs": [
+        {
+            "views": [
+                {
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "YouTubePatcher",
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Patches youtube app to allow background playback and removes all video ads.",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "itemSize": "{160, 275.41333333333336}",
+                    "itemCornerRadius": 6,
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": ""
+                        }
+                    ],
+                    "class": "DepictionScreenshotsView"
+                },
+                {
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "markdown": "Patches youtube app to allow background playback and removes all video ads. Supports iOS 12 - 14",
+                    "title": "markdown-description",
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "1.0",
+                    "title": "Version",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "12-04-2020",
+                    "title": "Released",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "Free",
+                    "title": "Price",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "iChitaso",
+                    "title": "Developer",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "tabname": "Details",
+            "class": "DepictionStackView"
+        }
+    ],
+    "headerImage": "",
+    "class": "DepictionTabView",
+    "tintColor": "#ff3354"
+}

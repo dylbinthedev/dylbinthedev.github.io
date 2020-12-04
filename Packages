@@ -171,6 +171,7 @@ Author: iChitaso
 Name: YouTube Patcher
 Icon: https://dylbinthedev.github.io/icons/com.ichitaso.youtubepatcher.png
 Depiction: https://dylbinthedev.github.io/CydiaDepictions/YouTubePatcher/YouTubePatcher.html
+SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/YouTubePatcher.json
 
 Package: io.pangu.loader
 Version: 1.2.0
