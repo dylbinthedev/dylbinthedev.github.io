@@ -1,0 +1,90 @@
+{
+    "minVersion": "0.1",
+    "tabs": [
+        {
+            "views": [
+                {
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "Delta",
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Multi emulator for iOS 12.2 - 14",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "itemSize": "{160, 275.41333333333336}",
+                    "itemCornerRadius": 6,
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepiction/DeltaBeta/1.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepiction/DeltaBeta/2.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot2",
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepiction/DeltaBeta/3.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot3",
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepiction/DeltaBeta/4.png"
+                        }
+                    ],
+                    "class": "DepictionScreenshotsView"
+                },
+                {
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "markdown": "This is Delta (Beta), which is an improved version of GBA4iOS with a brand new UI features and console support.\r\n\r\nDelta allows you to play GBC, GBA, NES, SNES, N64 and NDS games it also supports MFi controllers like Dualshock 4 and Xbox One S controllers.\r\n\r\nAction replay cheat codes can be used, Dropbox Sync and custom skins.\r\n\r\nSupports iOS 12.2 - 14",
+                    "title": "markdown-description",
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "1.3b2",
+                    "title": "Version",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "12-01-2020",
+                    "title": "Released",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "Free",
+                    "title": "Price",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "Riley Testut",
+                    "title": "Developer",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "tabname": "Details",
+            "class": "DepictionStackView"
+        }
+    ],
+    "headerImage": "https://dylbinthedev.github.io/assets/SileoDepiction/DeltaBeta/header.png",
+    "class": "DepictionTabView",
+    "tintColor": "#7824d0"
+}

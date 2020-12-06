@@ -31,8 +31,8 @@ Description: Delta (Beta) multi-emulator for iOS 12.2 - 14
 Author: Riley Testut
 Name: Delta Beta
 Icon: https://dylbinthedev.github.io/icons/com.rileytestut.delta.png
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/Delta/Delta.html
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/Delta.json
+Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/DeltaBeta/DeltaBeta.html
+SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/DeltaBeta.json
 
 Package: net.nerd.inds
 Version: 1.10.7
@@ -221,7 +221,7 @@ Section: Games
 Description: A PSP Emulator for iOS 6 - 14 (Latest Working Dev Build)
 Author: Henrik Rydgård	
 Depiction: https://cydia.ppsspp.org/?page/org.ppsspp.ppsspp-dev-working
-Icon: https://dylbinthedev.github.io/icons/org.ppspp.ppsspp-dev-working.png
+Icon: https://dylbinthedev.github.io/icons/org.ppsspp.ppsspp-dev-working.png
 Name: PPSSPP (Dev-Working)
 
 Package: org.ppsspp.ppsspp-dev-latest
@@ -238,7 +238,7 @@ Section: Games
 Description: A PSP Emulator for iOS 6 - 14 (Latest Dev Build)
 Author: Henrik Rydgård
 Depiction: https://cydia.ppsspp.org/?page/org.ppsspp.ppsspp-dev-latest
-Icon: https://dylbinthedev.github.io/icons/org.ppspp.ppsspp-dev-latest.png
+Icon: https://dylbinthedev.github.io/icons/org.ppsspp.ppsspp-dev-latest.png
 Name: PPSSPP (Dev-Latest)
 
 Package: com.alt.bigsur
