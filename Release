@@ -1,8 +1,8 @@
-Origin: Dylan Elmbark's Repo
-Label: Dylan Elmbark's Repo
+Origin: DylbinTheDev's Repo
+Label: DylbinTheDev's Repo
 Suite: stable
 Version: 2.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: This repository provides emulators, dev tools, tweaks, apps and more.
+Description: APT Repository for jailbroken iOS devices. Designed with Sileo in mind.
