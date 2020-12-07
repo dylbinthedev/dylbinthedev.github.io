@@ -11,9 +11,15 @@
       },
       {  
          "url":"https://dylbinthedev.github.io/assets/SileoDepictions/FlappyBird/header.png",
-         "title":"Flappy Bird",
+         "title":"FlappyBird",
          "package":"org.brandonplank.flappybird",
          "hideShadow":false
       },
+	  {
+	     "url":"https://dylbinthedev.github.io/assets/SileoDepictions/AnimeGlare/header.png",
+         "title":"AnimeGlare",
+         "package":"com.bkstyle.stylzish",
+         "hideShadow":false
+	  },
    ]
 }
