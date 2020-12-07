@@ -21,5 +21,17 @@
          "package":"com.bkstyle.stylzish",
          "hideShadow":false
 	  },
+	  {
+	     "url":"https://dylbinthedev.github.io/assets/SileoDepictions/iNDS/header.png",
+         "title":"iNDS",
+         "package":"net.nerd.inds",
+         "hideShadow":false
+      },
+	  {
+	     "url":"https://dylbinthedev.github.io/assets/SileoDepictions/MediaBoxHD/header.png",
+         "title":"MediaBoxHD",
+         "package":"mediaplayer.box.ios3",
+         "hideShadow":false
+      },
    ]
 }
