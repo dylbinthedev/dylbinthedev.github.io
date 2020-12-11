@@ -402,6 +402,36 @@ Depiction: https://cydia.oatmealdome.me/depictions/?p=me.oatmealdome.csdbgd
 Icon: https://dylbinthdev.github.io/icons/me.oatmealdome.csdbgd.png
 Name: csdbgd
 
+Package: iOSGods.com.AmongUS
+Version: 2020.11.17+iOSGods.com
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Depends:
+Filename: /debs/AmongUs.deb
+Size: 2421428
+MD5sum: adf213072c704fa33f7508808340daa5
+SHA1: a22d32c6d5d134de186df80c8baffb33f5afa427
+SHA256: edaff15525a6e563d00c96ca277a5e5530e4706858a7f4b81ca8b8952f275164
+Section: Tweaks
+Description: AmongUs Hack for iOS 14 and below. (requires Among Us app from the appstore.)
+Author: Laxus
+Name: Among Us++
+
+Package: iOSGods.com.WildRift
+Version: 3585+iOSGods.com
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Depends:
+Filename: /debs/WildRift.deb
+Size: 2417620
+MD5sum: 23cd229bca5af79fb02fd4ff49d330ca
+SHA1: 23570840cce31d2fe0cc762586c95b5abe8e65a4
+SHA256: a32df30a71a7a2e783f298c01850a580e3b42d746ab755767535fd3d4206bc1b
+Section: Tweaks
+Description: Wild Rift Hack for iOS 14 and below. (requires LoL Wild Rift app from the appstore.)
+Author: Laxus
+Name: League of Legends Wild Rift++
+
 
 
 
