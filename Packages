@@ -137,7 +137,7 @@ Description: Perfect Flappy Bird Clone for iOS 7 - 14
 Author: Brandon Plank
 Name: Flappy Bird
 Icon: https://dylbinthedev.github.io/icons/org.brandonplank.flappybird.png
-Depicition: https://dylbinthedev.github.io/assets/CydiaDepictions/FlappyBird/FlappyBird.html
+Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/FlappyBird/FlappyBird.html
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/FlappyBird.json
 
 Package: NoahEvans.Spork
