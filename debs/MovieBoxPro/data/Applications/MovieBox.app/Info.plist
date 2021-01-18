@@ -16,7 +16,7 @@
       </dict>
     </array>
     <key>DTPlatformVersion</key>
-    <string>14.0</string>
+    <string>14.2</string>
     <key>UIRequiredDeviceCapabilities</key>
     <array>
       <string>armv7</string>
@@ -24,7 +24,7 @@
     <key>CFBundleName</key>
     <string>MovieBox</string>
     <key>DTSDKName</key>
-    <string>iphoneos14.0</string>
+    <string>iphoneos14.2</string>
     <key>NSPhotoLibraryUsageDescription</key>
     <string>Allow MovieBoxPro save  photo to your library?</string>
     <key>UISupportedInterfaceOrientations~ipad</key>
@@ -85,11 +85,11 @@
       <string>remote-notification</string>
     </array>
     <key>DTSDKBuild</key>
-    <string>18A390</string>
+    <string>18B79</string>
     <key>NSCameraUsageDescription</key>
     <string>Allow MovieBoxPro access your Camera?</string>
     <key>CFBundleShortVersionString</key>
-    <string>7.8</string>
+    <string>8.1</string>
     <key>CFBundleSupportedPlatforms</key>
     <array>
       <string>iPhoneOS</string>
@@ -103,9 +103,9 @@
       <string>UIInterfaceOrientationLandscapeRight</string>
     </array>
     <key>BuildMachineOSBuild</key>
-    <string>19E266</string>
+    <string>20C69</string>
     <key>DTPlatformBuild</key>
-    <string>18A390</string>
+    <string>18B79</string>
     <key>BGTaskSchedulerPermittedIdentifiers</key>
     <array>
       <string>com.googleusercontent.apps.939879918880-iivvs1u1i0jk5jviduoja63p1n45cs6n</string>
@@ -115,7 +115,7 @@
     <key>CFBundleDevelopmentRegion</key>
     <string>en</string>
     <key>DTXcodeBuild</key>
-    <string>12A7300</string>
+    <string>12B45b</string>
     <key>CFBundleVersion</key>
     <string>1</string>
     <key>MinimumOSVersion</key>
@@ -143,7 +143,7 @@
     <key>CFBundleIdentifier</key>
     <string>com.xd.mbp7</string>
     <key>DTXcode</key>
-    <string>1201</string>
+    <string>1220</string>
     <key>CFBundleExecutable</key>
     <string>MovieBox</string>
     <key>NSAppTransportSecurity</key>
@@ -201,6 +201,6 @@ network.</string>
       </dict>
     </array>
     <key>DTAppStoreToolsBuild</key>
-    <string>12A7300</string>
+    <string>12B45b</string>
   </dict>
 </plist>
