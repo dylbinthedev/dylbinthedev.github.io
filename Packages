@@ -105,18 +105,18 @@ Icon: https://dylbinthedev.github.io/icons/mediaplayer.box.ios3.png
 Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/MediaBoxHD/MediaBoxHD.html
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/MediaBoxHD.json
 
-Package: com.bkstyle.stylzish
-Version: 1.0.0
+Package: com.black.animeglare
+Version: 3.0.1
 Architecture: iphoneos-arm
 Maintainer: DylbinTheDev
 Depends:
 Filename: /debs/AnimeGlare.deb
-Size: 20598948
-MD5sum: ea9971754ff1262e371e5d2c8d5d9807
-SHA1: 84ed115d49618d5eaf5be7684cb7621ad23f89c7
-SHA256: 4bd75ec1317b719eb8a336fc1d734a21da3b327d39f94cdec38e5bb698c1d481
+Size: 128619146
+MD5sum: de853d5e5e79b1aeec6604a5c5564b3e
+SHA1: f35852c4a1192d595caeab4519623ac572a8154c
+SHA256: 319014d58e51f870552355b0ddf50939c8de38634476c9ac13933676509f7889
 Section: Multimedia
-Description: Watch free anime without ads. Works on iOS 13 - 14 only.
+Description: Watch free anime without ads. Works on iOS 12 - 14 only.
 Author: BlackKnit
 Name: AnimeGlare v3
 Icon: file:///Applications/Runner.app/AppIcon60x60@2x.png
