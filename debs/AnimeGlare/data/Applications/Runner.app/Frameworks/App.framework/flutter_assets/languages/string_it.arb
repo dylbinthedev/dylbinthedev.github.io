@@ -1,6 +1,7 @@
 {
-	"language_name": "Italiano",
-	"language_country": "ITA",
+	"language_name": "Italian/Italiano",
+	"language_country": "ITALY",
+	"countryCode": "IT",
 	"translator_name": "Cescotron",
 	"home": "Home",
 	"animes": "Anime",
@@ -98,5 +99,5 @@
 	"profile_page_spent_watching": "Anime che sto guardando",
 	"profile_page_spent_hold": "Anime in attesa",
 	"search_error_no_info_found_ptone": "AnimeGlare non è stato in grado di recuperare le informazioni richieste",
-	"search_error_no_info_found_pttwo": "Perfavore riprova o invia una segnalazione nel canale Discord #bug-report"
+	"search_error_no_info_found_pttwo": "Perfavore riprova o invia una segnalazione nel canale Discord #bug-report ."
 }
