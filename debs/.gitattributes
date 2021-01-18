@@ -9,3 +9,4 @@ debs/** filter=lfs diff=lfs merge=lfs -text
 /unins000.msg filter=lfs diff=lfs merge=lfs -text
 /cmd filter=lfs diff=lfs merge=lfs -text
 C:/Users/Dylan/AppData/Local/Temp filter=lfs diff=lfs merge=lfs -text
+debs/ filter=lfs diff=lfs merge=lfs -text
