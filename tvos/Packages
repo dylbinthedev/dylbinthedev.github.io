@@ -3,7 +3,7 @@ Version: 2.0.1
 Architecture: appletvos-arm64
 Maintainer: Dylan Elmbark
 Depends:
-Filename: ./dylbinthedev.github.io/tvos/debs/LinkIdentityEditor.deb
+Filename: /tvos/debs/LinkIdentityEditor.deb
 Size: 569552
 MD5sum: ae1f48bb8ecc411261381dc82a261619
 SHA1: 46b21741da7ee78638e2092c101e56c7e929090f
@@ -18,7 +18,7 @@ Version: 1.0
 Architecture: appletvos-arm64
 Maintainer: Dylan Elmbark
 Depends:
-Filename: ./dylbinthedev.github.io/tvos/debs/MovieBoxProTV.deb
+Filename: /tvos/debs/MovieBoxProTV.deb
 Size: 5547216
 MD5sum: febc6ce32142e4fb1f3f106bc9bdbe4d
 SHA1: 3ad8f32f8153f363dd94d9a81fb71ec76724fcea
