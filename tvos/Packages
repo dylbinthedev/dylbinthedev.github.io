@@ -3,7 +3,7 @@ Version: 2.0.1
 Architecture: appletvos-arm64
 Maintainer: Dylan Elmbark
 Depends:
-Filename: /dylbinthedev.github.io/tvos/debs/LinkIdentityEditor.deb
+Filename: ./dylbinthedev.github.io/tvos/debs/LinkIdentityEditor.deb
 Size: 569552
 MD5sum: ae1f48bb8ecc411261381dc82a261619
 SHA1: 46b21741da7ee78638e2092c101e56c7e929090f
@@ -11,7 +11,6 @@ SHA256: 6ba37ee822ffe21da2212bf1c25ca8d83abbebb1ff3c117b8629078858c9ee8d
 Section: Development
 Description: pseudo-codesign Mach-O files.
 Author: Jay Freeman (saurik)
-Priority: optional
 Name: Link Identity Editor (ldid)
 
 Package: com.thenews.app
@@ -19,7 +18,7 @@ Version: 1.0
 Architecture: appletvos-arm64
 Maintainer: Dylan Elmbark
 Depends:
-Filename: /dylbinthedev.github.io/tvos/debs/MovieBoxProTV.deb
+Filename: ./dylbinthedev.github.io/tvos/debs/MovieBoxProTV.deb
 Size: 5547216
 MD5sum: febc6ce32142e4fb1f3f106bc9bdbe4d
 SHA1: 3ad8f32f8153f363dd94d9a81fb71ec76724fcea
@@ -27,7 +26,6 @@ SHA256: 0be30d268f7aaca7a2f1885a9305e1e597a481e5947c811de98e3e6d82babffb
 Section: Multimedia
 Description: Free Movies and TV Shows for tvOS 13 and 14.
 Author: MovieBoxPro Team
-Priority: optional
 Name: MovieBoxPro TV
 
 
