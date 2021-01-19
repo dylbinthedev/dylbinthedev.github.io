@@ -28,6 +28,36 @@ Description: Free Movies and TV Shows for tvOS 13 and 14.
 Author: MovieBoxPro Team
 Name: MovieBoxPro TV
 
+Package: com.linusyang.appinst
+Version: 1.1.2
+Architecture: appletvos-arm64
+Maintainer: Dylan Elmbark
+Depends: us.diatr.appsyncunified (>= 5.1)
+Filename: /debs/AppInst.deb
+Size: 25436
+MD5sum: 0f6f4d9dfdf71e58359692c1f2b6ebdc
+SHA1: 9e6ad361ec5e83edcd01e22d750fcb4a00f13874
+SHA256: 4428c5a34b911fa3122817bd4bab88ffcef96af491f73542376121874c7c2d67
+Section: Utilities
+Description: Install IPAs from the command line (requires AppSync Unified.)
+Author: Linus Yang & Diatrus
+Name: appinst (IPA Installer)
+
+Package: us.diatr.appsyncunified
+Version: 77.0
+Architecture: appletvos-arm64
+Maintainer: Dylan Elmbark
+Depends: firmware (>= 10.0), mobilesubstrate
+Pre-Depends : cy+model.appletv
+Filename: /debs/AppSyncTV.deb
+Size: 12316
+MD5sum: f56ecda03e6112085f968513aa6e0cae
+SHA1: 2e9114e82f933fae52195f1ccfe89c2bea0ba9df
+SHA256: a4f472676ba9713681e84dc670d521685530ed8aa92f3edc13230ebd33d33315
+Section: Tweaks
+Description: Enables the ability to install unsigned/fakesigned tvOS applications. Supports tvOS 10, 11, 12, 13 and has arm64 support.
+Author: angelxwind & Diatrus
+Name: AppSync Unified for tvOS
 
 
 
