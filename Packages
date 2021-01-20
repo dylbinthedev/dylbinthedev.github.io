@@ -369,6 +369,21 @@ Depiction: https://cydia.oatmealdome.me/depictions/?p=me.oatmealdome.csdbgd
 Icon: https://dylbinthdev.github.io/icons/me.oatmealdome.csdbgd.png
 Name: csdbgd
 
+Package: com.simplycode.PostBox
+Version: 0.4
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Depends:
+Filename: /debs/PostBox.deb
+Size: 9400786
+MD5sum: e15b42be23cd442283d4f42c8c9bc1b5
+SHA1: b2af1d3c256abf420242d39f0d62c1019799881d
+SHA256: 61718b0424d7b29cc7807b9377b6fdddaa6bf5dbcff6cdb56dd6481895553f9e
+Section: Utilities
+Description: View APT Repositories and packages, Works on iOS 13 and up.
+Author: Nathan Choi
+Icon: https://dylbinthdev.github.io/debs/PostBox/data/Applications/PostBox.app/AppIcon60x60@2x.png
+Name: PostBox
 
 
 
