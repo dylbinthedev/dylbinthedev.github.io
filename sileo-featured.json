@@ -16,12 +16,6 @@
          "hideShadow":false
       },
 	  {
-	     "url":"https://dylbinthedev.github.io/assets/SileoDepictions/AnimeGlare/header.png",
-         "title":"AnimeGlare",
-         "package":"com.bkstyle.stylzish",
-         "hideShadow":false
-	  },
-	  {
 	     "url":"https://dylbinthedev.github.io/assets/SileoDepictions/Delta/header.png",
          "title":"Delta",
          "package":"com.rileytestut.delta",
