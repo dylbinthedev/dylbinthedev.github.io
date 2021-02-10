@@ -237,6 +237,7 @@ Section: Themes
 Description: Ports macOS Big Sur icons to iOS! Supports Anemone and Snowboard.
 Author: alt03b1
 Icon: https://dylbinthedev.github.io/icons/com.alt.bigsur.png
+SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/BigSurTheme.json
 Name: Big Sur Theme
 
 Package: com.1conan.tsssaver
