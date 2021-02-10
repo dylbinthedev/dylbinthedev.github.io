@@ -256,6 +256,7 @@ Author: 1Conan
 Name: TSS Saver 2
 Icon: https://dylbinthedev.github.io/icons/com.1conan.tsssaver.png
 Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/TSSSaver2/TSSSaver2.html
+SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/TSSSaver2.json
 
 Package: com.0x7ff.dimentio
 Version: 0.0.4
