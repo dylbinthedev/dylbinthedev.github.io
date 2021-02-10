@@ -272,21 +272,6 @@ Author: 0x7ff
 Name: dimentio
 Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/dimentio/dimentio.html
 
-Package: com.0x7ff.golb
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
-Depends: 
-Filename: /debs/Golb.deb
-Size: 14610
-MD5sum: 1a80eba4c8491b42a8c00627615db590
-SHA1: 266a510c608cbc1887292b790419256ab7a5b557
-SHA256: 91395aa1bdb5b71bfb47e70dbc52ca1ce691c4731a002a0df540842286a52a3f
-Section: System
-Description: Mapping physical memory to user space (EL0) on iOS. (+ AES PoC)
-Author: 0x7ff
-Name: golb
-
 Package: com.saurik.afc2d
 Version: 1.2
 Architecture: iphoneos-arm
@@ -303,22 +288,6 @@ Author: Jay Freeman (saurik)
 Name: Apple File Conduit "2" (Legacy)
 Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/AppleFileConduit/AppleFileConduit.html
 
-Package: jp.akusio.kernbypass-unofficial
-Version: 0.0.4-1
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
-Depends: mobilesubstrate, applist, preferenceloader, firmware(>=12.0)
-Filename: /debs/KernBypass.deb
-Size: 124572
-MD5sum: 2c2b66ad38f31c88d9ce296eed8cd820
-SHA1: 9dd23c9263ea835024cffce1b004dabe05c6f3ed
-SHA256: f059bf1b650ac75e16b8c3f0934fe9d5094fb633bd336c67551ff2f474ea39ce
-Section: System
-Description: kernel level jailbreak detection bypass, works on iOS 12 - 14.1 only. Setup process: Settings -> KernBypass -> Enable KernBypass -> Reboot -> Select Applications
-Author: akusio
-Name: KernBypass
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/KernBypass/KernBypass.html
-
 Package: uncar
 Version: 0.0.1-6
 Architecture: iphoneos-arm
@@ -334,40 +303,6 @@ Description: Command line tool that allows you to extract png images from Asset.
 Author: Elias Limneos
 Icon: https://dylbinthedev.github.io/icons/uncar.png
 Name: uncar
-
-Package: me.oatmealdome.dolphinios
-Version: 3.1.1-129
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
-Depends: me.oatmealdome.csdbgd
-Filename: /debs/Dolphin.deb
-Size: 4464
-MD5sum: 3306e05bac8a1c93c90ac0b862cb688f
-SHA1: ce35a06baebd0a416806adf65fe15253f08c3cba
-SHA256: f107376805dfc52c5a90f1f412ffe6dd72d645e206d95a3064199853c624d864
-Section: Games
-Description: A GameCube and Wii emulator for iOS
-Author: OatmealDome
-Depiction: https://cydia.oatmealdome.me/depictions/?p=me.oatmealdome.dolphinios
-Icon: https://dylbinthdev.github.io/icons/me.oatmealdome.dolphinios.png
-Name: Dolphin iOS
-
-Package: me.oatmealdome.csdbgd
-Version: 2.1.0-248
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
-Depends: me.oatmealdome.dolphinios
-Filename: /debs/csdbgd.deb
-Size: 52016724
-MD5sum: a45b4f89b078fad6cd3ab9ca724d1b00
-SHA1: 28f340a2417cfdb15425255e7b0940badefdcd08
-SHA256: 80c1899fcfd5f24310f6b1b1593a20f33caa9e93ade5e893c915663eae706eee
-Section: Utilities
-Description: Sets processes as debugged on request
-Author: OatmealDome
-Depiction: https://cydia.oatmealdome.me/depictions/?p=me.oatmealdome.csdbgd
-Icon: https://dylbinthdev.github.io/icons/me.oatmealdome.csdbgd.png
-Name: csdbgd
 
 Package: com.simplycode.PostBox
 Version: 0.4
