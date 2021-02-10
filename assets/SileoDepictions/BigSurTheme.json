@@ -2,17 +2,19 @@
     "minVersion": "0.1",
     "tabs": [
         {
+            "class": "DepictionStackView",
+            "tabname": "Details",
             "views": [
                 {
-                    "useBoldText": true,
                     "useBottomMargin": false,
-                    "title": "AnimeGlarev3",
+                    "title": "BigSurTheme",
+                    "useBoldText": true,
                     "class": "DepictionSubheaderView"
                 },
                 {
-                    "markdown": "Watch free anime without ads and without bullshit.",
-                    "useSpacing": true,
-                    "class": "DepictionMarkdownView"
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Ports macOS Big Sur icons to iOS! Supports both Anemone and Snowboard.",
+                    "useSpacing": true
                 },
                 {
                     "spacing": 8,
@@ -21,39 +23,31 @@
                 {
                     "itemSize": "{160, 275.41333333333336}",
                     "itemCornerRadius": 6,
+                    "class": "DepictionScreenshotsView",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/AnimeGlare/1.png"
-                        },
-                        {
-                            "accessibilityText": "Screenshot1",
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/AnimeGlare/2.png"
-                        },
-                        {
-                            "accessibilityText": "Screenshot2",
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/AnimeGlare/3.png"
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/BigSurTheme/header.png\""
                         }
-                    ],
-                    "class": "DepictionScreenshotsView"
+                    ]
                 },
                 {
-                    "useBoldText": true,
+                    "markdown": "Ports macOS Big Sur icons to iOS! Supports both Anemone and Snowboard.",
                     "useBottomMargin": false,
-                    "markdown": "This is AnimeGlare Version 3, which is the latest build of the application pulled straight from the developer.\r\n\r\nThis application is an improved version of AnimeGlare v2.\r\n\r\nCompatible with iOS 13 - 14 only.",
                     "title": "markdown-description",
+                    "useBoldText": true,
                     "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "1.0.0",
+                    "text": "1.0.1",
                     "title": "Version",
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "12-01-2020",
+                    "text": "02-10-2021",
                     "title": "Released",
                     "class": "DepictionTableTextView"
                 },
@@ -67,20 +61,18 @@
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "text": "BlackKnit",
-                    "title": "Developer",
+                    "text": "iOS 11 - 14",
+                    "title": "Supported iOS Versions",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "spacing": 8,
                     "class": "DepictionSpacerView"
                 }
-            ],
-            "tabname": "Details",
-            "class": "DepictionStackView"
+            ]
         }
     ],
-    "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/AnimeGlare/header.png",
-    "class": "DepictionTabView",
-    "tintColor": "#f55255"
+    "tintColor": "#3F93E5",
+    "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/BigSurTheme/1.png\"",
+    "class": "DepictionTabView"
 }
