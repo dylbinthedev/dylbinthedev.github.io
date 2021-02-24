@@ -4,9 +4,9 @@
    "itemCornerRadius":10,
    "banners":[  
       {  
-         "url":"https://dylbinthedev.github.io/assets/SileoDepictions/Screenshots/Moviebox.png",
-         "title":"MovieBoxPro",
-         "package":"com.xd.mbp7",
+         "url":"https://dylbinthedev.github.io/assets/SileoDepictions/PopcornClient/header.png",
+         "title":"PopcornTime",
+         "package":"com.hotdog.popcorntime81.ios",
          "hideShadow":false
       },
       {  
@@ -16,9 +16,9 @@
          "hideShadow":false
       },
 	  {
-	     "url":"https://dylbinthedev.github.io/assets/SileoDepictions/PopcornClient/header.png",
-         "title":"PopcornTime",
-         "package":"com.hotdog.popcorntime81.ios",
+	     "url":"https://dylbinthedev.github.io/assets/SileoDepictions/Spotilife/header.png",
+         "title":"Spotilife",
+         "package":"com.julioverne.spotilife",
          "hideShadow":false
       },
 	  {
@@ -27,5 +27,11 @@
          "package":"mediaplayer.box.ios3",
          "hideShadow":false
       },
+	  {
+		 "url":"https://dylbinthedev.github.io/assets/SileoDepictions/Screenshots/Moviebox.png",
+         "title":"MovieBoxPro",
+         "package":"com.xd.mbp7",
+         "hideShadow":false
+	  },
    ]
 }
