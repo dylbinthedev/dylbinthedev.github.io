@@ -322,6 +322,37 @@ Author: Nathan Choi
 Icon: https://dylbinthdev.github.io/debs/PostBox/data/Applications/PostBox.app/AppIcon60x60@2x.png
 Name: PostBox
 
+Package: com.hotdog.popcorntime81.ios	
+Version: 3.2
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Depends:
+Filename: /debs/PopcornClient.deb
+Size: 24266444
+MD5sum: 08a77cd19b10a14099956a9197898a3d
+SHA1: 35c665eb90dbd662834e40c0553071e7b29027db
+SHA256: ff38f0f80afe3928b93ad05d7d5eaf41c94d87909c1e285cb48dcefb25f8f09e
+Section: Multimedia
+Description: Free Movies & TV Shows with fixed support for iOS 13/14
+Author: Popcorn Time
+Icon: https://dylbinthedev.github.io/icons/com.hotdog.popcorntime81.ios.png
+Name: PopcornTime
+
+Package: com.wavelink.Skins4Delta
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Depends:
+Filename: /debs/Skins4Delta.deb
+Size: 678732
+MD5sum: 11e05af5c9df7d13f8e0fffe1a0d4fd6
+SHA1: 04b47089424a5dffff254acda4a8173735b2c0c0
+SHA256: 640a4ad502bb1b78aa657ce9ca64da0f449bf8c361a15a9cf536a4a954e2062d
+Section: Utilities
+Description: Find and download skins for Delta Emulator
+Author: Wavelink
+Icon: https://dylbinthedev.github.io/icons/com.wavelink.Skins4Delta.png
+Name: Skins4Delta
 
 
 
