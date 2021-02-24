@@ -68,6 +68,7 @@ Author: DylbinTheDev & julioverne
 Name: Spotify++ (App)
 Icon: https://dylbinthedev.github.io/icons/com.spotify.client.png
 Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/Spotify++/Spotify++.html
+SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/SpotifyApp.json
 
 Package: com.xd.mbp7
 Version: 8.2
@@ -121,6 +122,7 @@ Author: DylbinTheDev & julioverne
 Name: Spotilife
 Icon: https://dylbinthedev.github.io/icons/com.spotify.client.png
 Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/Spotilife/Spotilife.html
+SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/Spotilife.json
 
 Package: org.brandonplank.flappybird
 Version: 3.8
