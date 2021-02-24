@@ -337,6 +337,7 @@ Description: Free Movies & TV Shows with fixed support for iOS 13/14
 Author: Popcorn Time
 Icon: https://dylbinthedev.github.io/icons/com.hotdog.popcorntime81.ios.png
 Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/PopcornClient/PopcornClient.html
+SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/PopcornClient.json
 Name: PopcornTime
 
 Package: com.wavelink.Skins4Delta
