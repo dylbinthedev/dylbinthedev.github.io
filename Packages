@@ -156,6 +156,8 @@ Section: Utilities
 Description: The only app you'll need on your phone. Go on Twitter and give @ThisIsNoahEvans a follow for this amazing app!
 Author: Noah Evans
 Name: Spork
+Icon: https://dylbinthedev.github.io/icons/NoahEvans.Spork.png
+SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/Spork.json
 
 Package: com.ichitaso.youtubepatcher
 Version: 0.3
