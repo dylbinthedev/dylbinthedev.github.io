@@ -13,7 +13,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "TSS Saver 2 - App for saving SHSH2 Blobs",
+                    "markdown": "App for saving SHSH2 Blobs",
                     "useSpacing": true
                 },
                 {
@@ -27,7 +27,7 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": ""
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/TSSSaver2/1.png"
                         }
                     ]
                 },
@@ -47,13 +47,13 @@
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "02-10-2021",
+                    "text": "02-24-2021",
                     "title": "Released",
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "Free",
-                    "title": "Price",
+                    "text": "7.0 - 14.4",
+                    "title": "Supported iOS Versions",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -61,8 +61,8 @@
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "text": "iOS 7 - 14",
-                    "title": "Supported iOS Versions",
+                    "text": "1Conan",
+                    "title": "Developer",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -72,7 +72,7 @@
             ]
         }
     ],
-    "tintColor": "#dc8da3",
-    "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/TSSSaver2/1.png\"",
+    "tintColor": "#e39299",
+    "headerImage": "",
     "class": "DepictionTabView"
 }

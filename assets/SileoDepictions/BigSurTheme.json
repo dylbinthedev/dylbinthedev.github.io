@@ -13,7 +13,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Ports macOS Big Sur icons to iOS! Supports both Anemone and Snowboard.",
+                    "markdown": "Ports macOS Big Sur icons to iOS!",
                     "useSpacing": true
                 },
                 {
@@ -27,12 +27,12 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/BigSurTheme/header.png\""
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/BigSurTheme/1.png"
                         }
                     ]
                 },
                 {
-                    "markdown": "Ports macOS Big Sur icons to iOS! Supports both Anemone and Snowboard.",
+                    "markdown": "Supports both Anemone and SnowBoard",
                     "useBottomMargin": false,
                     "title": "markdown-description",
                     "useBoldText": true,
@@ -47,13 +47,13 @@
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "02-10-2021",
+                    "text": "02-24-2021",
                     "title": "Released",
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "Free",
-                    "title": "Price",
+                    "text": "10.0 - 14.4",
+                    "title": "Supported iOS Versions",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -61,8 +61,8 @@
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "text": "iOS 11 - 14",
-                    "title": "Supported iOS Versions",
+                    "text": "alt03b1",
+                    "title": "Developer",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -72,7 +72,7 @@
             ]
         }
     ],
-    "tintColor": "#3F93E5",
-    "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/BigSurTheme/1.png\"",
+    "tintColor": "#1b9cf6",
+    "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/BigSurTheme/header.png",
     "class": "DepictionTabView"
 }

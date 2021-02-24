@@ -2,17 +2,19 @@
     "minVersion": "0.1",
     "tabs": [
         {
+            "class": "DepictionStackView",
+            "tabname": "Details",
             "views": [
                 {
-                    "useBoldText": true,
                     "useBottomMargin": false,
                     "title": "MediaBoxHD",
+                    "useBoldText": true,
                     "class": "DepictionSubheaderView"
                 },
                 {
-                    "markdown": "Watch Movies and TV Shows for free",
-                    "useSpacing": true,
-                    "class": "DepictionMarkdownView"
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Free Movie & TV Shows Torrenting App",
+                    "useSpacing": true
                 },
                 {
                     "spacing": 8,
@@ -21,27 +23,27 @@
                 {
                     "itemSize": "{160, 275.41333333333336}",
                     "itemCornerRadius": 6,
+                    "class": "DepictionScreenshotsView",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepicitions/MediaBoxHD/1.png"
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/MediaBoxHD/1.png"
                         },
                         {
                             "accessibilityText": "Screenshot1",
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepicitions/MediaBoxHD/2.png"
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/MediaBoxHD/2.png"
                         },
                         {
                             "accessibilityText": "Screenshot2",
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepicitions/MediaBoxHD/3.png"
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/MediaBoxHD/3.png"
                         }
-                    ],
-                    "class": "DepictionScreenshotsView"
+                    ]
                 },
                 {
-                    "useBoldText": true,
+                    "markdown": "MediaBoxHD is a free way to watch new Movies and TV Shows for free, it's highly inspired by PopcornTime with more features and a simular UI. You have the ability to customize the look of the application with built in themes.",
                     "useBottomMargin": false,
-                    "markdown": "MediaBoxHD is a free way to watch brand new Movies and TV Shows for free, it's highly inspired by PopcornTime for iOS, but with more features and much more clean UI. You have the ability to customize the look of the application with built in themes.\r\n\r\nCompatible with iOS 9 - 14",
                     "title": "markdown-description",
+                    "useBoldText": true,
                     "class": "DepictionMarkdownView"
                 },
                 {
@@ -53,13 +55,13 @@
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "12-01-2020",
+                    "text": "02-24-2021",
                     "title": "Released",
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "Free",
-                    "title": "Price",
+                    "text": "9.0 - 14.4",
+                    "title": "Supported iOS Versions",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -67,7 +69,7 @@
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "text": "Mediaboxhd",
+                    "text": "MediaBoxHD Team",
                     "title": "Developer",
                     "class": "DepictionTableTextView"
                 },
@@ -75,12 +77,10 @@
                     "spacing": 8,
                     "class": "DepictionSpacerView"
                 }
-            ],
-            "tabname": "Details",
-            "class": "DepictionStackView"
+            ]
         }
     ],
+    "tintColor": "#289dff",
     "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/MediaBoxHD/header.png",
-    "class": "DepictionTabView",
-    "tintColor": "#0096fe"
+    "class": "DepictionTabView"
 }
