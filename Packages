@@ -323,7 +323,7 @@ SHA256: 61718b0424d7b29cc7807b9377b6fdddaa6bf5dbcff6cdb56dd6481895553f9e
 Section: Utilities
 Description: View APT Repositories and packages, Works on iOS 13 and up.
 Author: Nathan Choi
-Icon: https://dylbinthdev.github.io/debs/PostBox/data/Applications/PostBox.app/AppIcon60x60@2x.png
+Icon: https://dylbinthdev.github.io/assets/com.simplycode.postbox.png
 Name: PostBox
 
 Package: com.hotdog.popcorntime81.ios	
