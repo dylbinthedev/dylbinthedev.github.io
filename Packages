@@ -358,6 +358,7 @@ Section: Utilities
 Description: Find and download skins for Delta Emulator
 Author: Wavelink
 Icon: https://dylbinthedev.github.io/icons/com.wavelink.Skins4Delta.png
+SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/Skins4Delta.json
 Name: Skins4Delta
 
 Package: com.twickd.sarahh12099.youtube-reborn
@@ -374,6 +375,7 @@ Section: Tweaks
 Description: YouTube Customizer for iOS 12 - 14
 Author: SarahH12099
 Icon: https://dylbinthedev.github.io/icons/com.twickd.sarahh12099.youtube-reborn.png
+SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/YouTubeReborn.json
 Name: YouTube Reborn
 
 Package: cydia.com.ipc.crackerxi
@@ -390,6 +392,7 @@ Section: Utilities
 Description: Decrypt/Dump iOS Apps on iOS 11 - 14
 Author: c0pyn1nja
 Icon: https://dylbinthedev.github.io/icons/cydia.com.ipc.crackerxi.png
+SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/CrackerXI.json
 Name: CrackerXI+
 
 

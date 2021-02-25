@@ -67,8 +67,8 @@
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "text": "iOS 11 - 14",
-                    "title": "iOS Versions",
+                    "text": "11 - 14",
+                    "title": "Supported iOS",
                     "class": "DepictionTableTextView"
                 },
                 {

@@ -7,13 +7,13 @@
             "views": [
                 {
                     "useBottomMargin": false,
-                    "title": "MediaBoxHD",
+                    "title": "YouTubeReborn",
                     "useBoldText": true,
                     "class": "DepictionSubheaderView"
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Free Movie & TV Shows Torrenting App",
+                    "markdown": "Modern YouTube Customizer",
                     "useSpacing": true
                 },
                 {
@@ -27,20 +27,24 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/MediaBoxHD/1.png"
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/YouTubeReborn/1.png"
                         },
                         {
                             "accessibilityText": "Screenshot1",
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/MediaBoxHD/2.png"
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/YouTubeReborn/2.png"
                         },
                         {
                             "accessibilityText": "Screenshot2",
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/MediaBoxHD/3.png"
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/YouTubeReborn/3.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot3",
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/YouTubeReborn/4.png"
                         }
                     ]
                 },
                 {
-                    "markdown": "MediaBoxHD is a free way to watch new Movies and TV Shows for free, it's highly inspired by PopcornTime with more features and a simular UI. You have the ability to customize the look of the application with built in themes.",
+                    "markdown": "YouTube Customizer allows you to customize your YouTube application in so many ways.\r\n\r\nYou can enable background playback, HD on cellular data and remove video ads completely. Many more things can be customized as you can see on the screenshots.",
                     "useBottomMargin": false,
                     "title": "markdown-description",
                     "useBoldText": true,
@@ -50,17 +54,17 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "2.4.9.2",
+                    "text": "2.0.0.3",
                     "title": "Version",
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "02-24-2021",
+                    "text": "02-25-2021",
                     "title": "Released",
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "9 - 14",
+                    "text": "12 - 14",
                     "title": "Supported iOS",
                     "class": "DepictionTableTextView"
                 },
@@ -69,7 +73,7 @@
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "text": "MediaBoxHD Team",
+                    "text": "SarahH12099",
                     "title": "Developer",
                     "class": "DepictionTableTextView"
                 },
@@ -80,7 +84,7 @@
             ]
         }
     ],
-    "tintColor": "#289dff",
-    "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/MediaBoxHD/header.png",
+    "tintColor": "#dd3121",
+    "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/YouTubeReborn/header.png",
     "class": "DepictionTabView"
 }
