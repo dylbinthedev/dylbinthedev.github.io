@@ -376,6 +376,21 @@ Author: SarahH12099
 Icon: https://dylbinthedev.github.io/icons/com.twickd.sarahh12099.youtube-reborn.png
 Name: YouTube Reborn
 
+Package: cydia.com.ipc.crackerxi
+Version: 1.1.16
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Depends:
+Filename: /debs/CrackerXI+.deb
+Size: 9960924
+MD5sum: 7363c9289b0041ba3bc8df156b751a9c
+SHA1: 27b8a552befab49a15e78d0cc1d5c5867af3c0fb
+SHA256: 3b835fa95d1d060334929db4ed8b67767c12dba58e8ded8acd0161d44ce974fc
+Section: Utilities
+Description: Decrypt/Dump iOS Apps on iOS 11 - 14
+Author: c0pyn1nja
+Icon: https://dylbinthedev.github.io/icons/cydia.com.ipc.crackerxi.png
+Name: CrackerXI+
 
 
 
