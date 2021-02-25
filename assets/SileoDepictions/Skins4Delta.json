@@ -1,0 +1,82 @@
+{
+    "minVersion": "0.1",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "Details",
+            "views": [
+                {
+                    "useBottomMargin": false,
+                    "title": "Skins4Delta",
+                    "useBoldText": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Skins Downloader for Delta Emulator",
+                    "useSpacing": true
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "itemSize": "{160, 275.41333333333336}",
+                    "itemCornerRadius": 6,
+                    "class": "DepictionScreenshotsView",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Skins4Delta/1.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Skins4Delta/2.png"
+                        }
+                    ]
+                },
+                {
+                    "markdown": "Find, make and download skins for Delta Emulator",
+                    "useBottomMargin": false,
+                    "title": "markdown-description",
+                    "useBoldText": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "1.0",
+                    "title": "Version",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "02-25-2021",
+                    "title": "Released",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "12 - 14",
+                    "title": "Supported iOS",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "Wavelink",
+                    "title": "Developer",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ]
+        }
+    ],
+    "tintColor": "#8c14e7",
+    "headerImage": "",
+    "class": "DepictionTabView"
+}
