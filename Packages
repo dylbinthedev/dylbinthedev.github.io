@@ -395,6 +395,23 @@ Icon: https://dylbinthedev.github.io/icons/cydia.com.ipc.crackerxi.png
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/CrackerXI.json
 Name: CrackerXI+
 
+Package: xyz.xninja.systeminfo
+Version: 2.7.2-2
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Depends:
+Filename: /debs/SystemInfo.deb
+Size: 427612
+MD5sum: 26267e8c4797962bd17d57670951021b
+SHA1: 54b7685148da7e599f42429d3a7d4d721b9a8aad
+SHA256: 7b27623082c52e8ce6a2dd990169b49f6f3445e6d95012384b461c8e4b9a20cc
+Section: Utilities
+Description: More System information in Settings app > General > About
+Author: ARX8x
+Icon: https://dylbinthedev.github.io/icons/xyz.xninja.systeminfo.png
+Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/SystemInfo/SystemInfo.html
+Name: System Info
+
 
 
 
