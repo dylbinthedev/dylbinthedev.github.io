@@ -412,6 +412,24 @@ Icon: https://dylbinthedev.github.io/icons/xyz.xninja.systeminfo.png
 Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/SystemInfo/SystemInfo.html
 Name: System Info
 
+Package: com.rileytestut.Clip.65YD56KAPC
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Depends:
+Filename: /debs/Clip.deb
+Size: 425924
+MD5sum: 4e9bf3ce315e0eca2458ddacff73a93c
+SHA1: cd95258949e7c029c21cf1affa142c39a5f78a60
+SHA256: 4808a5b4fc1ee0309bc3f9f45b15f3f7c9cd28c8fb7f07eba9c5e05bc5e3e9b2
+Section: Utilities
+Description: Lightweight clipboard manager for iOS
+Author: Riley Testut
+Icon: https://dylbinthedev.github.io/icons/com.rileytestut.Clip.65YD56KAPC.png
+Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/Clip/Clip.html
+SileoDepiction:
+Name: Clip
+
 
 
 
