@@ -5,7 +5,7 @@
 	<key>ALTBundleIdentifier</key>
 	<string>com.rileytestut.Delta.Beta</string>
 	<key>BuildMachineOSBuild</key>
-	<string>20C5048k</string>
+	<string>20D64</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDocumentTypes</key>
@@ -120,6 +120,20 @@
 				<string>com.rileytestut.delta.game.ds</string>
 			</array>
 		</dict>
+		<dict>
+			<key>CFBundleTypeIconFiles</key>
+			<array/>
+			<key>CFBundleTypeName</key>
+			<string>Genesis Game</string>
+			<key>CFBundleTypeRole</key>
+			<string>Viewer</string>
+			<key>LSHandlerRank</key>
+			<string>Owner</string>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>com.rileytestut.delta.game.genesis</string>
+			</array>
+		</dict>
 	</array>
 	<key>CFBundleExecutable</key>
 	<string>Delta</string>
@@ -136,7 +150,7 @@
 		</dict>
 	</dict>
 	<key>CFBundleIdentifier</key>
-	<string>com.rileytestut.Delta.Beta.NV3R4T9ZYB</string>
+	<string>com.rileytestut.Delta.Beta.65YD56KAPC</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -144,7 +158,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.3b2</string>
+	<string>1.3b4</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -191,23 +205,23 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>32</string>
+	<string>39</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>18C5044f</string>
+	<string>18E5154g</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>14.3</string>
+	<string>14.5</string>
 	<key>DTSDKBuild</key>
-	<string>18C5044f</string>
+	<string>18E5154g</string>
 	<key>DTSDKName</key>
-	<string>iphoneos14.3</string>
+	<string>iphoneos14.5</string>
 	<key>DTXcode</key>
-	<string>1230</string>
+	<string>1250</string>
 	<key>DTXcodeBuild</key>
-	<string>12C5020f</string>
+	<string>12E5234g</string>
 	<key>Fabric</key>
 	<dict>
 		<key>APIKey</key>
@@ -315,7 +329,9 @@
 			<key>UTTypeTagSpecification</key>
 			<dict>
 				<key>public.filename-extension</key>
-				<string>gba</string>
+				<array>
+					<string>gba</string>
+				</array>
 			</dict>
 		</dict>
 		<dict>
@@ -326,12 +342,16 @@
 			</array>
 			<key>UTTypeDescription</key>
 			<string>Delta Controller Skin</string>
+			<key>UTTypeIconFiles</key>
+			<array/>
 			<key>UTTypeIdentifier</key>
 			<string>com.rileytestut.delta.skin</string>
 			<key>UTTypeTagSpecification</key>
 			<dict>
 				<key>public.filename-extension</key>
-				<string>deltaskin</string>
+				<array>
+					<string>deltaskin</string>
+				</array>
 			</dict>
 		</dict>
 		<dict>
@@ -411,13 +431,35 @@
 		</dict>
 		<dict>
 			<key>UTTypeConformsTo</key>
+			<array>
+				<string>com.rileytestut.delta.game</string>
+			</array>
+			<key>UTTypeDescription</key>
+			<string>Genesis Game</string>
+			<key>UTTypeIconFiles</key>
+			<array/>
+			<key>UTTypeIdentifier</key>
+			<string>com.rileytestut.delta.game.genesis</string>
+			<key>UTTypeTagSpecification</key>
+			<dict>
+				<key>public.filename-extension</key>
+				<array>
+					<string>gen</string>
+					<string>bin</string>
+					<string>md</string>
+					<string>smd</string>
+				</array>
+			</dict>
+		</dict>
+		<dict>
+			<key>UTTypeConformsTo</key>
 			<array/>
 			<key>UTTypeDescription</key>
 			<string>AltStore Installed App</string>
 			<key>UTTypeIconFiles</key>
 			<array/>
 			<key>UTTypeIdentifier</key>
-			<string>io.altstore.Installed.com.rileytestut.Delta.Beta.NV3R4T9ZYB</string>
+			<string>io.altstore.Installed.com.rileytestut.Delta.Beta.65YD56KAPC</string>
 			<key>UTTypeTagSpecification</key>
 			<dict/>
 		</dict>

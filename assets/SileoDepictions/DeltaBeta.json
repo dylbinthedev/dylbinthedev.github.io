@@ -40,7 +40,7 @@
                     ]
                 },
                 {
-                    "markdown": "This is Delta Beta which is an improved version of GBA4iOS with a brand new UI and more consoles supported. Delta Beta also introduces Nintendo DS Game Support!\r\n\r\nDelta allows you to play GBC, GBA, NES, SNES, N64 and NDS games. It also supports MFi controllers like the Dualshock 4 and Xbox One S controllers. Action Replay codes are supported and you can also import your own skins!\r\n\r\nYou can save your roms and save states with Dropbox/Google Drive Sync",
+                    "markdown": "This is Delta Beta which is an improved version of GBA4iOS with a brand new UI and more consoles supported. Delta Beta also introduces Nintendo DS Game Support!\r\n\r\nDelta allows you to play GBC, GBA, NES, SNES, N64, NDS and Sega Genesis games. It also supports MFi controllers like the Dualshock 4 and Xbox One S controllers. Action Replay codes are supported and you can also import your own skins!\r\n\r\nYou can save your roms and save states with Dropbox/Google Drive Sync",
                     "useBottomMargin": false,
                     "title": "markdown-description",
                     "useBoldText": true,
@@ -50,7 +50,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "1.3b2",
+                    "text": "1.3b4",
                     "title": "Version",
                     "class": "DepictionTableTextView"
                 },
@@ -60,8 +60,8 @@
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "12.2 - 14.4",
-                    "title": "Supported iOS Versions",
+                    "text": "12.2 - 14",
+                    "title": "Supported iOS",
                     "class": "DepictionTableTextView"
                 },
                 {
