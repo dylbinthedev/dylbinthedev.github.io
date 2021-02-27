@@ -427,7 +427,7 @@ Description: Lightweight clipboard manager for iOS
 Author: Riley Testut
 Icon: https://dylbinthedev.github.io/icons/com.rileytestut.Clip.65YD56KAPC.png
 Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/Clip/Clip.html
-SileoDepiction:
+SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/Clip.json
 Name: Clip
 
 
