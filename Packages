@@ -441,10 +441,11 @@ MD5sum: ab53e1b37d161e90387bd27a6c579e5f
 SHA1: c4ec4e385a19a471c895c77615a01d6f2f5a6c22
 SHA256: c72b538ec1a820ccfadd3148ea12d585983322e8fc1fb85a1e9034fdacf59a20
 Section: Packaging
-Description: Installer 5.1 Beta. Fastest Package Manager for iOS
+Description: Modern APT-frontend for iOS 13/14
 Author: AppTapp
 Icon: https://dylbinthedev.github.io/icons/me.apptapp.installer.png
 Depiction: https://apptapp.me/repo/51/installer.html
+SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/Installer.json
 Name: Installer Beta
 
 Package: com.provenance-emu.provenance
