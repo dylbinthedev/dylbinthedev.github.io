@@ -430,6 +430,42 @@ Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/Clip/Clip.html
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/Clip.json
 Name: Clip
 
+Package: me.apptapp.installer
+Version: 5.1-74
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Depends:
+Filename: /debs/Installer.deb
+Size: 13825672
+MD5sum: ab53e1b37d161e90387bd27a6c579e5f
+SHA1: c4ec4e385a19a471c895c77615a01d6f2f5a6c22
+SHA256: c72b538ec1a820ccfadd3148ea12d585983322e8fc1fb85a1e9034fdacf59a20
+Section: Packaging
+Description: Installer 5.1 Beta. Fastest Package Manager for iOS
+Author: AppTapp
+Icon: https://dylbinthedev.github.io/icons/me.apptapp.installer.png
+Depiction: https://apptapp.me/repo/51/installer.html
+Name: Installer Beta
+
+Package: com.provenance-emu.provenance
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Depends:
+Filename: /debs/Provenance.deb
+Size: 22962550
+MD5sum: 7f031d06d82d69d887930bf58893f48f
+SHA1: 2663e7c495690999757eba1fafc7482c9860ebe6
+SHA256: c520a864aa6ce7d95697a4fbbc99db6ec678b08b503cd3df5b16345295428eab
+Section: Games
+Description: iOS & tvOS front-end multi emulator
+Author: Provenance Team
+Icon: https://dylbinthedev.github.io/icons/com.provenance-emu.provenance.png
+Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/Provenance/Provenance.html
+SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/Provenance.json
+Name: Provenance
+
+
 
 
 
