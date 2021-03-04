@@ -16,16 +16,16 @@ Icon: https://dylbinthedev.github.io/icons/com.rileytestut.delta.png
 Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/Delta/Delta.html
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/Delta.json
 
-Package: com.rileytestut.Delta.Beta.65YD56KAPC
+Package: com.rileytestut.Delta.Beta
 Version: 1.3b4
 Architecture: iphoneos-arm
 Maintainer: DylbinTheDev
 Depends:
 Filename: /debs/DeltaBeta.deb
-Size: 19799888
-MD5sum: d28ca58563634eaf3d6cbde5a73103da
-SHA1: 1ffeda01ac81e89ef25a47d71da678bb3b72434a
-SHA256: 7035276684d506a0d17f02408c7d43da9eaf60f5225d1b8b55e80f4d129501e6
+Size: 19686998
+MD5sum: 84c059fb9faaa7fe253804ce16a9296f
+SHA1: 602adbf6c2f79971abcf181785b4cd429bc9e5fc
+SHA256: 7d38afd21cddf77174fb0d95ce3690a1e08889f4d9b715ed87c952c9bd9c533b
 Section: Games
 Description: Delta (Beta) multi-emulator for iOS 12.2 - 14
 Author: Riley Testut
