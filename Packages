@@ -492,9 +492,10 @@ MD5sum: 6128b0c6a0dbe67e95f63be61e75e7ee
 SHA1: 1043cd012b2e71018184fee0dc72c5593ebc8860
 SHA256: 273fdab8c4531ec87a9276b61f1c7fa513ad25ab447e5ec81670979a5f195942
 Section: Multimedia
-Description: Successor to PopcornTime for iOS
+Description: Successor to PopcornTime for iOS, Supports iOS 12, 13 and 14.
 Author: AntiqueDev
 Icon: https://dylbinthedev.github.io/icons/com.antique.Popcorn-iOS.png
+SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/Popcorn.json
 Name: Popcorn
 
 
