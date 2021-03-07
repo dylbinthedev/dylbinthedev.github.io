@@ -495,6 +495,7 @@ Section: Multimedia
 Description: Successor to PopcornTime for iOS, Supports iOS 12, 13 and 14.
 Author: AntiqueDev
 Icon: https://dylbinthedev.github.io/icons/com.antique.Popcorn-iOS.png
+Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/Popcorn/Popcorn.html
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/Popcorn.json
 Name: Popcorn
 
