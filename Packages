@@ -466,7 +466,20 @@ Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/Provenance/Prov
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/Provenance.json
 Name: Provenance
 
-
+Package: kr.xsf1re.vnodebypass
+Version: 0.2.2
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Depends: libkrw
+Filename: /debs/VNodeBypass.deb
+Size: 24668
+MD5sum: f7a501d82d66c3a2e0a07be7f6efbab2
+SHA1: 4f23c01ded211ecedae1aa1ada68bd84e2a29cf8
+SHA256: 21a89cbf20c807ce8c4f30ff17160997b0b55b828f08184d7ea17a4feb409e3f
+Section: System
+Description: jailbreak detection bypass for iOS 14. Requires libkrw from sbingner's repo (works on the unc0ver jailbreak.)
+Author: XsF1re
+Name: vnodebypass
 
 
 
