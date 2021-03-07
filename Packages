@@ -513,5 +513,7 @@ Section: Multimedia
 Description: Free Movies & TV Shows steaming for iOS, Supports iOS 9, 10, 11, 12, 13 and 14.
 Author: ZiniTV Team
 Icon: https://dylbinthedev.github.io/icons/com.zinitevi.jb.png
+Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/ZiniTV/ZiniTV.html
+SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/ZiniTV.json
 Name: ZiniTV
 
