@@ -32,7 +32,7 @@
                 {
                     "useBoldText": true,
                     "useBottomMargin": false,
-                    "markdown": "Patches youtube app to allow background playback and removes all video ads. Supports iOS 12 - 14",
+                    "markdown": "Patches youtube app to allow background playback and removes all video ads. Supports iOS 10 - 14",
                     "title": "markdown-description",
                     "class": "DepictionMarkdownView"
                 },
@@ -50,8 +50,8 @@
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "Free",
-                    "title": "Price",
+                    "text": "10 - 14",
+                    "title": "Supported iOS",
                     "class": "DepictionTableTextView"
                 },
                 {

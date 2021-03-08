@@ -170,7 +170,7 @@ MD5sum: 60a9631384a97620ba45247a1c4b0632
 SHA1: bb780eaece198ea23053c007038629514b0f7e8b
 SHA256: 1587823b61249bd69b77f5d659870313f36a11b5e058f795deca4f85d4dc8e57
 Section: Tweaks
-Description: Patch for YouTube to add background playback and removal of ads. Supports iOS 12 - 14
+Description: Patch for YouTube to add background playback and removal of ads. Supports iOS 10 - 14
 Author: iChitaso	
 Name: YouTube Patcher
 Icon: https://dylbinthedev.github.io/icons/com.ichitaso.youtubepatcher.png
