@@ -579,5 +579,20 @@ Author: OatmealDome
 Icon: https://dylbinthedev.github.io/icons/me.oatmealdome.dolphinios.png
 Name: DolphiniOS
 
+Package: com.rileytestut.altstore.alpha.jailbroken
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Depends: com.rileytestut.altdaemon
+Filename: /debs/AltStore.deb
+Size: 4578704
+MD5sum: 260b573817ccb333945bee8963f4f111
+SHA1: 5f106e4f8a79529314a909de7e86062459082bbe
+SHA256: cb1fb5bd825a06f32ade523acb4c6740f8499a2970dd271188711efd85b65998
+Section: Utilities
+Description: Jailbroken version of AltStore with on device signing for iOS 12 - 14
+Author: Riley Testut
+Icon: https://dylbinthedev.github.io/icons/com.rileytestut.altstore.alpha.jailbroken.png
+Name: AltStore (Alpha)
 
 
