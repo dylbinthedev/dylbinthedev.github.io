@@ -532,3 +532,36 @@ Description: Add a fifth column of icons to your homescreen on iOS 13/14
 Author: iChitaso
 Name: FiveColumnHomeScreen14
 
+Package: me.oatmealdome.dolphinios-patreon-beta
+Version: 3.2.0b1-146
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Depends: me.oatmealdome.csdbgd
+Filename: /debs/DolphinBeta.deb
+Size: 52035600
+MD5sum: ec613a229aae4607ec8ea7468ca7578c
+SHA1: 0d92a67f16baf64a6964e2b5cbe607c647adeeb0
+SHA256: 9f6c8b194461b878388a1cfcdbb3cff8118fc2fecb248af1228b6086b7dc8363
+Section: Games
+Description: Wii/Gamecube Emulator for iOS 12 - 14
+Author: OatmealDome
+Icon: https://dylbinthedev.github.io/icons/me.oatmealdome.dolphinios-patreon-beta.png
+Name: DolphiniOS Beta
+
+Package: me.oatmealdome.csdbgd
+Version: 2.1.0-248
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Depends:
+Filename: /debs/csdbgd.deb
+Size: 4464
+MD5sum: 3306e05bac8a1c93c90ac0b862cb688f
+SHA1: ce35a06baebd0a416806adf65fe15253f08c3cba
+SHA256: f107376805dfc52c5a90f1f412ffe6dd72d645e206d95a3064199853c624d864
+Section: Utilities
+Description: Wii/Gamecube Emulator for iOS 12 - 14
+Author: OatmealDome
+Name: DolphiniOS Beta
+
+
+
