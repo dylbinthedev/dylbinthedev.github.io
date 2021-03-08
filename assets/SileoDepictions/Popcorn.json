@@ -13,7 +13,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Successor to PopcornTime for iOS",
+                    "markdown": "Successor to PopcornTime",
                     "useSpacing": true
                 },
                 {
@@ -27,20 +27,20 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://dylbinthedev.github.io/assets/Popcorn/1.png"
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Popcorn/1.png"
                         },
                         {
                             "accessibilityText": "Screenshot1",
-                            "url": "https://dylbinthedev.github.io/assets/Popcorn/2.png"
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Popcorn/2.png"
                         },
                         {
                             "accessibilityText": "Screenshot2",
-                            "url": "https://dylbinthedev.github.io/assets/Popcorn/3.png"
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Popcorn/3.png"
                         }
                     ]
                 },
                 {
-                    "markdown": "Popcorn is a brand new torrenting app for streaming Movies & TV Shows on iOS. Based on the original PopcornTime app.",
+                    "markdown": "Popcorn is a better up-to date version of PopcornTime, it's a torrent based streaming app that allows you to stream and download TV Shows and Movies.",
                     "useBottomMargin": false,
                     "title": "markdown-description",
                     "useBoldText": true,
@@ -55,7 +55,7 @@
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "03-07-2021",
+                    "text": "03-08-2021",
                     "title": "Released",
                     "class": "DepictionTableTextView"
                 },
@@ -81,6 +81,6 @@
         }
     ],
     "tintColor": "#2776de",
-    "headerImage": "https://dylbinthedev.github.io/assets/Popcorn/header.png",
+    "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/Popcorn/header.png",
     "class": "DepictionTabView"
 }
