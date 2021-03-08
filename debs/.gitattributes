@@ -1,0 +1,2 @@
+HappyChick.deb filter=lfs diff=lfs merge=lfs -text
+HappyChick/data filter=lfs diff=lfs merge=lfs -text
