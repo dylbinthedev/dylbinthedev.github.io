@@ -518,7 +518,7 @@ MD5sum: ec613a229aae4607ec8ea7468ca7578c
 SHA1: 0d92a67f16baf64a6964e2b5cbe607c647adeeb0
 SHA256: 9f6c8b194461b878388a1cfcdbb3cff8118fc2fecb248af1228b6086b7dc8363
 Section: Games
-Description: Dolphin (Beta) Wii/Gamecube Emulator for iOS 12 - 14
+Description: DolphiniOS Beta Wii/Gamecube Emulator for iOS 12 - 14
 Author: OatmealDome
 Icon: https://dylbinthedev.github.io/icons/me.oatmealdome.dolphinios-patreon-beta.png
 Name: DolphiniOS Beta
@@ -549,7 +549,7 @@ MD5sum: a45b4f89b078fad6cd3ab9ca724d1b00
 SHA1: 28f340a2417cfdb15425255e7b0940badefdcd08
 SHA256: 80c1899fcfd5f24310f6b1b1593a20f33caa9e93ade5e893c915663eae706eee
 Section: Games
-Description: Dolphin (Stable) Wii/Gamecube Emulator for iOS 12 - 14
+Description: DolphiniOS Wii/Gamecube Emulator for iOS 12 - 14
 Author: OatmealDome
 Icon: https://dylbinthedev.github.io/icons/me.oatmealdome.dolphinios.png
 Name: DolphiniOS
