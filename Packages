@@ -517,3 +517,18 @@ Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/ZiniTV/ZiniTV.h
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/ZiniTV.json
 Name: ZiniTV
 
+Package: com.ichitaso.fivehome13
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Depends: mobilesubstrate, com.chpwn.iconsupport, com.muirey03.iconsupportfix
+Filename: /debs/FiveColumn13.deb
+Size: 4432
+MD5sum: 7b902f659101e8f214e1d9b3354551a3
+SHA1: 6e37e88daa7dfe8480d7b554dae0a5dda1449db0
+SHA256: 0c508e48736f46fd5283f121b955a3280b2789e804db3501ce28a0e99d5682bc
+Section: Tweaks
+Description: Add a fifth column of icons to your homescreen on iOS 13/14
+Author: iChitaso
+Name: FiveColumnHomeScreen14
+
