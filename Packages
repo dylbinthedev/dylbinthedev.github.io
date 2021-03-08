@@ -521,6 +521,7 @@ Section: Games
 Description: DolphiniOS Beta Wii/Gamecube Emulator for iOS 12 - 14
 Author: OatmealDome
 Icon: https://dylbinthedev.github.io/icons/me.oatmealdome.dolphinios-patreon-beta.png
+SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/DolphinBeta.json
 Name: DolphiniOS Beta
 
 Package: me.oatmealdome.csdbgd
@@ -552,6 +553,7 @@ Section: Games
 Description: DolphiniOS Wii/Gamecube Emulator for iOS 12 - 14
 Author: OatmealDome
 Icon: https://dylbinthedev.github.io/icons/me.oatmealdome.dolphinios.png
+SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/Dolphin.json
 Name: DolphiniOS
 
 Package: com.rileytestut.altstore.alpha.jailbroken
