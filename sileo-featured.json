@@ -4,15 +4,15 @@
    "itemCornerRadius":10,
    "banners":[  
       {  
-         "url":"https://dylbinthedev.github.io/assets/SileoDepictions/PopcornClient/header.png",
-         "title":"PopcornTime",
-         "package":"com.hotdog.popcorntime81.ios",
+         "url":"https://dylbinthedev.github.io/assets/SileoDepictions/Installer/header.png",
+         "title":"Installer Beta",
+         "package":"me.apptapp.installer",
          "hideShadow":false
       },
       {  
-         "url":"https://dylbinthedev.github.io/assets/SileoDepictions/FlappyBird/header.png",
-         "title":"FlappyBird",
-         "package":"org.brandonplank.flappybird",
+         "url":"https://dylbinthedev.github.io/assets/SileoDepictions/Dolphin/header.png",
+         "title":"Dolphin iOS",
+         "package":"me.oatmealdome.dolphinios",
          "hideShadow":false
       },
 	  {
@@ -22,16 +22,22 @@
          "hideShadow":false
       },
 	  {
-	     "url":"https://dylbinthedev.github.io/assets/SileoDepictions/MediaBoxHD/header.png",
-         "title":"MediaBoxHD",
-         "package":"mediaplayer.box.ios3",
+	     "url":"https://dylbinthedev.github.io/assets/SileoDepictions/PopcornClient/header.png",
+         "title":"PopcornTime",
+         "package":"com.hotdog.popcorntime81.ios",
          "hideShadow":false
       },
 	  {
-		 "url":"https://dylbinthedev.github.io/assets/SileoDepictions/Screenshots/Moviebox.png",
-         "title":"MovieBoxPro",
-         "package":"com.xd.mbp7",
+		 "url":"https://dylbinthedev.github.io/assets/SileoDepictions/Provenance/header.png",
+         "title":"Provenance",
+         "package":"com.provenance-emu.provenance",
          "hideShadow":false
+	  },
+	  {
+		 "url":"https://dylbinthedev.github.io/assets/SileoDepictions/YouTubeReborn/header.png",
+		 "title":"YouTube Reborn",
+		 "package":"com.twickd.sarahh12099.youtube-reborn",
+		 "hideShadow":false
 	  },
    ]
 }
