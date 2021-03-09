@@ -33,14 +33,14 @@ Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/DeltaBeta/Delta
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/DeltaBeta.json
 
 Package: net.nerd.inds
-Version: 1.10.7
+Version: 1.10.8
 Architecture: iphoneos-arm
 Maintainer: DylbinTheDev
 Filename: /debs/iNDS.deb
-Size: 8410136
-MD5sum: b205abd66963d617681dc8b3bb00e072
-SHA1: 2ca21d6b65a0837415a66061d96462c01b33cc50
-SHA256: 824a9aa1ae30abaf05432aad2d290bd8c2c6e01e36c6f26353ffd0987cf9e46e
+Size: 8423850
+MD5sum: ab0546a3163064b4af57b5c013a32af1
+SHA1: 3f57997756d7e3c0efa0a7b7f733b409ce636d75
+SHA256: 7501bc4d11465e42e95054bc8980d0b7c0210271fd149d8d9da6f1662772cc6a
 Section: Games
 Description: Nintendo DS Emulator for iOS 7 - 14
 Author: iNDS Team
