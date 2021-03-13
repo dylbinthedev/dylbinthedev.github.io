@@ -573,4 +573,49 @@ Icon: https://dylbinthedev.github.io/icons/com.rileytestut.altstore.alpha.jailbr
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/AltStore.json
 Name: AltStore (Alpha)
 
+Package: com.zx02.frame
+Version: 2.4.2
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Depends: com.matchstic.xenhtml, com.junesiphone.xeninfo
+Filename: /debs/Frame.deb
+Size: 1740536
+MD5sum: d102a41d5fa804f009b6218e359943f9
+SHA1: 67105b6ab689d82ee6ad5a5686cc92339fd31f86
+SHA256: f34f1eac5d2af3495c26dd4e49534fbd4c59880f48807023c5f198bd29b24e5f
+Section: Wallpaper
+Description: Bring your iDevice to life with true video wallpapers.
+Author: Zerui Chen
+Name: Frame
+
+Package: com.zx02.frame.legacy
+Version: 2.4.1
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Depends: com.matchstic.xenhtml, com.junesiphone.xeninfo
+Filename: /debs/FrameLegacy.deb
+Size: 1745618
+MD5sum: 9508f669ee9a2040cb78b3100c4a82b0
+SHA1: 82f45d9096db167feece115aecbf60415e1f253a
+SHA256: a69b6a40dfb2513e8ff6b134da3f2d09ebe361b30bbbe0902ba8eb0c87fc0495
+Section: Wallpaper
+Description: Bring your iDevice to life with true video wallpapers. This special version is compatible iOS 12.2 and lower.
+Author: Zerui Chen
+Name: Frame (Legacy)
+
+Package: com.zx02.frame.ios14
+Version: 2.4.2
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Depends: com.matchstic.xenhtml, com.junesiphone.xeninfo
+Filename: /debs/FrameARM64E.deb
+Size: 1702580
+MD5sum: a5cf30e5a6903df647671a7c3946cc59
+SHA1: 19659b88f049f8280af435fad7e76b086194d5e0
+SHA256: 9ade4f49da508fe9c75ee6fef3665f1baf55d7c0513413a732332ea91cec4b7c
+Section: Wallpaper
+Description: Bring your iDevice to life with true video wallpapers. This special version is only compatible with arm64e devices (A12 - A14) on iOS 14.
+Author: Zerui Chen
+Name: Frame (arm64e)
+
 
