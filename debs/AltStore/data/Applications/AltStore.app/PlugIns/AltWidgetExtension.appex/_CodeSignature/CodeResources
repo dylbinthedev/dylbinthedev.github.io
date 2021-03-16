@@ -4,55 +4,33 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>AltSign_CAltSign.bundle/Info.plist</key>
-		<data>
-		Y6nTmJAH9FcTCd+tx8ewT5NCjZ0=
-		</data>
-		<key>AltSign_CAltSign.bundle/apple.pem</key>
-		<data>
-		4HVc5t+4PabBVVKmhzNd9uGQeXk=
-		</data>
 		<key>Assets.car</key>
 		<data>
-		ehqH4CDwPgGcwpRSUvB9zX1/rAc=
+		7IKyNvwZ6lnkifJqjcRsTSDaCfw=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		d4kGkTIwme6t8nfziyChcfJY9is=
+		fjmiO0cNzKZhMac0k+ti2NuVc8w=
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		hzsP2TEeF/FSP+Dp9buR6xc6loY=
+		196cB6srXlpgm3gCBczbqAgQBrQ=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>AltSign_CAltSign.bundle/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			bPmkdT6P2rBvcozyzvwtGSDpKg/ytRRFtwvxNu+L4n0=
-			</data>
-		</dict>
-		<key>AltSign_CAltSign.bundle/apple.pem</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			eWPn0Arde9F7VCl7DSzoibeKGMer1Q0MtbrXJItpgoU=
-			</data>
-		</dict>
 		<key>Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+XRSp6BwxrXEFJ52FuvXh7TyCSW2Vrn7z6/hebDNSbE=
+			HucksBaZJNaheOEX2akgHaqw9olaOtBJJgtk8DPLrNw=
 			</data>
 		</dict>
 		<key>embedded.mobileprovision</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			B+P/7higJ5ZxJVQiig5eFqBfLWUoIAl318WJE78F5/0=
+			miLTETaTthOrQTqOAaXNP9r3QtpSH4Q8tM3ot78MZHU=
 			</data>
 		</dict>
 	</dict>
