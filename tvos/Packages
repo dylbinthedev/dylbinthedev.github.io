@@ -2,8 +2,7 @@ Package: ldid
 Version: 2.0.1
 Architecture: appletvos-arm64
 Maintainer: Dylan Elmbark
-Depends:
-Filename: /debs/LinkIdentityEditor.deb
+Filename: ./tvos/LinkIdentityEditor.deb
 Size: 569552
 MD5sum: ae1f48bb8ecc411261381dc82a261619
 SHA1: 46b21741da7ee78638e2092c101e56c7e929090f
@@ -17,8 +16,7 @@ Package: com.thenews.app
 Version: 1.0
 Architecture: appletvos-arm64
 Maintainer: Dylan Elmbark
-Depends:
-Filename: ./MovieBoxProTV.deb
+Filename: ./tvos/MovieBoxProTV.deb
 Size: 5547216
 MD5sum: febc6ce32142e4fb1f3f106bc9bdbe4d
 SHA1: 3ad8f32f8153f363dd94d9a81fb71ec76724fcea
@@ -33,7 +31,7 @@ Version: 1.1.2
 Architecture: appletvos-arm64
 Maintainer: Dylan Elmbark
 Depends: us.diatr.appsyncunified (>= 5.1)
-Filename: ./AppInst.deb
+Filename: ./tvos/AppInst.deb
 Size: 25436
 MD5sum: 0f6f4d9dfdf71e58359692c1f2b6ebdc
 SHA1: 9e6ad361ec5e83edcd01e22d750fcb4a00f13874
@@ -47,9 +45,7 @@ Package: us.diatr.appsyncunified
 Version: 77.0
 Architecture: appletvos-arm64
 Maintainer: Dylan Elmbark
-Depends: firmware (>= 10.0), mobilesubstrate
-Pre-Depends : cy+model.appletv
-Filename: ./AppSyncTV.deb
+Filename: ./tvos/AppSyncTV.deb
 Size: 12316
 MD5sum: f56ecda03e6112085f968513aa6e0cae
 SHA1: 2e9114e82f933fae52195f1ccfe89c2bea0ba9df
