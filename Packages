@@ -635,4 +635,53 @@ Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.odysseytheme.png
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/OdysseyOS.json
 Name: OdysseyOS
 
+Package: com.dylbinthedev.odysseywallpaper
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Depends: wallpaperloader
+Filename: /debs/OdysseyWallpaper.deb
+Size: 33657484
+MD5sum: 1b15d01cbb1dad7bb86e5c7a092ba223
+SHA1: 2d1631dc123233fe6ec755ef74bcb622d419084d
+SHA256: 2b5c25546661a4dabcdfe10b02eb1378c0b6f24d32390137337b97e4fcb30d4a
+Section: Wallpaper
+Description: Odyssey wallpaper, fits perfectly with the OdysseyOS theme! WallpaperLoader from Skitty's repo is required to use this package.
+Author: DylbinTheDev
+Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.odysseywallpaper.png
+Name: OdysseyWallpaper
+
+Package: com.dylbinthedev.chimeratheme
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: /debs/ChimeraOS.deb
+Size: 3748904
+MD5sum: ac0d1966d7312926b1dc048bbed72007
+SHA1: 01675da1887d5fdaba88ec2cfa26398f25aa0a44
+SHA256: 12afa691a7c2ad93ee575c8f88b1b01288283f1266addaae639f27fe0959acbc
+Section: Themes
+Description: Chimera themed icons!
+Author: DylbinTheDev
+Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.chimeratheme.png
+SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/ChimeraOS.json
+Name: ChimeraOS
+
+Package: com.dylbinthedev.chimerawallpaper
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Depends: wallpaperloader
+Filename: /debs/ChimeraWallpaper.deb
+Size: 1975600
+MD5sum: 59401aab2270ea61e645712b0b1e33c4
+SHA1: e6736c23fdc371eeb35df01a7eddcbbf1819b9d2
+SHA256: 91cd3c01035487b74de268e4250f89f61909ae73c5023045593029446231ddd4
+Section: Wallpaper
+Description: Chimera wallpaper, fits perfectly with the ChimeraOS theme. WallpaperLoader from Skitty's repo is required to use this package.
+Author: DylbinTheDev
+Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.chimerawallpaper.png
+Name: ChimeraWallpaper
+
 
