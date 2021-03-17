@@ -619,15 +619,15 @@ Author: Zerui Chen
 Name: Frame (arm64e)
 
 Package: com.dylbinthedev.odysseytheme
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: DylbinTheDev
 Depends: com.anemonetheming.anemone | com.spark.snowboard
 Filename: /debs/OdysseyOS.deb
-Size: 3043984
-MD5sum: a5ec6aca8be78fe5c36932ce6d560da7
-SHA1: d37b48b789a3e78d3852bb7291e5872b3da256d8
-SHA256: 9c509c54036d323f78ebd8b5687254835e415f1874289c5fcd318b3dd9d9cd82
+Size: 3228536
+MD5sum: 55ab4cc73d84e331be1d5d003c383803
+SHA1: cf3533edf23aea6bfe762a6b539c9a55df155736
+SHA256: 37af3a11c684e48e969d2bf111dec6e946c726b93f2e08ccf99ed2339fbf31b3
 Section: Themes
 Description: Odyssey themed icons!
 Author: DylbinTheDev
