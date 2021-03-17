@@ -618,4 +618,20 @@ Description: Bring your iDevice to life with true video wallpapers. This special
 Author: Zerui Chen
 Name: Frame (arm64e)
 
+Package: com.dylbinthedev.odysseytheme
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: /debs/OdysseyOS.deb
+Size: 3043984
+MD5sum: a5ec6aca8be78fe5c36932ce6d560da7
+SHA1: d37b48b789a3e78d3852bb7291e5872b3da256d8
+SHA256: 9c509c54036d323f78ebd8b5687254835e415f1874289c5fcd318b3dd9d9cd82
+Section: Themes
+Description: Odyssey themed icons!
+Author: DylbinTheDev
+Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.odysseytheme.png
+Name: OdysseyOS
+
 
