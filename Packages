@@ -632,6 +632,7 @@ Section: Themes
 Description: Odyssey themed icons!
 Author: DylbinTheDev
 Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.odysseytheme.png
+SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/OdysseyOS.json
 Name: OdysseyOS
 
 
