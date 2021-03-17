@@ -50,7 +50,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "1.4",
+                    "text": "1.4.4-1",
                     "title": "Version",
                     "class": "DepictionTableTextView"
                 },
@@ -60,7 +60,7 @@
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "12 - 14",
+                    "text": "12.2 - 14",
                     "title": "Supported iOS",
                     "class": "DepictionTableTextView"
                 },
