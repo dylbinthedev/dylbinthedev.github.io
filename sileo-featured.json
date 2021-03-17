@@ -4,9 +4,9 @@
    "itemCornerRadius":10,
    "banners":[  
       {  
-         "url":"https://dylbinthedev.github.io/assets/SileoDepictions/Installer/header.png",
-         "title":"Installer Beta",
-         "package":"me.apptapp.installer",
+         "url":"https://dylbinthedev.github.io/assets/SileoDepictions/OdysseyOS/header.png",
+         "title":"OdysseyOS",
+         "package":"com.dylbinthedev.odysseytheme",
          "hideShadow":false
       },
       {  

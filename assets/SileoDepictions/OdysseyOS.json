@@ -13,7 +13,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Simple gradient theme inspired by the Odyssey Jailbreak",
+                    "markdown": "Simple gradient theme inspired by the Odyssey Jailbreak UI",
                     "useSpacing": true
                 },
                 {
@@ -40,7 +40,7 @@
                     ]
                 },
                 {
-                    "markdown": "This is my first ever theme! The gradients are inspired by the Odyssey Jailbreak, supports both Anemone and Snowboard.",
+                    "markdown": "This is my first ever theme! Gradients are based on the standard Odyssey jailbreak UI. This theme supports both Anemone & Snowboard.",
                     "useBottomMargin": false,
                     "title": "markdown-description",
                     "useBoldText": true,
@@ -60,7 +60,7 @@
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "11 - 14",
+                    "text": "11.0 - 14.5",
                     "title": "Supported iOS",
                     "class": "DepictionTableTextView"
                 },
