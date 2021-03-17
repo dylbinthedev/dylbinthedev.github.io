@@ -60,8 +60,8 @@
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "Free",
-                    "title": "Price",
+                    "text": "11.0 - 14.5",
+                    "title": "Supported iOS",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -80,7 +80,7 @@
             ]
         }
     ],
-    "tintColor": "#0657bb",
+    "tintColor": "#49a8ae",
     "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/ChimeraOS/header.png",
     "class": "DepictionTabView"
 }
