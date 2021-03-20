@@ -7,7 +7,7 @@
             "views": [
                 {
                     "useBottomMargin": false,
-                    "title": "AltStoreAlpha",
+                    "title": "AltStore",
                     "useBoldText": true,
                     "class": "DepictionSubheaderView"
                 },
@@ -50,7 +50,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "1.4.4-1",
+                    "text": "1.4.5",
                     "title": "Version",
                     "class": "DepictionTableTextView"
                 },

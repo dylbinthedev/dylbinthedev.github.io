@@ -557,21 +557,21 @@ SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/Dolphin.js
 Name: DolphiniOS
 
 Package: com.ichitaso.altstore
-Version: 1.4.4-1
+Version: 1.4.5
 Architecture: iphoneos-arm
 Maintainer: DylbinTheDev
 Depends: com.rileytestut.altdaemon
 Filename: /debs/Altstore.deb
-Size: 4589504
-MD5sum: 7d06837252e3584207b2c23c84176bec
-SHA1: d40a6f5ecc4557b4f882f77da2eb94b9f41ec547
-SHA256: d56878e6d8e6edfe7503bb1ba371674afc5e887b0f9c231f7841cb7937a23c6e
+Size: 4591092
+MD5sum: 2ab8a810082f931e4a74f3e0199deabd
+SHA1: a3cf5ddaf7c21d093111f5bc51510135822a6bb0
+SHA256: 0765f62007897f79cda9870ab98e80b6b8e6604ca642a906586126d6445c2732
 Section: Utilities
 Description: Jailbroken version of AltStore with on device signing for iOS 12 - 14
 Author: Riley Testut
 Icon: https://dylbinthedev.github.io/icons/com.rileytestut.altstore.alpha.jailbroken.png
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/AltStore.json
-Name: AltStore (Alpha)
+Name: AltStore
 
 Package: com.zx02.frame
 Version: 2.4.2
