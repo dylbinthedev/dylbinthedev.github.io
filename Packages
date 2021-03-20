@@ -636,15 +636,15 @@ SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/OdysseyOS.
 Name: OdysseyOS
 
 Package: com.dylbinthedev.odysseywallpaper
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: DylbinTheDev
 Depends: wallpaperloader
 Filename: /debs/OdysseyWallpaper.deb
-Size: 33657484
-MD5sum: 1b15d01cbb1dad7bb86e5c7a092ba223
-SHA1: 2d1631dc123233fe6ec755ef74bcb622d419084d
-SHA256: 2b5c25546661a4dabcdfe10b02eb1378c0b6f24d32390137337b97e4fcb30d4a
+Size: 33653158
+MD5sum: 67c7c2bab1f82b04aca7e8d9d70d6643
+SHA1: 4a2d298f6760c59bdd5783cbcf95ab058b568033
+SHA256: 3744105abf0d05cea5faa802fea4691b3be820a8e0b8dca1b739304c22a46593
 Section: Wallpaper
 Description: Odyssey wallpaper, fits perfectly with the OdysseyOS theme! WallpaperLoader from Skitty's repo is required to use this package.
 Author: DylbinTheDev
@@ -669,15 +669,15 @@ SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/ChimeraOS.
 Name: ChimeraOS
 
 Package: com.dylbinthedev.chimerawallpaper
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: DylbinTheDev
 Depends: wallpaperloader
 Filename: /debs/ChimeraWallpaper.deb
-Size: 1975600
-MD5sum: 59401aab2270ea61e645712b0b1e33c4
-SHA1: e6736c23fdc371eeb35df01a7eddcbbf1819b9d2
-SHA256: 91cd3c01035487b74de268e4250f89f61909ae73c5023045593029446231ddd4
+Size: 1975522
+MD5sum: 2067ff62a0fb5d33e1c5647eefc13a06
+SHA1: 390ede2ea9cc86b5d18dc43bc09ade8f83b9cbf9
+SHA256: 7b829b7a337880bad91bd2897b8af0f42c9350dba8b675883f4bfd0eade1bd60
 Section: Wallpaper
 Description: Chimera wallpaper, fits perfectly with the ChimeraOS theme. WallpaperLoader from Skitty's repo is required to use this package.
 Author: DylbinTheDev
