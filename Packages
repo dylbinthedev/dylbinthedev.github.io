@@ -684,4 +684,19 @@ Author: DylbinTheDev
 Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.chimerawallpaper.png
 Name: ChimeraWallpaper
 
+Package: com.dylbinthedev.bigsurwallpaper
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Depends: wallpaperloader
+Filename: /debs/BigSurWallpaper.deb
+Size: 5860492
+MD5sum: 7f51f03f0c7a453caa4c445b624fcc0d
+SHA1: 35e098b17c45fad57f735eaf7bf662995dd638cf
+SHA256: 490250dc6d022d97f63e36c306e6f99b3186e29b7b76436f81450ecc170d3eaa
+Section: Wallpaper
+Description: Colorful Big Sur wallpapers for iOS, requires WallpaperLoader from Skitty's Repo.
+Author: DylbinTheDev
+Name: Big Sur Wallpaper
+
 
