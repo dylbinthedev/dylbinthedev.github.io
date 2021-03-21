@@ -7,11 +7,11 @@
 	<key>darkImage</key>
 	<string>Orbs-Blue-Dark.jpg</string>
 	<key>darkVideo</key>
-	<string>Dark.mp4</string>
+	<string></string>
 	<key>defaultImage</key>
 	<string>Orbs-Blue-Light.jpg</string>
 	<key>defaultVideo</key>
-	<string>Light.mp4</string>
+	<string></string>
 	<key>thumbnailImage</key>
 	<string>Orbs-Blue-Light.jpg</string>
 	<key>wallpaperType</key>
