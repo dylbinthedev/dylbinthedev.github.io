@@ -561,7 +561,7 @@ Version: 1.4.5
 Architecture: iphoneos-arm
 Maintainer: DylbinTheDev
 Depends: com.rileytestut.altdaemon
-Filename: /debs/Altstore.deb
+Filename: /debs/AltStore.deb
 Size: 4591092
 MD5sum: 2ab8a810082f931e4a74f3e0199deabd
 SHA1: a3cf5ddaf7c21d093111f5bc51510135822a6bb0
@@ -699,4 +699,18 @@ Description: Colorful Big Sur wallpapers for iOS, requires WallpaperLoader from 
 Author: DylbinTheDev
 Name: Big Sur Wallpaper
 
+Package: com.wilsonthewolf.webshade
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Depends: mobilesubstrate
+Filename: /debs/WebShade.deb
+Size: 24468
+MD5sum: 4b4283c9dc65077a3f68104984a56d39
+SHA1: 1f80c8799dc26c46c54309eb77b47b8ed353db33
+SHA256: 173093281dc0f3523ece7a6fd45b74ae86f1b272bf889d4ba9f2ecaa16652355
+Section: Tweaks
+Description: Make your websites dark!
+Author: WilsonTheWolf
+Name: WebShade
 
