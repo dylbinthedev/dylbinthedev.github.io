@@ -714,3 +714,19 @@ Description: Make your websites dark!
 Author: WilsonTheWolf
 Name: WebShade
 
+Package: com.dylbinthedev.iphone12wallpapers
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Depends: wallpaperloader
+Filename: /debs/iPhone12.deb
+Size: 15207840
+MD5sum: 0a280148e85491f8257049c930bf139e
+SHA1: 2f3aaacb749359dda9486a9c93ca276bf4d8c670
+SHA256: fcd187587ce7a42d648f69d9f3ed50e052d3fe739e146ff9f25c314d1f349b7b
+Section: Wallpaper
+Description: Stock iPhone 12 Light/Dark Wallpapers!
+Author: DylbinTheDev
+Name: iPhone 12 Stock Wallpapers
+
+
