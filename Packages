@@ -231,39 +231,6 @@ Icon: https://dylbinthedev.github.io/icons/com.alt.bigsur.png
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/BigSurTheme.json
 Name: Big Sur Theme
 
-Package: com.1conan.tsssaver
-Version: 0.0.4
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
-Depends: com.0x7ff.dimentio
-Filename: /debs/TSSSaver.deb
-Size: 90836
-MD5sum: 1d5df2c153f6c9b5c206c4648d953072
-SHA1: 3ca2c341ec55d15a44e6a0272e8975a7a0f826e4
-SHA256: e0ecf73306c98ca137dbaaaeca335a38355a07205665dd5db5fa18722b05e449
-Section: Utilities
-Description: TSS Saver 2 app to save SHSH2 blobs, works with A7-A13 devices on iOS 7 through 14
-Author: 1Conan
-Name: TSS Saver 2
-Icon: https://dylbinthedev.github.io/icons/com.1conan.tsssaver.png
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/TSSSaver2/TSSSaver2.html
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/TSSSaver2.json
-
-Package: com.0x7ff.dimentio
-Version: 0.0.4
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
-Filename: /debs/Dimentio.deb
-Size: 11332
-MD5sum: 38fdce0be6a5f72823fdd6d25ab1ca09
-SHA1: 5d20830a72cb473cc1526125612240cf24f213fb
-SHA256: d2fa4586f2c108db5d97d192568dcf0a859ab3564e8c8fa3d0b559840043d245
-Section: System
-Description: PoC tool for setting/getting nonce without triggering KPP/KTRR/PAC. (requires tfp0)
-Author: 0x7ff
-Name: dimentio
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/dimentio/dimentio.html
-
 Package: com.saurik.afc2d
 Version: 1.2
 Architecture: iphoneos-arm
@@ -295,21 +262,6 @@ Description: Command line tool that allows you to extract png images from Asset.
 Author: Elias Limneos
 Icon: https://dylbinthedev.github.io/icons/uncar.png
 Name: uncar
-
-Package: com.simplycode.PostBox
-Version: 0.4
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
-Filename: /debs/PostBox.deb
-Size: 9400786
-MD5sum: e15b42be23cd442283d4f42c8c9bc1b5
-SHA1: b2af1d3c256abf420242d39f0d62c1019799881d
-SHA256: 61718b0424d7b29cc7807b9377b6fdddaa6bf5dbcff6cdb56dd6481895553f9e
-Section: Utilities
-Description: View APT Repositories and packages, Works on iOS 13 and up.
-Author: Nathan Choi
-Icon: https://dylbinthdev.github.io/assets/com.simplycode.postbox.png
-Name: PostBox
 
 Package: com.hotdog.popcorntime81.ios	
 Version: 3.2
@@ -635,22 +587,6 @@ Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.odysseytheme.png
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/OdysseyOS.json
 Name: OdysseyOS
 
-Package: com.dylbinthedev.odysseywallpaper
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
-Depends: wallpaperloader
-Filename: /debs/OdysseyWallpaper.deb
-Size: 33653158
-MD5sum: 67c7c2bab1f82b04aca7e8d9d70d6643
-SHA1: 4a2d298f6760c59bdd5783cbcf95ab058b568033
-SHA256: 3744105abf0d05cea5faa802fea4691b3be820a8e0b8dca1b739304c22a46593
-Section: Wallpaper
-Description: Odyssey wallpaper, fits perfectly with the OdysseyOS theme! WallpaperLoader from Skitty's repo is required to use this package.
-Author: DylbinTheDev
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.odysseywallpaper.png
-Name: OdysseyWallpaper
-
 Package: com.dylbinthedev.chimeratheme
 Version: 1.0
 Architecture: iphoneos-arm
@@ -667,22 +603,6 @@ Author: DylbinTheDev
 Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.chimeratheme.png
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/ChimeraOS.json
 Name: ChimeraOS
-
-Package: com.dylbinthedev.chimerawallpaper
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
-Depends: wallpaperloader
-Filename: /debs/ChimeraWallpaper.deb
-Size: 1975522
-MD5sum: 2067ff62a0fb5d33e1c5647eefc13a06
-SHA1: 390ede2ea9cc86b5d18dc43bc09ade8f83b9cbf9
-SHA256: 7b829b7a337880bad91bd2897b8af0f42c9350dba8b675883f4bfd0eade1bd60
-Section: Wallpaper
-Description: Chimera wallpaper, fits perfectly with the ChimeraOS theme. WallpaperLoader from Skitty's repo is required to use this package.
-Author: DylbinTheDev
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.chimerawallpaper.png
-Name: ChimeraWallpaper
 
 Package: com.dylbinthedev.bigsurwallpaper
 Version: 1.0
