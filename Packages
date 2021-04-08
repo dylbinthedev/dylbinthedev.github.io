@@ -649,4 +649,25 @@ Description: Stock iPhone 12 Light/Dark Wallpapers! Requires WallpaperLoader fro
 Author: DylbinTheDev
 Name: iPhone 12 Stock Wallpapers
 
+Package: org.coolstar.sileo
+Version: 2.0.2-tale1
+Priority: required
+Icon: https://getsileo.app/img/icon.png
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Depends: apt (>= 1.8.0), coreutils (>=8.31-1), dpkg (>= 1.19.2-4), zsh | bash, cy+cpu.arm64, firmware(>=12.2) | org.swift.libswift (>=5.0)
+Conflicts: cydia-gui (<<99.0)
+Pre-Depends: debianutils, dpkg (>= 1.18)
+Filename: /debs/SileoElu.deb
+Size: 3265240
+MD5sum: 1f1b55ae4280e07a927d36fc2d49af6f
+SHA1: 56ca0749380a8488ef38de2bd6a830b43ce28413
+SHA256: 83edab20bd03203ba4cba277cbc0384a56cbf26627892270e925780ef466784e
+Section: Packaging
+Description: A proper APT client for iOS 12 and higher on devices using Elucubratus and the shitc0ver jailbreak.
+SileoDepiction: https://featuredpage.getsileo.app/depiction.json
+Author: Sileo Team <getsileoapp@gmail.com>
+Tag: cydia::essential
+Name: Sileo (Elucubratus)
+
 
