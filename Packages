@@ -670,4 +670,22 @@ Author: Sileo Team <getsileoapp@gmail.com>
 Tag: cydia::essential
 Name: Sileo (Elucubratus)
 
-
+Package: com.utmapp.UTM
+Version: 2.0.25
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Depends: firmware (>=11.0), firmware-sbin, net.angelxwind.appsyncunified
+Filename: /debs/UTM.deb
+Size: 187286160
+MD5sum: 127cdedda05b7e523833b2baf446a786
+SHA1: 9e0971b4c7f38690a66fe42aa1f62e0b74093a78
+SHA256: 8fb0e8e408e924116d4c80584ac3fe5eae74c989a5502977fa72e81788a814a3
+Section: Utilities
+Description: Virtual machines for iOS
+Author: osy
+Homepage: https://getutm.app/
+Depiction: https://cydia.getutm.app/depiction/
+SileoDepiction: https://cydia.getutm.app/depiction/native/com.utmapp.UTM.json
+Tags: compatible_min::ios11.0
+Icon: https://cydia.getutm.app/assets/com.utmapp.UTM/icon.png
+Name: UTM
