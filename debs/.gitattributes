@@ -1,0 +1,2 @@
+UTM.deb filter=lfs diff=lfs merge=lfs -text
+UTM/** filter=lfs diff=lfs merge=lfs -text
