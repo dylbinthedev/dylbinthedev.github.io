@@ -55,12 +55,12 @@
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "02-24-2021",
-                    "title": "Released",
+                    "text": "04-27-2021",
+                    "title": "Updated",
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "12.2 - 14.4.1",
+                    "text": "12.2 - 14.5",
                     "title": "Supported iOS",
                     "class": "DepictionTableTextView"
                 },
