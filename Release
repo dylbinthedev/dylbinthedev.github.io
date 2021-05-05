@@ -5,4 +5,4 @@ Version: 2.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: APT Repo for Jailbroken iOS devices, designed with Sileo and Installer in mind...
+Description: Modern APT Repo for jailbroken iOS devices.
