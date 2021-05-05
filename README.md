@@ -11,7 +11,7 @@ Simply launch your Package Manager and add a new "Source" then type https://dylb
 ## Requirements
 - Requires a jailbroken iPhone, iPad, iPod touch, Apple TV
 - Package Manager: Cydia, Sileo, Installer, Zebra, nitoTV
-- Supports iOS and tvOS
+- A device running iOS/iPadOS or tvOS
 
 ## Designed with modern package managers in mind.
 - This repo is made especially for modern package managers like Sileo, Installer and Zebra, but it still supports Cydia.
