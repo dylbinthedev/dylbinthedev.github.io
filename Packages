@@ -523,6 +523,7 @@ Description: Jailbroken version of AltStore with on device signing for iOS 12 - 
 Author: Riley Testut
 Icon: https://dylbinthedev.github.io/icons/com.rileytestut.altstore.alpha.jailbroken.png
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/AltStore.json
+Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/AltStore/AltStore.html
 Name: AltStore
 
 Package: com.zx02.frame
