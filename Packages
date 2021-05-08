@@ -8,7 +8,7 @@ MD5sum: df4562de2878d3a908cad23f6d51bd25
 SHA1: 701f4e75b72cd22a6d16dfa819edc78bab58352c
 SHA256: b1314d3e170ae6827a84b13cecd5d5307d7d255ab98ecd77f2d25f901ce67847
 Section: Games
-Description: Delta multi-emulator for iOS 12.2 - 14
+Description: Delta multi-emulator for iOS 12/13/14
 Author: Riley Testut
 Name: Delta
 Icon: https://dylbinthedev.github.io/icons/com.rileytestut.delta.png
@@ -25,7 +25,7 @@ MD5sum: 84c059fb9faaa7fe253804ce16a9296f
 SHA1: 602adbf6c2f79971abcf181785b4cd429bc9e5fc
 SHA256: 7d38afd21cddf77174fb0d95ce3690a1e08889f4d9b715ed87c952c9bd9c533b
 Section: Games
-Description: Delta (Beta) multi-emulator for iOS 12.2 - 14
+Description: Delta (Beta) multi-emulator for iOS 12/13/14
 Author: Riley Testut
 Name: Delta Beta
 Icon: https://dylbinthedev.github.io/icons/com.rileytestut.delta.png
@@ -42,7 +42,7 @@ MD5sum: ab0546a3163064b4af57b5c013a32af1
 SHA1: 3f57997756d7e3c0efa0a7b7f733b409ce636d75
 SHA256: 7501bc4d11465e42e95054bc8980d0b7c0210271fd149d8d9da6f1662772cc6a
 Section: Games
-Description: Nintendo DS Emulator for iOS 7 - 14
+Description: Nintendo DS Emulator for iOS 7-14
 Author: iNDS Team
 Name: iNDS (64-bit)
 Icon: https://dylbinthedev.github.io/icons/net.nerd.inds.png
@@ -59,7 +59,7 @@ MD5sum: ae7db3c63defcd502ca5af7d10b6c6e9
 SHA1: ff90ad770ce58bfc16827af3784707cdabc1a308
 SHA256: b466640e379d36b035e8190567dc2f1085c86665e463823bd59dca349aa93d84
 Section: Utilities
-Description: Spotify++ (Full App) for iOS 7 - 14
+Description: Spotify++ (Full App) for iOS 7-14
 Author: DylbinTheDev & julioverne
 Name: Spotify++ (App)
 Icon: https://dylbinthedev.github.io/icons/com.spotify.client.png
@@ -76,7 +76,7 @@ MD5sum: 0b82ceaadfe96320b36c258244412cfc
 SHA1: 314138c1465e73788fe13e5cd31de1a511359518
 SHA256: cab730c99245ce4294c7a7d2f1a86622a9f0f79fd0f4a51e41cfbec53e672b6e
 Section: Multimedia
-Description: MovieBoxPro for iOS 11 and above.
+Description: MovieBoxPro for iOS 11/12/13/14
 Author: MovieBoxPro Team
 Name: MovieBox Pro
 Icon: file:///Applications/MovieBox.app/AppIcon60x60@3x.png
@@ -93,7 +93,7 @@ MD5sum: 5db0da7e008b2cb88e3cdd62d513176c
 SHA1: 9da877a14d5671ed5fe6cc41af499a2e9449093a
 SHA256: 8d666fb0a04f91ee5e74960992eb3b243e0505a6792c30db842593fc16e30a51
 Section: Multimedia
-Description: MediaboxHD for iOS 9 - 14
+Description: MediaboxHD for iOS 9-14
 Author: Mediaboxhd
 Name: MediaBox HD
 Icon: https://dylbinthedev.github.io/icons/mediaplayer.box.ios3.png
@@ -128,7 +128,7 @@ MD5sum: b8088e73787499d879e90dae0cb0fa24
 SHA1: 9e54090bd0bee10b1ac2c89ee1cd62b98324f2f4
 SHA256: ef8504838a57fee5173dbc5ce15b09209be54f81353481dcc0414230c9a930aa
 Section: Games
-Description: Perfect Flappy Bird Clone for iOS 7 - 14
+Description: Perfect Flappy Bird Clone for iOS 7-14
 Author: Brandon Plank
 Name: Flappy Bird
 Icon: https://dylbinthedev.github.io/icons/org.brandonplank.flappybird.png
@@ -161,7 +161,7 @@ MD5sum: 60a9631384a97620ba45247a1c4b0632
 SHA1: bb780eaece198ea23053c007038629514b0f7e8b
 SHA256: 1587823b61249bd69b77f5d659870313f36a11b5e058f795deca4f85d4dc8e57
 Section: Tweaks
-Description: Patch for YouTube to add background playback and removal of ads. Supports iOS 10 - 14
+Description: Patch for YouTube to add background playback it removes ads. Supports iOS 10 - 14
 Author: iChitaso	
 Name: YouTube Patcher
 Icon: https://dylbinthedev.github.io/icons/com.ichitaso.youtubepatcher.png
@@ -214,22 +214,6 @@ Author: Henrik Rydgård
 Depiction: https://cydia.ppsspp.org/?page/org.ppsspp.ppsspp-dev-latest
 Icon: https://dylbinthedev.github.io/icons/org.ppsspp.ppsspp-dev-latest.png
 Name: PPSSPP (Dev-Latest)
-
-Package: com.alt.bigsur
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
-Filename: /debs/BigSurTheme.deb
-Size: 4792996
-MD5sum: bc4215fbaf33d7dc8e5114ede94bc0f5
-SHA1: 94f513013b778f1557d9b445be4ba7fdbd42bf02
-SHA256: 1a2815dacb6e280f3bb3951c03a1fa4113d2faae5b56211464f867a7054c3c83
-Section: Themes
-Description: Ports macOS Big Sur icons to iOS! Supports Anemone and Snowboard.
-Author: alt03b1
-Icon: https://dylbinthedev.github.io/icons/com.alt.bigsur.png
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/BigSurTheme.json
-Name: Big Sur Theme
 
 Package: com.saurik.afc2d
 Version: 1.2
@@ -421,7 +405,7 @@ MD5sum: 6128b0c6a0dbe67e95f63be61e75e7ee
 SHA1: 1043cd012b2e71018184fee0dc72c5593ebc8860
 SHA256: 273fdab8c4531ec87a9276b61f1c7fa513ad25ab447e5ec81670979a5f195942
 Section: Multimedia
-Description: Successor to PopcornTime for iOS, Supports iOS 12, 13 and 14.
+Description: Successor to PopcornTime for iOS, Supports iOS 12/13/14.
 Author: AntiqueDev
 Icon: https://dylbinthedev.github.io/icons/com.antique.Popcorn-iOS.png
 Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/Popcorn/Popcorn.html
@@ -438,27 +422,12 @@ MD5sum: f069dbb24745853913403ef4f60c9647
 SHA1: c1f63392bfe6d72c1e0e2cdd747283df837fb6aa
 SHA256: b0bbc5e612740c8a007c3a3b76c9413abe795b08d5cc13fb7be4a23161231c4f
 Section: Multimedia
-Description: Free Movies & TV Shows steaming for iOS, Supports iOS 9, 10, 11, 12, 13 and 14.
+Description: Free Movies & TV Shows steaming for iOS, Supports iOS 9-14.
 Author: ZiniTV Team
 Icon: https://dylbinthedev.github.io/icons/com.zinitevi.jb.png
 Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/ZiniTV/ZiniTV.html
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/ZiniTV.json
 Name: ZiniTV
-
-Package: com.ichitaso.fivehome13
-Version: 0.0.3
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
-Depends: mobilesubstrate, com.chpwn.iconsupport, com.muirey03.iconsupportfix
-Filename: /debs/FiveColumn13.deb
-Size: 4432
-MD5sum: 7b902f659101e8f214e1d9b3354551a3
-SHA1: 6e37e88daa7dfe8480d7b554dae0a5dda1449db0
-SHA256: 0c508e48736f46fd5283f121b955a3280b2789e804db3501ce28a0e99d5682bc
-Section: Tweaks
-Description: Add a fifth column of icons to your homescreen on iOS 13/14
-Author: iChitaso
-Name: FiveColumnHomeScreen14
 
 Package: me.oatmealdome.dolphinios-patreon-beta
 Version: 3.2.0b1-146
@@ -471,7 +440,7 @@ MD5sum: ec613a229aae4607ec8ea7468ca7578c
 SHA1: 0d92a67f16baf64a6964e2b5cbe607c647adeeb0
 SHA256: 9f6c8b194461b878388a1cfcdbb3cff8118fc2fecb248af1228b6086b7dc8363
 Section: Games
-Description: DolphiniOS Beta Wii/Gamecube Emulator for iOS 12 - 14
+Description: DolphiniOS Beta Wii/Gamecube Emulator for iOS 12-14
 Author: OatmealDome
 Icon: https://dylbinthedev.github.io/icons/me.oatmealdome.dolphinios-patreon-beta.png
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/DolphinBeta.json
@@ -503,7 +472,7 @@ MD5sum: a45b4f89b078fad6cd3ab9ca724d1b00
 SHA1: 28f340a2417cfdb15425255e7b0940badefdcd08
 SHA256: 80c1899fcfd5f24310f6b1b1593a20f33caa9e93ade5e893c915663eae706eee
 Section: Games
-Description: DolphiniOS Wii/Gamecube Emulator for iOS 12 - 14
+Description: DolphiniOS Wii/Gamecube Emulator for iOS 12-14
 Author: OatmealDome
 Icon: https://dylbinthedev.github.io/icons/me.oatmealdome.dolphinios.png
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/Dolphin.json
@@ -520,7 +489,7 @@ MD5sum: 2ab8a810082f931e4a74f3e0199deabd
 SHA1: a3cf5ddaf7c21d093111f5bc51510135822a6bb0
 SHA256: 0765f62007897f79cda9870ab98e80b6b8e6604ca642a906586126d6445c2732
 Section: Utilities
-Description: Jailbroken version of AltStore with on device signing for iOS 12 - 14
+Description: Jailbroken version of AltStore with on device signing for iOS 12/13/14
 Author: Riley Testut
 Icon: https://dylbinthedev.github.io/icons/com.rileytestut.altstore.alpha.jailbroken.png
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/AltStore.json
@@ -538,7 +507,7 @@ MD5sum: 55ab4cc73d84e331be1d5d003c383803
 SHA1: cf3533edf23aea6bfe762a6b539c9a55df155736
 SHA256: 37af3a11c684e48e969d2bf111dec6e946c726b93f2e08ccf99ed2339fbf31b3
 Section: Themes
-Description: Odyssey themed icons!
+Description: Odyssey themed icons for iOS 11-14!
 Author: DylbinTheDev
 Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.odysseytheme.png
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/OdysseyOS.json
@@ -555,7 +524,7 @@ MD5sum: ac0d1966d7312926b1dc048bbed72007
 SHA1: 01675da1887d5fdaba88ec2cfa26398f25aa0a44
 SHA256: 12afa691a7c2ad93ee575c8f88b1b01288283f1266addaae639f27fe0959acbc
 Section: Themes
-Description: Chimera themed icons!
+Description: Chimera themed icons for iOS 11-14!
 Author: DylbinTheDev
 Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.chimeratheme.png
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/ChimeraOS.json
@@ -572,7 +541,7 @@ MD5sum: 7f51f03f0c7a453caa4c445b624fcc0d
 SHA1: 35e098b17c45fad57f735eaf7bf662995dd638cf
 SHA256: 490250dc6d022d97f63e36c306e6f99b3186e29b7b76436f81450ecc170d3eaa
 Section: Wallpaper
-Description: Colorful Big Sur wallpapers for iOS, requires WallpaperLoader from Skitty's Repo.
+Description: Colorful Big Sur wallpaper for iOS, requires WallpaperLoader from Skitty's Repo.
 Author: DylbinTheDev
 Name: Big Sur Wallpaper
 
@@ -621,7 +590,7 @@ MD5sum: 1f1b55ae4280e07a927d36fc2d49af6f
 SHA1: 56ca0749380a8488ef38de2bd6a830b43ce28413
 SHA256: 83edab20bd03203ba4cba277cbc0384a56cbf26627892270e925780ef466784e
 Section: Packaging
-Description: A proper APT client for iOS 12 and higher on devices using Elucubratus and the shitc0ver jailbreak.
+Description: A proper APT client for iOS 12 and higher on devices using Elucubratus and the unc0ver jailbreak.
 SileoDepiction: https://featuredpage.getsileo.app/depiction.json
 Author: Sileo Team <getsileoapp@gmail.com>
 Tag: cydia::essential
