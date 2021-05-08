@@ -646,3 +646,18 @@ SileoDepiction: https://cydia.getutm.app/depiction/native/com.utmapp.UTM.json
 Tags: compatible_min::ios11.0
 Icon: https://cydia.getutm.app/assets/com.utmapp.UTM/icon.png
 Name: UTM
+
+Package: com.dylbinthedev.wallpaperpack
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Depends: wallpaperloader
+Filename: /debs/WallpaperPack.deb
+Size: 42625544
+MD5sum: 5c685bab2e8645aef0e4f923b9f06f41
+SHA1: f313f08c0f8522eb4a531493ac696ed875f164b3
+SHA256: 214656b7018d3d356b6268ad15313f74158ed6849d358e3d28466e31cc3bf910
+Section: Wallpaper
+Description: Light/Dark Wallpapers optimized for iOS 13 and higher! Requires WallpaperLoader from Skitty's Repo. Wallpapers Made by @jianoliuwalls
+Author: DylbinTheDev
+Name: WallpaperPack
