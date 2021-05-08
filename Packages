@@ -393,6 +393,7 @@ SHA256: 21a89cbf20c807ce8c4f30ff17160997b0b55b828f08184d7ea17a4feb409e3f
 Section: System
 Description: jailbreak detection bypass for iOS 14. Requires libkrw from sbingner's repo (works on the unc0ver jailbreak.)
 Author: XsF1re
+Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/vnodebypass/VNode.html
 Name: vnodebypass
 
 Package: com.antique.Popcorn-iOS
@@ -444,6 +445,7 @@ Description: DolphiniOS Beta Wii/Gamecube Emulator for iOS 12-14
 Author: OatmealDome
 Icon: https://dylbinthedev.github.io/icons/me.oatmealdome.dolphinios-patreon-beta.png
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/DolphinBeta.json
+Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/Dolphin/Dolphin.html
 Name: DolphiniOS Beta
 
 Package: me.oatmealdome.csdbgd
@@ -476,6 +478,7 @@ Description: DolphiniOS Wii/Gamecube Emulator for iOS 12-14
 Author: OatmealDome
 Icon: https://dylbinthedev.github.io/icons/me.oatmealdome.dolphinios.png
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/Dolphin.json
+Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/DolphinBeta/DolphinBeta.html
 Name: DolphiniOS
 
 Package: com.ichitaso.altstore
