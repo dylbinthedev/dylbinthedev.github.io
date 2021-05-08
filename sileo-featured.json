@@ -4,15 +4,15 @@
    "itemCornerRadius":10,
    "banners":[  
       {  
-         "url":"https://dylbinthedev.github.io/assets/SileoDepictions/OdysseyOS/header.png",
-         "title":"OdysseyOS",
-         "package":"com.dylbinthedev.odysseytheme",
+         "url":"https://dylbinthedev.github.io/assets/SileoDepictions/FlappyBird/header.png",
+         "title":"Flappy Bird",
+         "package":"org.brandonplank.flappybird",
          "hideShadow":false
       },
       {  
-         "url":"https://dylbinthedev.github.io/assets/SileoDepictions/Dolphin/header.png",
-         "title":"Dolphin iOS",
-         "package":"me.oatmealdome.dolphinios",
+         "url":"https://dylbinthedev.github.io/assets/SileoDepictions/Screenshots/Moviebox.png",
+         "title":"MovieBox Pro",
+         "package":"com.xd.mbp7",
          "hideShadow":false
       },
 	  {
@@ -22,9 +22,9 @@
          "hideShadow":false
       },
 	  {
-	     "url":"https://dylbinthedev.github.io/assets/SileoDepictions/PopcornClient/header.png",
-         "title":"PopcornTime",
-         "package":"com.hotdog.popcorntime81.ios",
+	     "url":"https://dylbinthedev.github.io/assets/SileoDepictions/ChimeraOS/header.png",
+         "title":"ChimeraOS",
+         "package":"com.dylbinthedev.chimeratheme",
          "hideShadow":false
       },
 	  {
