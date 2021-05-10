@@ -67,7 +67,7 @@
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "text": "11.0 - 14.4.1",
+                    "text": "11.0 - 14.5",
                     "title": "Supported iOS",
                     "class": "DepictionTableTextView"
                 },
@@ -80,7 +80,7 @@
             "class": "DepictionStackView"
         }
     ],
-    "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/Screenshots/Moviebox.png",
+    "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/Screenshots/header.png",
     "class": "DepictionTabView",
     "tintColor": "#2c2c30"
 }
