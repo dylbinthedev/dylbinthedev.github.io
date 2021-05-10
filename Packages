@@ -513,6 +513,7 @@ Description: Odyssey themed icons for iOS 11-14!
 Author: DylbinTheDev
 Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.odysseytheme.png
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/OdysseyOS.json
+Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/OdysseyOS/OdysseyOS.html
 Name: OdysseyOS
 
 Package: com.dylbinthedev.chimeratheme
@@ -530,6 +531,7 @@ Description: Chimera themed icons for iOS 11-14!
 Author: DylbinTheDev
 Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.chimeratheme.png
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/ChimeraOS.json
+Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/ChimeraOS/ChimeraOS.html
 Name: ChimeraOS
 
 Package: com.dylbinthedev.bigsurwallpaper
@@ -545,6 +547,7 @@ SHA256: 490250dc6d022d97f63e36c306e6f99b3186e29b7b76436f81450ecc170d3eaa
 Section: Wallpaper
 Description: Colorful Big Sur wallpaper for iOS, requires WallpaperLoader from Skitty's Repo.
 Author: DylbinTheDev
+Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/BigSurWallpaper/BigSurWallpaper.html
 Name: Big Sur Wallpaper
 
 Package: com.wilsonthewolf.webshade
