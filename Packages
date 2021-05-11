@@ -280,16 +280,18 @@ Icon: https://dylbinthedev.github.io/icons/com.wavelink.Skins4Delta.png
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/Skins4Delta.json
 Name: Skins4Delta
 
-Package: com.twickd.sarahh12099.youtube-reborn
+Package: com.dylbinthedev.youtubereborn
 Version: 2.0.0.3
 Architecture: iphoneos-arm
 Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Filename: /debs/YouTubeReborn.deb
-Size: 209896
-MD5sum: 4698532c90ffff740855605e2a671da1
-SHA1: 69c488d50b280450a6492f4e89d1ab92328cc01c
-SHA256: 60c5d37603aa1dbc19d938167d20bd863eb9230dc9f7e3ed93491ae4bd6a2d36
+Size: 343084
+MD5sum: 8c40d1a6fc14e9d08cc6731a6aadd592
+SHA1: aafe2f6d7f3970db9c0dedcaa0b3ee848e89bdd0
+SHA256: 503c75c9058ccf5bde97c73eab6b700574179610a6f19f9cb97c749faa721604
 Section: Tweaks
+Depends: firmware (>= 13.0)
+Conflicts: com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, com.spicat.youpip, com.ps.youpip, prasa.youtubeplus, com.unlimapps.ytpp, me.alfhaily.cercube
 Description: YouTube Customizer! Only for iOS 13/14
 Author: SarahH12099
 Icon: https://dylbinthedev.github.io/icons/com.twickd.sarahh12099.youtube-reborn.png
@@ -380,15 +382,15 @@ Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/Provenance/Prov
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/Provenance.json
 Name: Provenance
 
-Package: kr.xsf1re.vnodebypass
+Package: com.dylbinthedev.vnodebypass
 Version: 0.2.3
 Architecture: iphoneos-arm
 Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Filename: /debs/VNodeBypass.deb
-Size: 24892
-MD5sum: dade8183ce60b38a4f1553bf34aa6573
-SHA1: 9cbc887edba37a518027d45f80a076dba51c44cd
-SHA256: 6ec49648482a9116f151719d5ed7d5390e00a1beece8af5e2c6032373f532e00
+Size: 31152
+MD5sum: 2e194add5e059ed7978f835a837744bf
+SHA1: 45ccb804f89c6d812965492d882eed604509f572
+SHA256: 90d7bab19ca28ce2fda189e3d170d4f0bd98a948ba08643a7477b4163e0666c8
 Section: System
 Description: jailbreak detection bypass for iOS 14. Requires libkrw (on the unc0ver jailbreak.) Requires libKernRW (on the Taurine jailbreak.)
 Author: XsF1re
@@ -538,14 +540,14 @@ Package: com.dylbinthedev.bigsurwallpaper
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: DylbinTheDev <dylbin@dylbin.dev>
-Depends: wallpaperloader
+Depends: com.dylbinthedev.wallpaperloader
 Filename: /debs/BigSurWallpaper.deb
 Size: 5860492
 MD5sum: 7f51f03f0c7a453caa4c445b624fcc0d
 SHA1: 35e098b17c45fad57f735eaf7bf662995dd638cf
 SHA256: 490250dc6d022d97f63e36c306e6f99b3186e29b7b76436f81450ecc170d3eaa
 Section: Wallpaper
-Description: Colorful Big Sur wallpaper for iOS, requires WallpaperLoader from Skitty's Repo.
+Description: Colorful Big Sur wallpaper for iOS!
 Author: DylbinTheDev
 Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/BigSurWallpaper/BigSurWallpaper.html
 Name: Big Sur Wallpaper
@@ -569,14 +571,14 @@ Package: com.dylbinthedev.iphone12wallpapers
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: DylbinTheDev <dylbin@dylbin.dev>
-Depends: wallpaperloader
+Depends: com.dylbinthedev.wallpaperloader
 Filename: /debs/iPhone12.deb
 Size: 15207800
 MD5sum: 68984ac712680d629044dcce84ccba89
 SHA1: 18a8ca1dd327919dd1e99ac5b61d9596c8da311e
 SHA256: 86ed2d383706f2b52aac9a5a29f5ef7b466fd357b8e56a60b5fbb9c38ea6aa84
 Section: Wallpaper
-Description: Stock iPhone 12 Light/Dark Wallpapers! Requires WallpaperLoader from Skitty's Repo.
+Description: Stock iPhone 12 Light/Dark Wallpapers!
 Author: DylbinTheDev
 Name: iPhone 12 Stock Wallpapers
 
@@ -601,38 +603,18 @@ Author: Sileo Team <getsileoapp@gmail.com>
 Tag: cydia::essential
 Name: Sileo (Elucubratus)
 
-Package: com.utmapp.UTM
-Version: 2.0.25
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev <dylbin@dylbin.dev>
-Depends: firmware (>=11.0), firmware-sbin, net.angelxwind.appsyncunified
-Filename: /debs/UTM.deb
-Size: 187286160
-MD5sum: 127cdedda05b7e523833b2baf446a786
-SHA1: 9e0971b4c7f38690a66fe42aa1f62e0b74093a78
-SHA256: 8fb0e8e408e924116d4c80584ac3fe5eae74c989a5502977fa72e81788a814a3
-Section: Utilities
-Description: Virtual machines for iOS
-Author: osy
-Homepage: https://getutm.app/
-Depiction: https://cydia.getutm.app/depiction/
-SileoDepiction: https://cydia.getutm.app/depiction/native/com.utmapp.UTM.json
-Tags: compatible_min::ios11.0
-Icon: https://cydia.getutm.app/assets/com.utmapp.UTM/icon.png
-Name: UTM
-
 Package: com.dylbinthedev.wallpaperpack
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: DylbinTheDev <dylbin@dylbin.dev>
-Depends: wallpaperloader
+Depends: com.dylbinthedev.wallpaperloader
 Filename: /debs/WallpaperPack.deb
 Size: 42625544
 MD5sum: 5c685bab2e8645aef0e4f923b9f06f41
 SHA1: f313f08c0f8522eb4a531493ac696ed875f164b3
 SHA256: 214656b7018d3d356b6268ad15313f74158ed6849d358e3d28466e31cc3bf910
 Section: Wallpaper
-Description: Light/Dark Wallpapers optimized for iOS 13 and higher! Requires WallpaperLoader from Skitty's Repo. Wallpapers Made by @jianoliuwalls
+Description: Light/Dark Wallpapers optimized for iOS 13 and higher! Wallpapers Made by @jianoliuwalls
 Author: DylbinTheDev
 Name: WallpaperPack
 
@@ -649,3 +631,32 @@ Section: Themes
 Description: macOS Big Sur icons ported to iOS!
 Author: DylbinTheDev
 Name: Big Sur Theme
+
+Package: com.dylbinthedev.wallpaperloader
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
+Filename: /debs/WallpaperLoader.deb
+Size: 19710
+MD5sum: 4c6ea5b0fa5817e688213a5dfad6348d
+SHA1: 068ab3db0504d55da2a4302503ac8a267a534ccc
+SHA256: 6276867c2c2e21aa9f2f98a9313f46cbe38b127f3292aea01ccbc40be7b04b53
+Section: Tweaks
+Description: Add more default wallpapers on iOS 13/14!
+Author: Skitty
+Name: WallpaperLoader
+
+Package: com.dylbinthedev.wallpaperloaderprefs
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
+Filename: /debs/WallpaperLoaderPrefs.deb
+Depends: com.dylbinthedev.wallpaperloader
+Size: 22668
+MD5sum: 85fdf3a06267896ed364a67abad9b214
+SHA1: 3123f0f0a7ce365015648f2ee3105c6d65370ced
+SHA256: 8e73ad7db56586f5eba27d032a3e87d6d98783af86bb3acc5baf84624ce9c6df
+Section: Tweaks
+Description: Easily change Light/Dark wallpapers in settings
+Author: Skitty
+Name: WallpaperLoader (Prefs)
