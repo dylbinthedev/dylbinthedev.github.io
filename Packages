@@ -635,3 +635,17 @@ Section: Wallpaper
 Description: Light/Dark Wallpapers optimized for iOS 13 and higher! Requires WallpaperLoader from Skitty's Repo. Wallpapers Made by @jianoliuwalls
 Author: DylbinTheDev
 Name: WallpaperPack
+
+Package: com.dylbinthedev.bigsurtheme
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
+Filename: /debs/BigSurTheme.deb
+Size: 4370184
+MD5sum: 9d8d4cc31202e4d551d915665f7815c2
+SHA1: 22575fc0946584280ea7c1e5b651dee6bf1b90ce
+SHA256: 0cb07c6ecf780e02ead6de82b7b42aef36aaf14a7df3b11bcdda6fb60b2f65fc
+Section: Themes
+Description: macOS Big Sur icons ported to iOS!
+Author: DylbinTheDev
+Name: Big Sur Theme
