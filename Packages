@@ -1,7 +1,7 @@
 Package: com.rileytestut.Delta
 Version: 1.3
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Filename: /debs/Delta.deb
 Size: 15495884
 MD5sum: df4562de2878d3a908cad23f6d51bd25
@@ -18,7 +18,7 @@ SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/Delta.json
 Package: com.rileytestut.Delta.Beta
 Version: 1.3rc1
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Filename: /debs/DeltaBeta.deb
 Size: 19686998
 MD5sum: 84c059fb9faaa7fe253804ce16a9296f
@@ -35,7 +35,7 @@ SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/DeltaBeta.
 Package: net.nerd.inds
 Version: 1.10.8
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Filename: /debs/iNDS.deb
 Size: 8423850
 MD5sum: ab0546a3163064b4af57b5c013a32af1
@@ -52,7 +52,7 @@ SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/iNDS.json
 Package: com.spotify.client
 Version: 8.5.51
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Filename: /debs/Spotify.deb
 Size: 52858772
 MD5sum: ae7db3c63defcd502ca5af7d10b6c6e9
@@ -69,7 +69,7 @@ SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/SpotifyApp
 Package: com.xd.mbp7
 Version: 8.2
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev 
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Filename: /debs/MovieBoxPro.deb
 Size: 38813324
 MD5sum: 0b82ceaadfe96320b36c258244412cfc
@@ -86,7 +86,7 @@ SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/MovieBoxPr
 Package: mediaplayer.box.ios3
 Version: 2.4.9.2
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev 
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Filename: /debs/Mediabox.deb
 Size: 85016808
 MD5sum: 5db0da7e008b2cb88e3cdd62d513176c
@@ -103,7 +103,7 @@ SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/MediaBoxHD
 Package: com.julioverne.spotilife
 Version: 1.1a
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Depends: mobilesubstrate
 Filename: /debs/Spotilife.deb
 Size: 201134
@@ -121,7 +121,7 @@ SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/Spotilife.
 Package: org.brandonplank.flappybird
 Version: 3.8
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Filename: /debs/FlappyBird.deb
 Size: 66376364
 MD5sum: b8088e73787499d879e90dae0cb0fa24
@@ -138,7 +138,7 @@ SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/FlappyBird
 Package: NoahEvans.Spork
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Filename: /debs/Spork.deb
 Size: 34687048
 MD5sum: a10824ecc7104d1a06827a53978861ab
@@ -154,7 +154,7 @@ SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/Spork.json
 Package: com.ichitaso.youtubepatcher
 Version: 0.3
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Filename: /debs/YouTubePatcher.deb
 Size: 3178
 MD5sum: 60a9631384a97620ba45247a1c4b0632
@@ -171,7 +171,7 @@ SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/YouTubePat
 Package: io.pangu.loader
 Version: 1.2.0
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Filename: /debs/PanguLoader.deb
 Size: 1320044
 MD5sum: d497c2ecbf6fc7adec667fa9a8fa080b
@@ -186,7 +186,7 @@ Icon: https://dylbinthedev.github.io/icons/io.pangu.loader.png
 Package: org.ppsspp.ppsspp-dev-working
 Version: 0v1.6.3-456-g6d0ed4ad0
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Filename: /debs/PPSSPPDevWorking.deb
 Size: 17258916
 MD5sum: 29016d604e5dfc3b3ca7bef166aa6b77
@@ -202,7 +202,7 @@ Name: PPSSPP (Dev-Working)
 Package: org.ppsspp.ppsspp-dev-latest
 Version: 0v1.6.3-456-g6d0ed4ad0
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Filename: /debs/PPSSPPDevLatest.deb
 Size: 17259000
 MD5sum: e3b7d976ced6b9fee8db214c07f6ca53
@@ -218,7 +218,7 @@ Name: PPSSPP (Dev-Latest)
 Package: com.saurik.afc2d
 Version: 1.2
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Depends: mobilesubstrate
 Filename: /debs/AppleFileConduit.deb
 Size: 18114
@@ -234,7 +234,7 @@ Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/AppleFileCondui
 Package: uncar
 Version: 0.0.1-6
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Depends: mobilesubstrate
 Filename: /debs/Uncar.deb
 Size: 8576
@@ -250,7 +250,7 @@ Name: uncar
 Package: com.hotdog.popcorntime81.ios	
 Version: 3.2
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Filename: /debs/PopcornClient.deb
 Size: 24266444
 MD5sum: 08a77cd19b10a14099956a9197898a3d
@@ -267,7 +267,7 @@ Name: PopcornTime
 Package: com.wavelink.Skins4Delta
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Filename: /debs/Skins4Delta.deb
 Size: 678732
 MD5sum: 11e05af5c9df7d13f8e0fffe1a0d4fd6
@@ -283,7 +283,7 @@ Name: Skins4Delta
 Package: com.twickd.sarahh12099.youtube-reborn
 Version: 2.0.0.3
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Filename: /debs/YouTubeReborn.deb
 Size: 209896
 MD5sum: 4698532c90ffff740855605e2a671da1
@@ -300,7 +300,7 @@ Name: YouTube Reborn
 Package: cydia.com.ipc.crackerxi
 Version: 1.1.16
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Filename: /debs/CrackerXI+.deb
 Size: 9960924
 MD5sum: 7363c9289b0041ba3bc8df156b751a9c
@@ -316,7 +316,7 @@ Name: CrackerXI+
 Package: xyz.xninja.systeminfo
 Version: 2.7.2-2
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Filename: /debs/SystemInfo.deb
 Size: 427612
 MD5sum: 26267e8c4797962bd17d57670951021b
@@ -332,7 +332,7 @@ Name: System Info
 Package: com.rileytestut.Clip.65YD56KAPC
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Filename: /debs/Clip.deb
 Size: 425924
 MD5sum: 4e9bf3ce315e0eca2458ddacff73a93c
@@ -349,7 +349,7 @@ Name: Clip
 Package: me.apptapp.installer
 Version: 5.1-74
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Filename: /debs/Installer.deb
 Size: 13825672
 MD5sum: ab53e1b37d161e90387bd27a6c579e5f
@@ -366,7 +366,7 @@ Name: Installer Beta
 Package: com.provenance-emu.provenance
 Version: 1.4
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Filename: /debs/Provenance.deb
 Size: 22962550
 MD5sum: 7f031d06d82d69d887930bf58893f48f
@@ -383,7 +383,7 @@ Name: Provenance
 Package: kr.xsf1re.vnodebypass
 Version: 0.2.3
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Filename: /debs/VNodeBypass.deb
 Size: 24892
 MD5sum: dade8183ce60b38a4f1553bf34aa6573
@@ -398,7 +398,7 @@ Name: vnodebypass
 Package: com.antique.Popcorn-iOS
 Version: 3.0.1.2
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Filename: /debs/Popcorn.deb
 Size: 63312314
 MD5sum: 6128b0c6a0dbe67e95f63be61e75e7ee
@@ -415,7 +415,7 @@ Name: Popcorn
 Package: com.zinitevi.jb
 Version: 1.3.8
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Filename: /debs/ZiniTV.deb
 Size: 11247652
 MD5sum: f069dbb24745853913403ef4f60c9647
@@ -432,7 +432,7 @@ Name: ZiniTV
 Package: me.oatmealdome.dolphinios-patreon-beta
 Version: 3.2.0b1-146
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Depends: me.oatmealdome.csdbgd
 Filename: /debs/DolphinBeta.deb
 Size: 52035600
@@ -450,7 +450,7 @@ Name: DolphiniOS Beta
 Package: me.oatmealdome.csdbgd
 Version: 2.1.0-248
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Depends:
 Filename: /debs/csdbgd.deb
 Size: 4464
@@ -465,7 +465,7 @@ Name: csdbgd
 Package: me.oatmealdome.dolphinios
 Version: 3.1.1-129
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Depends: me.oatmealdome.csdbgd
 Filename: /debs/Dolphin.deb
 Size: 52016724
@@ -483,7 +483,7 @@ Name: DolphiniOS
 Package: com.ichitaso.altstore
 Version: 1.4.5
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Depends: com.rileytestut.altdaemon
 Filename: /debs/AltStore.deb
 Size: 4591092
@@ -501,7 +501,7 @@ Name: AltStore
 Package: com.dylbinthedev.odysseytheme
 Version: 1.0.1
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Depends: com.anemonetheming.anemone | com.spark.snowboard
 Filename: /debs/OdysseyOS.deb
 Size: 3228536
@@ -519,7 +519,7 @@ Name: OdysseyOS
 Package: com.dylbinthedev.chimeratheme
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Depends: com.anemonetheming.anemone | com.spark.snowboard
 Filename: /debs/ChimeraOS.deb
 Size: 3748904
@@ -537,7 +537,7 @@ Name: ChimeraOS
 Package: com.dylbinthedev.bigsurwallpaper
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Depends: wallpaperloader
 Filename: /debs/BigSurWallpaper.deb
 Size: 5860492
@@ -553,7 +553,7 @@ Name: Big Sur Wallpaper
 Package: com.wilsonthewolf.webshade
 Version: 0.0.1
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Depends: mobilesubstrate
 Filename: /debs/WebShade.deb
 Size: 24468
@@ -568,7 +568,7 @@ Name: WebShade
 Package: com.dylbinthedev.iphone12wallpapers
 Version: 1.1
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Depends: wallpaperloader
 Filename: /debs/iPhone12.deb
 Size: 15207800
@@ -585,7 +585,7 @@ Version: 2.0.2-tale1
 Priority: required
 Icon: https://getsileo.app/img/icon.png
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Depends: apt (>= 1.8.0), coreutils (>=8.31-1), dpkg (>= 1.19.2-4), zsh | bash, cy+cpu.arm64, firmware(>=12.2) | org.swift.libswift (>=5.0)
 Conflicts: cydia-gui (<<99.0)
 Pre-Depends: debianutils, dpkg (>= 1.18)
@@ -604,7 +604,7 @@ Name: Sileo (Elucubratus)
 Package: com.utmapp.UTM
 Version: 2.0.25
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Depends: firmware (>=11.0), firmware-sbin, net.angelxwind.appsyncunified
 Filename: /debs/UTM.deb
 Size: 187286160
@@ -624,7 +624,7 @@ Name: UTM
 Package: com.dylbinthedev.wallpaperpack
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Depends: wallpaperloader
 Filename: /debs/WallpaperPack.deb
 Size: 42625544
