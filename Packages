@@ -83,17 +83,17 @@ Icon: file:///Applications/MovieBox.app/AppIcon60x60@3x.png
 Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/MovieBoxPro/MovieBoxPro.html
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/MovieBoxPro.json
 
-Package: mediaplayer.box.ios3
+Package: com.dylbinthedev.mediaboxhd
 Version: 2.4.9.2
 Architecture: iphoneos-arm
 Maintainer: DylbinTheDev <dylbin@dylbin.dev>
-Filename: /debs/Mediabox.deb
-Size: 85016808
-MD5sum: 5db0da7e008b2cb88e3cdd62d513176c
-SHA1: 9da877a14d5671ed5fe6cc41af499a2e9449093a
-SHA256: 8d666fb0a04f91ee5e74960992eb3b243e0505a6792c30db842593fc16e30a51
+Filename: /debs/MediaBoxHD.deb
+Size: 85016874
+MD5sum: c793c7147f48a54b25aadd23b09609a7
+SHA1: 837c1f529272e9bd7fcfffd5d43b801c9e15db80
+SHA256: 593eef00d165d46bbeb6070b9307dc5e0bd358f16bab75f1cf19299e2a5a28cb
 Section: Multimedia
-Description: MediaboxHD for iOS 9-14
+Description: MediaboxHD for iOS 9/10/11/12/13/14
 Author: Mediaboxhd
 Name: MediaBox HD
 Icon: https://dylbinthedev.github.io/icons/mediaplayer.box.ios3.png
@@ -313,16 +313,16 @@ Icon: https://dylbinthedev.github.io/icons/cydia.com.ipc.crackerxi.png
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/CrackerXI.json
 Name: CrackerXI+
 
-Package: xyz.xninja.systeminfo
+Package: com.dylbinthedev.systeminfo
 Version: 2.7.2-2
 Architecture: iphoneos-arm
 Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Filename: /debs/SystemInfo.deb
-Size: 427612
-MD5sum: 26267e8c4797962bd17d57670951021b
-SHA1: 54b7685148da7e599f42429d3a7d4d721b9a8aad
-SHA256: 7b27623082c52e8ce6a2dd990169b49f6f3445e6d95012384b461c8e4b9a20cc
-Section: Utilities
+Size: 427626
+MD5sum: d7e21772215634583b801795393e1ca6
+SHA1: 9fc471345b6b323d3371a7d3dcf19d445f2937f5
+SHA256: 9b255ae287640b993dad8235e66d6cdce9cd3cc0a6b5092f2a514ed62db26510
+Section: Tweaks
 Description: More System information in Settings app > General > About
 Author: ARX8x
 Icon: https://dylbinthedev.github.io/icons/xyz.xninja.systeminfo.png
@@ -550,16 +550,16 @@ Author: DylbinTheDev
 Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/BigSurWallpaper/BigSurWallpaper.html
 Name: Big Sur Wallpaper
 
-Package: com.wilsonthewolf.webshade
+Package: com.dylbinthedev.webshade
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Depends: mobilesubstrate
 Filename: /debs/WebShade.deb
-Size: 24468
-MD5sum: 4b4283c9dc65077a3f68104984a56d39
-SHA1: 1f80c8799dc26c46c54309eb77b47b8ed353db33
-SHA256: 173093281dc0f3523ece7a6fd45b74ae86f1b272bf889d4ba9f2ecaa16652355
+Size: 52124
+MD5sum: d11238cd1439d986c28f1d70d9d5751b
+SHA1: 8b784eb4d1ca4a2d68d09d4a277e023ca8157cf1
+SHA256: 39504acda163744f7906877a103b88e989f3c7c7e7466fc14c8b2099ea564621
 Section: Tweaks
 Description: Make your websites dark!
 Author: WilsonTheWolf
