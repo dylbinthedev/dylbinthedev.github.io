@@ -4,9 +4,9 @@
    "itemCornerRadius":10,
    "banners":[  
       {  
-         "url":"https://dylbinthedev.github.io/assets/SileoDepictions/FlappyBird/header.png",
-         "title":"Flappy Bird",
-         "package":"org.brandonplank.flappybird",
+         "url":"https://dylbinthedev.github.io/assets/SileoDepictions/Delta/header.png",
+         "title":"Delta",
+         "package":"com.rileytestut.delta",
          "hideShadow":false
       },
       {  
@@ -22,21 +22,21 @@
          "hideShadow":false
       },
 	  {
-	     "url":"https://dylbinthedev.github.io/assets/SileoDepictions/ChimeraOS/header.png",
-         "title":"ChimeraOS",
-         "package":"com.dylbinthedev.chimeratheme",
+	     "url":"https://dylbinthedev.github.io/assets/SileoDepictions/iNDS/header.png",
+         "title":"iNDS",
+         "package":"net.nerd.inds",
          "hideShadow":false
       },
 	  {
-		 "url":"https://dylbinthedev.github.io/assets/SileoDepictions/Provenance/header.png",
-         "title":"Provenance",
-         "package":"com.provenance-emu.provenance",
+		 "url":"https://dylbinthedev.github.io/assets/SileoDepictions/MediaBoxHD/header.png",
+         "title":"MediaBoxHD",
+         "package":"com.dylbinthedev.mediaboxhd",
          "hideShadow":false
 	  },
 	  {
-		 "url":"https://dylbinthedev.github.io/assets/SileoDepictions/YouTubeReborn/header.png",
-		 "title":"YouTube Reborn",
-		 "package":"com.twickd.sarahh12099.youtube-reborn",
+		 "url":"https://dylbinthedev.github.io/assets/SileoDepictions/Dolphin/header.png",
+		 "title":"Dolphin iOS",
+		 "package":"me.oatmealdome.dolphinios",
 		 "hideShadow":false
 	  },
    ]
