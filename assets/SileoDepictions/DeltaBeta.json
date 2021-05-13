@@ -1,19 +1,17 @@
 {
-    "minVersion": "0.1",
+    "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/DeltaBeta/header.png",
     "tabs": [
         {
-            "class": "DepictionStackView",
-            "tabname": "Details",
             "views": [
                 {
                     "useBottomMargin": false,
                     "title": "DeltaBeta",
-                    "useBoldText": true,
-                    "class": "DepictionSubheaderView"
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true
                 },
                 {
+                    "markdown": "Multi-Emulator for iOS",
                     "class": "DepictionMarkdownView",
-                    "markdown": "Successor to the popular GBA4iOS Emulator",
                     "useSpacing": true
                 },
                 {
@@ -21,9 +19,6 @@
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "itemSize": "{160, 275.41333333333336}",
-                    "itemCornerRadius": 6,
-                    "class": "DepictionScreenshotsView",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
@@ -37,30 +32,33 @@
                             "accessibilityText": "Screenshot2",
                             "url": "https://dylbinthedev.github.io/assets/SileoDepictions/DeltaBeta/3.png"
                         }
-                    ]
+                    ],
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 275.41333333333336}",
+                    "class": "DepictionScreenshotsView"
                 },
                 {
-                    "markdown": "This is Delta Beta which is an improved version of GBA4iOS with a brand new UI and more consoles supported. Delta Beta also introduces Nintendo DS Game Support!\r\n\r\nDelta allows you to play GBC, GBA, NES, SNES, N64, NDS and Sega Genesis games. It also supports MFi controllers like the Dualshock 4 and Xbox One S controllers. Action Replay codes are supported and you can also import your own skins!\r\n\r\nYou can save your roms and save states with Dropbox/Google Drive Sync",
+                    "markdown": "Successor to the popular GBA4iOS emulator! It supports iOS 12.2 - 14 \r\nIt's able to emulate GBA/GBC/NDS/N64/NES/SNES games. Action replay codes and other cheat codes can be applied. MFi Controller support and custom skins. This is the beta version of the emulator.",
                     "useBottomMargin": false,
                     "title": "markdown-description",
-                    "useBoldText": true,
-                    "class": "DepictionMarkdownView"
+                    "class": "DepictionMarkdownView",
+                    "useBoldText": true
                 },
                 {
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "1.3b4",
+                    "text": "1.3rc1",
                     "title": "Version",
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "04-27-2021",
-                    "title": "Updated",
+                    "text": "05-13-2021",
+                    "title": "Released",
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "12.2 - 14.5",
+                    "text": "12.2 - 14.x",
                     "title": "Supported iOS",
                     "class": "DepictionTableTextView"
                 },
@@ -77,10 +75,12 @@
                     "spacing": 8,
                     "class": "DepictionSpacerView"
                 }
-            ]
+            ],
+            "class": "DepictionStackView",
+            "tabname": "Details"
         }
     ],
-    "tintColor": "#8027d9",
-    "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/Delta/header.png",
-    "class": "DepictionTabView"
+    "minVersion": "0.1",
+    "class": "DepictionTabView",
+    "tintColor": "#6f0ec7"
 }
