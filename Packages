@@ -660,3 +660,18 @@ Section: Tweaks
 Description: Easily change Light/Dark wallpapers in settings
 Author: Skitty
 Name: WallpaperLoader (Prefs)
+
+Package: com.black.animeglare
+Version: 3.0.3
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
+Filename: /debs/AnimeGlare.deb
+Size: 40320144
+MD5sum: e3e98837ecda92595b7f0d21fe4796b4
+SHA1: 1a348331d47af06a43625926c58601144b3255c7
+SHA256: 188269ecca00688e476cd44592d8559df11dab4798b22844fbed71025b67fef0
+Section: Multimedia
+Description: Free anime without ads
+Author: BlackKnit
+Icon: https://dylbinthedev.github.io/assets/com.black.animeglare.png
+Name: AnimeGlare
