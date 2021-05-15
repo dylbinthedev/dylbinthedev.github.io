@@ -666,14 +666,14 @@ Version: 3.0.3
 Architecture: iphoneos-arm
 Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Filename: /debs/AnimeGlare.deb
-Size: 40320004
-MD5sum: 84cb8376d3187e53a74308ac82946c73
-SHA1: 93463b56506ab93cf8263587471c5207d1d1f961
-SHA256: 86721db5f914c8b8e392d18be66d44720d28690640d23b2e7c760f0197ef8928
+Size: 40396524
+MD5sum: e8c646884de36a7652eb9ac48cf75870
+SHA1: d84e2d53f19a4266c1d548dbd42cd07882fbb4e6
+SHA256: 1c6933dd38b82e2d79e9b48e623caadbe4e16da81369a5f0b0f1a42c310d0a71
 Section: Multimedia
-Description: Free anime without ads
+Description: Free Anime without ads for iOS 11/12/13/14
 Author: BlackKnit
-Icon: https://dylbinthedev.github.io/assets/com.black.animeglare.png
+Icon: https://dylbinthedev.github.io/icons/com.black.animeglare.png
 Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/AnimeGlare/AnimeGlare.html
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/AnimeGlare.json
 Name: AnimeGlare
