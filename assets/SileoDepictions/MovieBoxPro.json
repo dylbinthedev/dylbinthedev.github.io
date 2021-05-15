@@ -40,7 +40,7 @@
                 {
                     "useBoldText": true,
                     "useBottomMargin": false,
-                    "markdown": "This is MovieBoxPro (Latest), which is the latest build of the application pulled straight from the developers.\r\n\r\nWatch your favourite Movies and TV Shows for free. This application is based on the original MovieBox application with many improvements and a new UI.\r\n\r\nYou can watch anything you want for free, but if you want higher quality you have to purchase the VIP package.",
+                    "markdown": "This is MovieBoxPro, which is the latest build of the application pulled straight from the developers.\r\n\r\nWatch your favourite Movies and TV Shows for free. This application is based on the original MovieBox application with many improvements and a new UI.\r\n\r\nYou can watch anything you want for free, but if you want higher quality you have to purchase the VIP package.",
                     "title": "markdown-description",
                     "class": "DepictionMarkdownView"
                 },
@@ -48,13 +48,13 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "8.2",
+                    "text": "8.8",
                     "title": "Version",
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "12-01-2020",
-                    "title": "Released",
+                    "text": "05-15-2021",
+                    "title": "Updated",
                     "class": "DepictionTableTextView"
                 },
                 {
