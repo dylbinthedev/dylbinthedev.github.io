@@ -4,9 +4,9 @@
    "itemCornerRadius":10,
    "banners":[  
       {  
-         "url":"https://dylbinthedev.github.io/assets/SileoDepictions/Delta/header.png",
-         "title":"Delta",
-         "package":"com.rileytestut.delta",
+         "url":"https://dylbinthedev.github.io/assets/SileoDepictions/DeltaBeta/header.png",
+         "title":"Delta Beta",
+         "package":"com.rileytestut.delta.beta",
          "hideShadow":false
       },
       {  
@@ -22,9 +22,9 @@
          "hideShadow":false
       },
 	  {
-	     "url":"https://dylbinthedev.github.io/assets/SileoDepictions/iNDS/header.png",
-         "title":"iNDS",
-         "package":"net.nerd.inds",
+	     "url":"https://dylbinthedev.github.io/assets/SileoDepictions/AnimeGlare/header.png",
+         "title":"AnimeGlare",
+         "package":"com.black.animeglare",
          "hideShadow":false
       },
 	  {
