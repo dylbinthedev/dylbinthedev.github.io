@@ -10,33 +10,33 @@
          "hideShadow":false
       },
       {  
-         "url":"https://dylbinthedev.github.io/assets/SileoDepictions/Screenshots/header.png",
-         "title":"MovieBox Pro",
-         "package":"com.xd.mbp7",
-         "hideShadow":false
-      },
-	  {
-	     "url":"https://dylbinthedev.github.io/assets/SileoDepictions/Spotilife/header.png",
-         "title":"Spotilife",
-         "package":"com.julioverne.spotilife",
-         "hideShadow":false
-      },
-	  {
-	     "url":"https://dylbinthedev.github.io/assets/SileoDepictions/AnimeGlare/header.png",
+         "url":"https://dylbinthedev.github.io/assets/SileoDepictions/AnimeGlare/header.png",
          "title":"AnimeGlare",
          "package":"com.black.animeglare",
          "hideShadow":false
       },
 	  {
-		 "url":"https://dylbinthedev.github.io/assets/SileoDepictions/MediaBoxHD/header.png",
-         "title":"MediaBoxHD",
-         "package":"com.dylbinthedev.mediaboxhd",
+	     "url":"https://dylbinthedev.github.io/assets/SileoDepictions/SpotifyApp/header.png",
+         "title":"Spotify++",
+         "package":"com.spotify.client",
+         "hideShadow":false
+      },
+	  {
+	     "url":"https://dylbinthedev.github.io/assets/SileoDepictions/Screenshots/header.png",
+         "title":"MovieBox Pro",
+         "package":"com.xd.mbp7",
+         "hideShadow":false
+      },
+	  {
+		 "url":"https://dylbinthedev.github.io/assets/SileoDepictions/Dolphin/header.png",
+         "title":"Dolphin iOS",
+         "package":"me.oatmealdome.dolphinios",
          "hideShadow":false
 	  },
 	  {
-		 "url":"https://dylbinthedev.github.io/assets/SileoDepictions/Dolphin/header.png",
-		 "title":"Dolphin iOS",
-		 "package":"me.oatmealdome.dolphinios",
+		 "url":"https://dylbinthedev.github.io/assets/SileoDepictions/FlappyBird/header.png",
+		 "title":"Flappy Bird",
+		 "package":"org.brandonplank.flappybird",
 		 "hideShadow":false
 	  },
    ]

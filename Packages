@@ -113,7 +113,7 @@ SHA256: e4c31947d1a48d2ea381c6b08c447f52da97a1ad0b85b16a435946abd32a6639
 Section: Tweaks
 Description: Spotify++ Patch for iOS 7 through 14
 Author: DylbinTheDev & julioverne
-Name: Spotilife
+Name: Spotilife (Legacy)
 Icon: https://dylbinthedev.github.io/icons/com.spotify.client.png
 Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/Spotilife/Spotilife.html
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/Spotilife.json
