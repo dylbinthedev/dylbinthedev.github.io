@@ -51,7 +51,7 @@ MD5sum: f56ecda03e6112085f968513aa6e0cae
 SHA1: 2e9114e82f933fae52195f1ccfe89c2bea0ba9df
 SHA256: a4f472676ba9713681e84dc670d521685530ed8aa92f3edc13230ebd33d33315
 Section: Tweaks
-Description: Enables the ability to install unsigned/fakesigned tvOS applications. Supports tvOS 10, 11, 12, 13 and has arm64 support.
+Description: Enables the ability to install unsigned/fakesigned tvOS applications. Supports tvOS 10, 11, 12 and has arm64 support.
 Author: angelxwind & Diatrus
 Name: AppSync Unified for tvOS
 
