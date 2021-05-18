@@ -229,6 +229,7 @@ Section: System
 Description: allow full file-system access over USB on iOS 9 and below.
 Author: Jay Freeman (saurik)
 Name: Apple File Conduit "2" (Legacy)
+Icon: https://dylbinthedev.github.io/icons/com.saurik.afc2d.png
 Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/AppleFileConduit/AppleFileConduit.html
 
 Package: uncar
@@ -327,7 +328,7 @@ SHA256: 9b255ae287640b993dad8235e66d6cdce9cd3cc0a6b5092f2a514ed62db26510
 Section: Tweaks
 Description: More System information in Settings app > General > About
 Author: ARX8x
-Icon: https://dylbinthedev.github.io/icons/xyz.xninja.systeminfo.png
+Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.systeminfo.png
 Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/SystemInfo/SystemInfo.html
 Name: System Info
 
@@ -394,6 +395,7 @@ SHA256: 90d7bab19ca28ce2fda189e3d170d4f0bd98a948ba08643a7477b4163e0666c8
 Section: System
 Description: jailbreak detection bypass for iOS 14. Requires libkrw (on the unc0ver jailbreak.) Requires libKernRW (on the Taurine jailbreak.)
 Author: XsF1re
+Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.vnodebypass.png
 Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/vnodebypass/VNode.html
 Name: vnodebypass
 
@@ -462,6 +464,7 @@ SHA256: f107376805dfc52c5a90f1f412ffe6dd72d645e206d95a3064199853c624d864
 Section: Utilities
 Description: Sets processes as debugged on request.
 Author: OatmealDome
+Icon: https://dylbinthedev.github.io/icons/me.oatmealdome.csdbgd.png
 Name: csdbgd
 
 Package: me.oatmealdome.dolphinios
@@ -549,6 +552,7 @@ SHA256: 490250dc6d022d97f63e36c306e6f99b3186e29b7b76436f81450ecc170d3eaa
 Section: Wallpaper
 Description: Colorful Big Sur wallpaper for iOS!
 Author: DylbinTheDev
+Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.bigsurwallpaper.png
 Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/BigSurWallpaper/BigSurWallpaper.html
 Name: Big Sur Wallpaper
 
@@ -565,6 +569,7 @@ SHA256: 39504acda163744f7906877a103b88e989f3c7c7e7466fc14c8b2099ea564621
 Section: Tweaks
 Description: Make your websites dark!
 Author: WilsonTheWolf
+Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.webshade.png
 Name: WebShade
 
 Package: com.dylbinthedev.iphone12wallpapers
@@ -630,6 +635,7 @@ SHA256: 0cb07c6ecf780e02ead6de82b7b42aef36aaf14a7df3b11bcdda6fb60b2f65fc
 Section: Themes
 Description: macOS Big Sur icons ported to iOS!
 Author: DylbinTheDev
+Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.bigsurtheme.png
 Name: Big Sur Theme
 
 Package: com.black.animeglare
