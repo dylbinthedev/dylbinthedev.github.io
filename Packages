@@ -540,7 +540,7 @@ Package: com.dylbinthedev.bigsurwallpaper
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: DylbinTheDev <dylbin@dylbin.dev>
-Depends: com.dylbinthedev.wallpaperloader
+Depends: wallpaperloader
 Filename: /debs/BigSurWallpaper.deb
 Size: 5860492
 MD5sum: 7f51f03f0c7a453caa4c445b624fcc0d
@@ -607,7 +607,7 @@ Package: com.dylbinthedev.wallpaperpack
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: DylbinTheDev <dylbin@dylbin.dev>
-Depends: com.dylbinthedev.wallpaperloader
+Depends: wallpaperloader
 Filename: /debs/WallpaperPack.deb
 Size: 42625544
 MD5sum: 5c685bab2e8645aef0e4f923b9f06f41
@@ -631,35 +631,6 @@ Section: Themes
 Description: macOS Big Sur icons ported to iOS!
 Author: DylbinTheDev
 Name: Big Sur Theme
-
-Package: com.dylbinthedev.wallpaperloader
-Version: 1.1.1
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev <dylbin@dylbin.dev>
-Filename: /debs/WallpaperLoader.deb
-Size: 19710
-MD5sum: 4c6ea5b0fa5817e688213a5dfad6348d
-SHA1: 068ab3db0504d55da2a4302503ac8a267a534ccc
-SHA256: 6276867c2c2e21aa9f2f98a9313f46cbe38b127f3292aea01ccbc40be7b04b53
-Section: Tweaks
-Description: Add more default wallpapers on iOS 13/14!
-Author: Skitty
-Name: WallpaperLoader
-
-Package: com.dylbinthedev.wallpaperloaderprefs
-Version: 1.1.1
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev <dylbin@dylbin.dev>
-Filename: /debs/WallpaperLoaderPrefs.deb
-Depends: com.dylbinthedev.wallpaperloader
-Size: 22668
-MD5sum: 85fdf3a06267896ed364a67abad9b214
-SHA1: 3123f0f0a7ce365015648f2ee3105c6d65370ced
-SHA256: 8e73ad7db56586f5eba27d032a3e87d6d98783af86bb3acc5baf84624ce9c6df
-Section: Tweaks
-Description: Easily change Light/Dark wallpapers in settings
-Author: Skitty
-Name: WallpaperLoader (Prefs)
 
 Package: com.black.animeglare
 Version: 3.0.3
