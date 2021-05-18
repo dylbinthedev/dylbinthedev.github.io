@@ -56,7 +56,7 @@
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "7.0 - 14.4.1",
+                    "text": "7.x - 14.x",
                     "title": "Supported iOS Versions",
                     "class": "DepictionTableTextView"
                 },

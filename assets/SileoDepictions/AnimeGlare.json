@@ -58,7 +58,7 @@
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "11 - 14",
+                    "text": "11.x - 14.x",
                     "title": "Supported iOS",
                     "class": "DepictionTableTextView"
                 },
