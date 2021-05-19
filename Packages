@@ -654,3 +654,19 @@ Icon: https://dylbinthedev.github.io/icons/com.black.animeglare.png
 Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/AnimeGlare/AnimeGlare.html
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/AnimeGlare.json
 Name: AnimeGlare
+
+Package: com.chr1s.current
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
+Filename: /debs/Current.deb
+Size: 37864
+MD5sum: 2c53a2dd4fd1c42c3aa04ddcbdf53794
+SHA1: a129aa8589a86f19902f0d0d23d285c34fc01ee5
+SHA256: 5c04078ac0107bbf8a9a4e12eef55be4ea0d372b5c1b93fbf2228e651939cb33
+Section: Tweaks
+Description: Animated wave battery indicator
+Author: Chr1s
+Icon: https://dylbinthedev.github.io/icons/com.chr1s.current.png
+SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/Current.json
+Name: Current
