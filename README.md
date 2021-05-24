@@ -20,7 +20,7 @@ Simply launch your Package Manager and add a new "Source" then type https://dylb
 
 ## Mirror Repositories
 - In addition to my own repo, I host mirror repo's too.
-- I host a mirror of CoolStar's RepoUnclutter project which is ModMyi and ZodTTD Repo combined with iOS 11+ compatible packages. I also host a mirror of Litten's Repo
+- I host a mirror of CoolStar's RepoUnclutter project which is ModMyi and ZodTTD Repo combined with iOS 11+ compatible packages. I also host a mirror of Litten's Repo and Nepeta's old repo.
 
 - ModMyTTD+ Repo (https://dylbinthedev.github.io/modmyi/
 - Litten's Repo (https://dylbinthedev.github.io/litten/
