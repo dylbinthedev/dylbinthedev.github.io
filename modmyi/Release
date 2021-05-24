@@ -1,0 +1,17 @@
+Origin: ModMyTTD+
+Label: ModMyTTD+
+Suite: stable
+Version: 0.9.1
+Codename: repounclutter
+Architectures: iphoneos-arm
+Components: main
+Description: iOS 11 and higher compatible packages from Modmyi and ZodTTD combined
+Date: Tue, 02 Jun 2020 08:11:10 +0000
+MD5Sum:
+ a51df9940c5412dca36ee96c381ab19d 514543 Packages
+ e9e5b300bdbc8591ca28e6b407422e1f 88016 Packages.bz2
+ 79921d204635e92962548f2c98735d57 89880 Packages.xz
+SHA256:
+ 71d4763355cba5e3db1d625bc2e880b559e57a22fd694aa9743cfaa7601dfe4b 514543 Packages
+ 8e2eacb436e147b6f6e39b5ccb00f6405ab16ff536bef3abb89d3320b4c3d39f 88016 Packages.bz2
+ 41011a4053c8ada25431f771eea5cdf4fed5fc01fe6b2a9e0897bdc98f6d6d50 89880 Packages.xz
