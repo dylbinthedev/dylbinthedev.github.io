@@ -576,7 +576,7 @@ Package: com.dylbinthedev.iphone12wallpapers
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: DylbinTheDev <dylbin@dylbin.dev>
-Depends: com.dylbinthedev.wallpaperloader
+Depends: wallpaperloader
 Filename: /debs/iPhone12.deb
 Size: 15207800
 MD5sum: 68984ac712680d629044dcce84ccba89
