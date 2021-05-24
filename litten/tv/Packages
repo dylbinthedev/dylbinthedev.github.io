@@ -1,0 +1,36 @@
+Package: love.litten.ballet
+Version: 1.0
+Architecture: appletvos-arm64
+Maintainer: Litten
+Installed-Size: 416
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Filename: ./debs/love.litten.ballet_1.0_appletvos-arm64.deb
+Size: 243272
+MD5sum: e73a0aa68ba43db526fca5757f977d76
+SHA1: 9944477fd78c7c2abe5b1ab1fe2e37f5b329def4
+SHA256: a6ce799317159f9ae062dc9be98664c7d993aeb969b84edeb755a2e62e6fdad2
+Section: Tweaks
+Description: Wallpapers for your Apple TV
+Author: Litten
+Depiction: https://repo.litten.love/tv/depictions/blt/blt.json
+Icon: https://repo.litten.love/tv/depictions/blt/assets/icon.png
+Name: Ballet
+
+Package: love.litten.libkitten
+Version: 1.2.1
+Architecture: appletvos-arm64
+Maintainer: Litten
+Installed-Size: 92
+Depends: firmware (>= 12.0)
+Filename: ./debs/love.litten.libkitten_1.2.1_appletvos-arm64.deb
+Size: 7414
+MD5sum: 2b977030cc85bb84d0efe13c7907e3a9
+SHA1: a31766fbf9257cbc52ffba4a8d0373f66cc15b75
+SHA256: 8fca8994577a7f645a9b2df8a2bc24ff358c75dbc4bf10aca833f07a60ee06fb
+Section: System
+Description: Library to get three different colors from an image and detect if one is light or dark
+Author: Litten
+Depiction: https://repo.litten.love/tv/depictions/libktn/libktn.json
+Icon: https://repo.litten.love/tv/depictions/libktn/assets/icon.png
+Name: libKitten
+

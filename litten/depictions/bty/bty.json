@@ -1,0 +1,118 @@
+{
+    "class": "DepictionTabView",
+    "tabs": [{
+            "class": "DepictionStackView",
+            "tabname": "Overview",
+            "views": [{
+                    "itemCornerRadius": 6,
+                    "class": "DepictionScreenshotsView",
+                    "itemSize": "{160, 275.41333333333336}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://repo.litten.love/depictions/bty/assets/ss1.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://repo.litten.love/depictions/bty/assets/ss2.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot2",
+                            "url": "https://repo.litten.love/depictions/bty/assets/ss3.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {   
+                    "class": "DepictionHeaderView",
+                    "title": "Long Description",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Change the colors for your cursor, highlight color, scroll indicator and statusbar pill"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {   
+                    "class": "DepictionHeaderView",
+                    "title": "Details",
+                    "useBoldText": true
+                },
+                {
+                    "title": "Current Version",
+                    "text": "1.1.6",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "17.02.2021",
+                    "title": "Last Time Updated"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "29.09.2020",
+                    "title": "Released"
+                },
+                {   
+                    "class": "DepictionTableTextView",
+                    "title": "Price",
+                    "text": "Free"
+                },
+                {   
+                    "class": "DepictionTableTextView",
+                    "title": "Compatibility",
+                    "text": "iOS 13 & 14"
+                },
+                {   
+                    "class": "DepictionTableTextView",
+                    "title": "Devices",
+                    "text": "iPhone, iPod & iPad"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Developer",
+                    "text": "Litten"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "Litten's Twitter",
+                    "action": "https://twitter.com/schneelittchen"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {   
+                    "class": "DepictionHeaderView",
+                    "title": "Latest Changes",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Better Random Colors\r\n- Constructor Improvements",
+                    "useSpacing": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "View Full Changelog",
+                    "action": "https://repo.litten.love/depictions/bty/fullChangelog.html"
+                }
+            ]
+        }
+    ],
+    "headerImage": "https://repo.litten.love/depictions/bty/assets/Banner.png",
+    "tintColor": "#A9B4FA",
+    "minVersion": "0.1"
+}

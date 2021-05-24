@@ -1,0 +1,104 @@
+{
+    "class": "DepictionTabView",
+    "tabs": [{
+            "class": "DepictionStackView",
+            "tabname": "Overview",
+            "views": [{
+                    "itemCornerRadius": 6,
+                    "class": "DepictionScreenshotsView",
+                    "itemSize": "{160, 275.41333333333336}"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {   
+                    "class": "DepictionHeaderView",
+                    "title": "Long Description",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Library to get three different colors from an image and detect if one is light or dark"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {   
+                    "class": "DepictionHeaderView",
+                    "title": "Details",
+                    "useBoldText": true
+                },
+                {
+                    "title": "Current Version",
+                    "text": "1.2.1",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "31.12.2020",
+                    "title": "Last Time Updated"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "12.09.2020",
+                    "title": "Released"
+                },
+                {   
+                    "class": "DepictionTableTextView",
+                    "title": "Price",
+                    "text": "Free"
+                },
+                {   
+                    "class": "DepictionTableTextView",
+                    "title": "Compatibility",
+                    "text": "iOS 12, 13 & 14"
+                },
+                {   
+                    "class": "DepictionTableTextView",
+                    "title": "Devices",
+                    "text": "iPhone, iPod & iPad"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Developer",
+                    "text": "Litten"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "Litten's Twitter",
+                    "action": "https://twitter.com/schneelittchen"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {   
+                    "class": "DepictionHeaderView",
+                    "title": "Latest Changes",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Tiny Visual Package Changes",
+                    "useSpacing": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "View Full Changelog",
+                    "action": "https://repo.litten.love/depictions/libktn/fullChangelog.html"
+                }
+            ]
+        }
+    ],
+    "headerImage": "https://repo.litten.love/depictions/libktn/assets/Banner.png",
+    "tintColor": "#BEADF9",
+    "minVersion": "0.1"
+}
