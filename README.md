@@ -5,6 +5,7 @@ This is where I upload my packages to be visible in package managers like Cydia,
 ## How do I add your repo?
 
 Simply launch your Package Manager and add a new "Source" then type https://dylbinthedev.github.io/
+- I also host a mirror of CoolStar's RepoUnclutter project which is ModMyi and ZodTTD Repo combined with iOS 11+ compatible packages. https://dylbinthedev.github.io/modmyi
 
 [Add to Cydia](https://cydia.saurik.com/api/share#?source=https://dylbinthedev.github.io/ "Add to Cydia")
 
