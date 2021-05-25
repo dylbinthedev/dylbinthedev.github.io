@@ -686,6 +686,7 @@ Depends: me.nepeta.libcolorpicker, mobilesubstrate, io.ominousness.ass, ws.hbang
 Description: Audio visualizer for iOS 11/12
 Author: c0ldra1n & Nepeta
 Icon: https://dylbinthedev.github.io/icons/me.nepeta.mitsuhainfinity.png
+SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/MitsuhaInfinity.json
 Name: Mitsuha Infinity
 
 Package: me.nepeta.mitsuhainfinity-homescreen
@@ -702,6 +703,7 @@ Depends: me.nepeta.mitsuhainfinity
 Description: Audio visualizer for the homescreen
 Author: Nepeta
 Icon: https://dylbinthedev.github.io/icons/me.nepeta.mitsuhainfinity-homescreen.png
+SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/MitsuhaInfinityHomescreen.json
 Name: Mitsuha Infinity (Home Screen)
 
 Package: me.nepeta.mitsuhainfinity-lockscreen
@@ -718,6 +720,7 @@ Depends: me.nepeta.mitsuhainfinity
 Description: Audio visualizer for the lockscreen
 Author: Nepeta
 Icon: https://dylbinthedev.github.io/icons/me.nepeta.mitsuhainfinity-lockscreen.png
+SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/MitsuhaInfinityLockscreen.json
 Name: Mitsuha Infinity (Lock Screen)
 
 Package: io.ominousness.ass
@@ -747,6 +750,7 @@ SHA256: 7752248a336cef00de6ac3df7f8cbefd749dfd135ff7e2f8c85c04235707df27
 Section: Development
 Depends: io.ominousness.ass (>= 1.0.1), firmware (>= 9.0)
 Description: Audio visualizer library
+Icon: https://dylbinthedev.github.io/icons/me.nepeta.libmitsuha.png
 Author: Nepeta
 Name: libmitsuha
 
@@ -762,4 +766,5 @@ SHA256: 80e4c31f17da3748deb9c329ad41ea6eae6fdf609547125f9e729ffb16b113d2
 Section: Development
 Description: Nepeta's color utils
 Author: Nepeta
+Icon: https://dylbinthedev.github.io/icons/me.nepeta.libnepeta.png
 Name: libnepeta
