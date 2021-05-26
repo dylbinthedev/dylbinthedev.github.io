@@ -183,37 +183,22 @@ Author: Pangu Team
 Name: Pangu Loader (iOS 8)
 Icon: https://dylbinthedev.github.io/icons/io.pangu.loader.png
 
-Package: org.ppsspp.ppsspp-dev-working
-Version: 0v1.6.3-456-g6d0ed4ad0
+Package: com.dylbinthedev.ppsspp
+Version: 1.11.3
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev <dylbin@dylbin.dev>
-Filename: /debs/PPSSPPDevWorking.deb
-Size: 17258916
-MD5sum: 29016d604e5dfc3b3ca7bef166aa6b77
-SHA1: a2835bd0e337bfa3cbffc42333d500386591e884
-SHA256: 82b16ffccf6d928244df9a0159f4be0aa01ee2af350d5f477415bb44c93d8476
+Maintainer: DylbinTheDev
+Filename: /debs/PPSSPP.deb
+Size: 23650380
+MD5sum: 4d45fee35d8139a56dbe7712a85c4604
+SHA1: 17d86aae63c0144a4383abdad5cd166c362bd003
+SHA256: 6a924bea3b70e15fa3c826d52247cc05c3950984b29210e9069107c912a94eef
 Section: Games
-Description: A PSP Emulator for iOS 6 - 14 (Latest Working Dev Build)
+Description: A PSP Emulator
 Author: Henrik Rydgård	
-Depiction: https://cydia.ppsspp.org/?page/org.ppsspp.ppsspp-dev-working
-Icon: https://dylbinthedev.github.io/icons/org.ppsspp.ppsspp-dev-working.png
-Name: PPSSPP (Dev-Working)
-
-Package: org.ppsspp.ppsspp-dev-latest
-Version: 0v1.6.3-456-g6d0ed4ad0
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev <dylbin@dylbin.dev>
-Filename: /debs/PPSSPPDevLatest.deb
-Size: 17259000
-MD5sum: e3b7d976ced6b9fee8db214c07f6ca53
-SHA1: b956fce7d7bcacbd08a668032d3c5060edabcf6a
-SHA256: c209f263476c9826147ff73fb5ab86271def8a2fbcb93825c815e5c69984fa96
-Section: Games
-Description: A PSP Emulator for iOS 6 - 14 (Latest Dev Build)
-Author: Henrik Rydgård
-Depiction: https://cydia.ppsspp.org/?page/org.ppsspp.ppsspp-dev-latest
-Icon: https://dylbinthedev.github.io/icons/org.ppsspp.ppsspp-dev-latest.png
-Name: PPSSPP (Dev-Latest)
+Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/PPSSPP/PPSSPP.html
+SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/PPSSPP.json
+Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.ppsspp.png
+Name: PPSSPP
 
 Package: com.saurik.afc2d
 Version: 1.2
