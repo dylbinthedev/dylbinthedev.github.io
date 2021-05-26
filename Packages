@@ -286,21 +286,21 @@ SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/Clip.json
 Name: Clip
 
 Package: me.apptapp.installer
-Version: 5.1-74
+Version: 5.1-85
 Architecture: iphoneos-arm
 Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Filename: /debs/Installer.deb
-Size: 13825672
-MD5sum: ab53e1b37d161e90387bd27a6c579e5f
-SHA1: c4ec4e385a19a471c895c77615a01d6f2f5a6c22
-SHA256: c72b538ec1a820ccfadd3148ea12d585983322e8fc1fb85a1e9034fdacf59a20
+Size: 11857294
+MD5sum: 843e291f0b58e1ded1d7b779d352bf1d
+SHA1: eb8ff1c314f95c552cbab61979e9f848c587ed7a
+SHA256: e23dc3e7502f25e01fdedb6e8796777eb0004146c40ee15b11baea73c51c3b1a
 Section: Packaging
 Description: Modern APT-frontend for iOS 13/14
 Author: AppTapp
 Icon: https://dylbinthedev.github.io/icons/me.apptapp.installer.png
 Depiction: https://apptapp.me/repo/51/installer.html
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/Installer.json
-Name: Installer Beta
+Name: Installer
 
 Package: com.provenance-emu.provenance
 Version: 1.4
@@ -704,3 +704,20 @@ Description: Nepeta's color utils
 Author: Nepeta
 Icon: https://dylbinthedev.github.io/icons/me.nepeta.libnepeta.png
 Name: libnepeta
+
+Package: xyz.willy.zebra
+Version: 1.1.18
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
+Filename: /debs/Zebra.deb
+Size: 19150270
+MD5sum: ba4bf1d313ac50c522afc6376bdd3c04
+SHA1: 690322825ed543d7ee2c9e0f18ef2edaa2346c5c
+SHA256: 50c315a3df7686cb1014475c6fc7532e094ced032e1d7dbef8946799f1b483de
+Section: Packaging
+Description: A Useful Package Manager
+Author: Wilson Styres
+Tag: compatible::9.0-14.6
+Icon: https://dylbinthedev.github.io/icons/xyz.willy.zebra.png
+Depiction: https://getzbra.com/repo/depictions/xyz.willy.Zebra/
+Name: Zebra
