@@ -42,9 +42,9 @@ MD5sum: ab0546a3163064b4af57b5c013a32af1
 SHA1: 3f57997756d7e3c0efa0a7b7f733b409ce636d75
 SHA256: 7501bc4d11465e42e95054bc8980d0b7c0210271fd149d8d9da6f1662772cc6a
 Section: Games
-Description: Nintendo DS Emulator for iOS 7-14
+Description: Nintendo DS Emulator for iOS 9 - 14
 Author: iNDS Team
-Name: iNDS (64-bit)
+Name: iNDS
 Icon: https://dylbinthedev.github.io/icons/net.nerd.inds.png
 Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/iNDS/iNDS.html
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/iNDS.json

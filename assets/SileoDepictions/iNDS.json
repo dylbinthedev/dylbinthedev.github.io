@@ -1,18 +1,22 @@
 {
+    "class": "DepictionTabView",
+    "tintColor": "#ff3b3a",
     "minVersion": "0.1",
+    "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/iNDS/header.png",
     "tabs": [
         {
+            "tabname": "Details",
             "views": [
                 {
+                    "title": "iNDS",
                     "useBoldText": true,
                     "useBottomMargin": false,
-                    "title": "iNDS",
                     "class": "DepictionSubheaderView"
                 },
                 {
-                    "markdown": "Nintendo DS emulator for iOS 7 - 14",
-                    "useSpacing": true,
-                    "class": "DepictionMarkdownView"
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Revival of the Nintendo DS emulator for iOS",
+                    "useSpacing": true
                 },
                 {
                     "spacing": 8,
@@ -20,46 +24,46 @@
                 },
                 {
                     "itemSize": "{160, 275.41333333333336}",
-                    "itemCornerRadius": 6,
                     "screenshots": [
                         {
-                            "accessibilityText": "Screenshot0",
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/iNDS/1.png"
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/iNDS/1.png",
+                            "accessibilityText": "Screenshot0"
                         },
                         {
-                            "accessibilityText": "Screenshot1",
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/iNDS/2.png"
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/iNDS/2.png",
+                            "accessibilityText": "Screenshot1"
                         },
                         {
-                            "accessibilityText": "Screenshot2",
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/iNDS/3.png"
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/iNDS/3.png",
+                            "accessibilityText": "Screenshot2"
                         }
                     ],
+                    "itemCornerRadius": 6,
                     "class": "DepictionScreenshotsView"
                 },
                 {
+                    "title": "markdown-description",
                     "useBoldText": true,
                     "useBottomMargin": false,
-                    "markdown": "This is iNDS, which is an improved version of nds4ios with a rewritten application and more stable.\r\n\r\niNDS allows you to play Nintendo DS games.\r\n\r\nAction replay cheat codes can be used and Dropbox sync.\r\n\r\nCompatible with iOS 7 - 14",
-                    "title": "markdown-description",
+                    "markdown": "iNDS is a derivation of the previous Nintendo DS apps for iOS, nds4ios and Nitrogen. The iNDS Team release of iNDS is a fork of the original iNDS emulator by William Cobb. iNDS Team aims to create a version that is driven by support from the community, adding trusted contributors to the team over time, so that pull requests and issues do not sit untouched.\r\n\r\nCurrently, emulation is powered by the DeSmuME threaded ARM interpreter and runs at nearly full speed on the iPhone 5 and above. Due to the need to mmap the entire ROM into memory, older devices with only 256MB of RAM are not supported. These devices include the iPod touch 4, iPad 1, iPhone 3GS, and anything below those devices. This version supports iOS 9 - 14",
                     "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "1.10.8",
                     "title": "Version",
+                    "text": "1.10.8",
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "03-09-2020",
                     "title": "Released",
+                    "text": "05-26-2021",
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "9.x - 14.5",
                     "title": "Supported iOS",
+                    "text": "9.x - 14.x",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -67,8 +71,8 @@
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "text": "iNDS Team",
                     "title": "Developer",
+                    "text": "iNDS Team",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -76,11 +80,7 @@
                     "class": "DepictionSpacerView"
                 }
             ],
-            "tabname": "Details",
             "class": "DepictionStackView"
         }
-    ],
-    "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/iNDS/header.png",
-    "class": "DepictionTabView",
-    "tintColor": "#fe3c3c"
+    ]
 }
