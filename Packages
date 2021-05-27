@@ -229,7 +229,7 @@ SHA256: 503c75c9058ccf5bde97c73eab6b700574179610a6f19f9cb97c749faa721604
 Section: Tweaks
 Depends: firmware (>= 13.0)
 Conflicts: com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, com.spicat.youpip, com.ps.youpip, prasa.youtubeplus, com.unlimapps.ytpp, me.alfhaily.cercube
-Description: YouTube Customizer! Only for iOS 13/14
+Description: YouTube Customizer
 Author: SarahH12099
 Icon: https://dylbinthedev.github.io/icons/com.twickd.sarahh12099.youtube-reborn.png
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/YouTubeReborn.json
@@ -258,11 +258,12 @@ Architecture: iphoneos-arm
 Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Filename: /debs/SystemInfo.deb
 Size: 427626
+Depends: mobilesubstrate
 MD5sum: d7e21772215634583b801795393e1ca6
 SHA1: 9fc471345b6b323d3371a7d3dcf19d445f2937f5
 SHA256: 9b255ae287640b993dad8235e66d6cdce9cd3cc0a6b5092f2a514ed62db26510
 Section: Tweaks
-Description: More System information in Settings app > General > About
+Description: System information in Settings app > General > About, and other sections. Set boot-nonce, save SHSH, battery info etc
 Author: ARX8x
 Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.systeminfo.png
 Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/SystemInfo/SystemInfo.html
@@ -496,7 +497,7 @@ Package: com.dylbinthedev.webshade
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: DylbinTheDev <dylbin@dylbin.dev>
-Depends: mobilesubstrate
+Depends: mobilesubstrate (>= 0.9.5000)
 Filename: /debs/WebShade.deb
 Size: 52124
 MD5sum: d11238cd1439d986c28f1d70d9d5751b
@@ -504,7 +505,7 @@ SHA1: 8b784eb4d1ca4a2d68d09d4a277e023ca8157cf1
 SHA256: 39504acda163744f7906877a103b88e989f3c7c7e7466fc14c8b2099ea564621
 Section: Tweaks
 Description: Make your websites dark!
-Author: WilsonTheWolf
+Author: WilsontheWolf
 Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.webshade.png
 Name: WebShade
 
