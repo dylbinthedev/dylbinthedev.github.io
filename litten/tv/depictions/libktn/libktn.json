@@ -1,8 +1,0 @@
-{
-	"LongDescription": "Library to get three different colors from an image and detect if one is light or dark",
-	"MainTextColor": "ffffff",
-	"ShowTopScreenshot": false,
-	"BackgroundColor": "000000",
-	"BackgroundImageURL": "https://repo.litten.love/tv/depictions/libktn/assets/background.png",
-	"AppIconURL": "https://repo.litten.love/tv/depictions/libktn/assets/depictionIcon.png"
-}
