@@ -66,20 +66,20 @@ Icon: https://dylbinthedev.github.io/icons/com.spotify.client.png
 Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/Spotify++/Spotify++.html
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/SpotifyApp.json
 
-Package: com.xd.mbp7
-Version: 8.8
+Package: com.dylbinthedev.mbp
+Version: 9.1
 Architecture: iphoneos-arm
 Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Filename: /debs/MovieBoxPro.deb
-Size: 85315972
-MD5sum: db88947fcad9d58a2cb23dc89b1576e8
-SHA1: 10760c075e920c10350b007a298293efaeb71ae9
-SHA256: 6e4cc34d254b1a73eeb28673268d3ffcc2c5e0563165150467995c6370adfdf0
+Size: 42658760
+MD5sum: d9e32c11d7cc25f97b9b9fb6f996d0b5
+SHA1: fd0f0c870ab06ae8525e42a502fbfdfefc12f7e1
+SHA256: 895ec5e2269d88d4975dab1907fceb35d3e38645be5f9d34be40f5e64c5a4098
 Section: Multimedia
 Description: MovieBoxPro for iOS 11/12/13/14
 Author: MovieBoxPro Team
 Name: MovieBox Pro
-Icon: file:///Applications/MovieBox.app/AppIcon60x60@3x.png
+Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.mbp.png
 Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/MovieBoxPro/MovieBoxPro.html
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/MovieBoxPro.json
 
