@@ -1,18 +1,22 @@
 {
+    "class": "DepictionTabView",
+    "tintColor": "#2d2d30",
     "minVersion": "0.1",
+    "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/Screenshots/header.png",
     "tabs": [
         {
+            "tabname": "Details",
             "views": [
                 {
+                    "title": "MovieBoxPro",
                     "useBoldText": true,
                     "useBottomMargin": false,
-                    "title": "MovieBoxPro",
                     "class": "DepictionSubheaderView"
                 },
                 {
-                    "markdown": "Free Movies and TV Shows",
-                    "useSpacing": true,
-                    "class": "DepictionMarkdownView"
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Best app to stream movies & tv shows",
+                    "useSpacing": true
                 },
                 {
                     "spacing": 8,
@@ -20,46 +24,50 @@
                 },
                 {
                     "itemSize": "{160, 275.41333333333336}",
-                    "itemCornerRadius": 6,
                     "screenshots": [
                         {
-                            "accessibilityText": "Screenshot0",
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Screenshots/1.png"
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Screenshots/1.png",
+                            "accessibilityText": "Screenshot0"
                         },
                         {
-                            "accessibilityText": "Screenshot1",
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Screenshots/2.png"
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Screenshots/2.png",
+                            "accessibilityText": "Screenshot1"
                         },
                         {
-                            "accessibilityText": "Screenshot2",
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Screenshots/3.png"
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Screenshots/3.png",
+                            "accessibilityText": "Screenshot2"
+                        },
+                        {
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Screenshots/4.png",
+                            "accessibilityText": "Screenshot3"
                         }
                     ],
+                    "itemCornerRadius": 6,
                     "class": "DepictionScreenshotsView"
                 },
                 {
+                    "title": "markdown-description",
                     "useBoldText": true,
                     "useBottomMargin": false,
-                    "markdown": "This is MovieBoxPro, which is the latest build of the application pulled straight from the developers.\r\n\r\nWatch your favourite Movies and TV Shows for free. This application is based on the original MovieBox application with many improvements and a new UI.\r\n\r\nYou can watch anything you want for free, but if you want higher quality you have to purchase the VIP package.",
-                    "title": "markdown-description",
+                    "markdown": "MovieBoxPro is the best entertainment app for iOS, you can watch your favourite Movies and TV Shows for free. This app is based on the original MovieBox application with many improvements and a new UI.\r\n\r\nYou can watch anything for free, but if you want higher quality you have to purchase the VIP package.",
                     "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "8.8",
                     "title": "Version",
+                    "text": "9.1",
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "05-15-2021",
-                    "title": "Updated",
+                    "title": "Released",
+                    "text": "06-07-2021",
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "Free",
-                    "title": "Price",
+                    "title": "Supported iOS",
+                    "text": "11.x - 14.x",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -67,8 +75,8 @@
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "text": "11.x - 14.x",
-                    "title": "Supported iOS",
+                    "title": "Developer",
+                    "text": "MovieBoxPro Team",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -76,11 +84,7 @@
                     "class": "DepictionSpacerView"
                 }
             ],
-            "tabname": "Details",
             "class": "DepictionStackView"
         }
-    ],
-    "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/Screenshots/header.png",
-    "class": "DepictionTabView",
-    "tintColor": "#2c2c30"
+    ]
 }
