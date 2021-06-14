@@ -100,20 +100,20 @@ Icon: https://dylbinthedev.github.io/icons/mediaplayer.box.ios3.png
 Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/MediaBoxHD/MediaBoxHD.html
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/MediaBoxHD.json
 
-Package: com.julioverne.spotilife
-Version: 1.1a
+Package: com.dylbinthedev.spotilife
+Version: 1.5
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev <dylbin@dylbin.dev>
+Maintainer: DylbinTheDev
 Depends: mobilesubstrate
 Filename: /debs/Spotilife.deb
-Size: 201134
-MD5sum: 4be44d65dcb7c50576a0f73cf970df7e
-SHA1: 242c0a52df8a20d19ac72cd8e654e4eeff9ca6bd
-SHA256: e4c31947d1a48d2ea381c6b08c447f52da97a1ad0b85b16a435946abd32a6639
+Size: 108728
+MD5sum: 9baa82e143374b27b97158fcf37b641d
+SHA1: 30a99e01664e2c9727ae14b761751f297a16030d
+SHA256: f487734dd007117cf3100ce1c63f685d8859bd4b03414f57607bdeb7f94e0cb8
 Section: Tweaks
-Description: Spotify++ Patch for iOS 7 through 14
+Description: Spotify++ Patch
 Author: DylbinTheDev & julioverne
-Name: Spotilife (Legacy)
+Name: Spotilife
 Icon: https://dylbinthedev.github.io/icons/com.spotify.client.png
 Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/Spotilife/Spotilife.html
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/Spotilife.json

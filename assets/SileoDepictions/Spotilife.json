@@ -46,17 +46,17 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "1.1a",
+                    "text": "1.5",
                     "title": "Version",
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "02-24-2021",
-                    "title": "Released",
+                    "text": "06-14-2021",
+                    "title": "Updated",
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "7.x - 14.x",
+                    "text": "9.x - 14.x",
                     "title": "Supported iOS Versions",
                     "class": "DepictionTableTextView"
                 },
