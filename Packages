@@ -107,9 +107,9 @@ Maintainer: DylbinTheDev
 Depends: mobilesubstrate
 Filename: /debs/Spotilife.deb
 Size: 108728
-MD5sum: 9baa82e143374b27b97158fcf37b641d
-SHA1: 30a99e01664e2c9727ae14b761751f297a16030d
-SHA256: f487734dd007117cf3100ce1c63f685d8859bd4b03414f57607bdeb7f94e0cb8
+MD5sum: afa811b01ab2d46b466a52487053d8e8
+SHA1: 26082515a1c01e0afa04b958e50a6f4c50808700
+SHA256: c3b46335fea99e68cbaf8664c693aa0469634b7a3103967dec21d724bdf5d7af
 Section: Tweaks
 Description: Spotify++ Patch
 Author: DylbinTheDev & julioverne

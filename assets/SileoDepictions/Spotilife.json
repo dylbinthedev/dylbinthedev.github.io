@@ -1,19 +1,21 @@
 {
+    "class": "DepictionTabView",
+    "tintColor": "#0657bb",
     "minVersion": "0.1",
+    "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/Spotilife/header.png",
     "tabs": [
         {
-            "class": "DepictionStackView",
             "tabname": "Details",
             "views": [
                 {
-                    "useBottomMargin": false,
                     "title": "Spotilife",
                     "useBoldText": true,
+                    "useBottomMargin": false,
                     "class": "DepictionSubheaderView"
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Free Spotify Premium Patch",
+                    "markdown": "Spotilife for iOS 9 - 14",
                     "useSpacing": true
                 },
                 {
@@ -22,42 +24,46 @@
                 },
                 {
                     "itemSize": "{160, 275.41333333333336}",
-                    "itemCornerRadius": 6,
-                    "class": "DepictionScreenshotsView",
                     "screenshots": [
                         {
-                            "accessibilityText": "Screenshot0",
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Spotilife/1.png"
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Spotilife/1.png",
+                            "accessibilityText": "Screenshot0"
                         },
                         {
-                            "accessibilityText": "Screenshot1",
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Spotilife/2.png"
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Spotilife/2.png",
+                            "accessibilityText": "Screenshot1"
+                        },
+                        {
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Spotilife/3.png",
+                            "accessibilityText": "Screenshot2"
                         }
-                    ]
+                    ],
+                    "itemCornerRadius": 6,
+                    "class": "DepictionScreenshotsView"
                 },
                 {
-                    "markdown": "Spotilife is a simple patch made by julioverne to enable Spotify Premium without actually having Premium.",
-                    "useBottomMargin": false,
                     "title": "markdown-description",
                     "useBoldText": true,
+                    "useBottomMargin": false,
+                    "markdown": "Spotilife enables premium features inside of the Spotify application. This includes no ads, disable genius, the ability to import local saved playlists from Apple Music etc.",
                     "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "1.5",
                     "title": "Version",
+                    "text": "1.5",
                     "class": "DepictionTableTextView"
                 },
                 {
+                    "title": "Released",
                     "text": "06-14-2021",
-                    "title": "Updated",
                     "class": "DepictionTableTextView"
                 },
                 {
+                    "title": "Supported iOS",
                     "text": "9.x - 14.x",
-                    "title": "Supported iOS Versions",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -65,18 +71,16 @@
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "text": "DylbinTheDev & julioverne",
                     "title": "Developer",
+                    "text": "DylbinTheDev & julioverne",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "spacing": 8,
                     "class": "DepictionSpacerView"
                 }
-            ]
+            ],
+            "class": "DepictionStackView"
         }
-    ],
-    "tintColor": "#2bcf63",
-    "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/Spotilife/header.png",
-    "class": "DepictionTabView"
+    ]
 }

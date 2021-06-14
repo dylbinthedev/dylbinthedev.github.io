@@ -17,8 +17,8 @@
       },
 	  {
 	     "url":"https://dylbinthedev.github.io/assets/SileoDepictions/SpotifyApp/header.png",
-         "title":"Spotify++",
-         "package":"com.spotify.client",
+         "title":"Spotilife",
+         "package":"com.dylbinthedev.spotilife",
          "hideShadow":false
       },
 	  {
