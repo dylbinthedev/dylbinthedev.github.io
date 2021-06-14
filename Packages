@@ -106,7 +106,7 @@ Architecture: iphoneos-arm
 Maintainer: DylbinTheDev
 Depends: mobilesubstrate
 Filename: /debs/Spotilife.deb
-Size: 108728
+Size: 108736
 MD5sum: afa811b01ab2d46b466a52487053d8e8
 SHA1: 26082515a1c01e0afa04b958e50a6f4c50808700
 SHA256: c3b46335fea99e68cbaf8664c693aa0469634b7a3103967dec21d724bdf5d7af
