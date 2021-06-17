@@ -575,17 +575,17 @@ Author: DylbinTheDev
 Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.bigsurtheme.png
 Name: Big Sur Theme
 
-Package: com.black.animeglare
-Version: 3.0.3
+Package: com.dylbinthedev.animeglare
+Version: 3.0.4
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev <dylbin@dylbin.dev>
+Maintainer: DylbinTheDev
 Filename: /debs/AnimeGlare.deb
-Size: 40396524
-MD5sum: e8c646884de36a7652eb9ac48cf75870
-SHA1: d84e2d53f19a4266c1d548dbd42cd07882fbb4e6
-SHA256: 1c6933dd38b82e2d79e9b48e623caadbe4e16da81369a5f0b0f1a42c310d0a71
+Size: 35239540
+MD5sum: 3ac3fa10e24af738a7a26ab7332afc61
+SHA1: 583145e03f64f23c6271be177656f159da15f2e5
+SHA256: 5245072392a9d4199609eae56c6fc870b4b6f455d828c68ead1b7606c8658f67
 Section: Multimedia
-Description: Free Anime without ads for iOS 11/12/13/14
+Description: Watch anime for free without ads
 Author: BlackKnit
 Icon: https://dylbinthedev.github.io/icons/com.black.animeglare.png
 Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/AnimeGlare/AnimeGlare.html
@@ -722,3 +722,33 @@ Tag: compatible::9.0-14.6
 Icon: https://dylbinthedev.github.io/icons/xyz.willy.zebra.png
 Depiction: https://getzbra.com/repo/depictions/xyz.willy.Zebra/
 Name: Zebra
+
+Package: com.dylbinthedev.gba4ios
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Filename: /debs/GBA4iOS.deb
+Size: 6972820
+MD5sum: 1e18a49a3d350757c740548b8396783e
+SHA1: 6ef50c3cad339ab1495834d9b538d47b6206431a
+SHA256: 073fe71b8fe643792fd7602ee4389763d57765bad46c6b1344bef8fb8c2ca582
+Section: Games
+Description: GBA/GBC Emulator for iOS
+Author: Riley Testut
+Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.gba4ios.png
+Name: GBA4iOS
+
+Package: com.dylbinthedev.nds4ios
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Filename: /debs/NDS4iOS.deb
+Size: 1915688
+MD5sum: d26b65c0bf77e83921d945c6130114c2
+SHA1: 7e2b56fd59e3bcd04c10e8daafff615f8c1e0854
+SHA256: 4d1d6e49734a078d9f6c02b2ced8e913a9283a907db26d8f202bb945fcddb571
+Section: Games
+Description: NDS Emulator for iOS
+Author: iNDS Team
+Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.nds4ios.png
+Name: NDS4iOS
