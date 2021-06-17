@@ -736,6 +736,8 @@ Section: Games
 Description: GBA/GBC Emulator for iOS
 Author: Riley Testut
 Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.gba4ios.png
+SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/GBA4iOS.json
+Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/GBA4iOS/GBA4iOS.html
 Name: GBA4iOS
 
 Package: com.dylbinthedev.nds4ios
@@ -751,4 +753,6 @@ Section: Games
 Description: NDS Emulator for iOS
 Author: iNDS Team
 Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.nds4ios.png
+SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/NDS4iOS.json
+Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/NDS4iOS/NDS4iOS.html
 Name: NDS4iOS

@@ -48,13 +48,13 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "3.0.3",
+                    "text": "3.0.4",
                     "title": "Version",
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "05-15-2021",
-                    "title": "Released",
+                    "text": "06-17-2021",
+                    "title": "Updated",
                     "class": "DepictionTableTextView"
                 },
                 {
