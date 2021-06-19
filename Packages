@@ -227,7 +227,7 @@ MD5sum: 14b17aaf60774f7e05df4ba050707efd
 SHA1: f549a597fc2f9b69073f00c07be470b180a056a5
 SHA256: d5bdb43488f7b8c991e20ae4b27083cc1b1e75bbe2af894a5b2dd4d5088a1a29
 Section: Tweaks
-Depends: firmware (>= 13.0)
+Depends: firmware (>= 13.0), ffmpeg, youtube-dl
 Conflicts: com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, com.spicat.youpip, com.ps.youpip, prasa.youtubeplus, com.unlimapps.ytpp, me.alfhaily.cercube
 Description: YouTube Customizer
 Author: SarahH12099
