@@ -756,19 +756,3 @@ Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.nds4ios.png
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/NDS4iOS.json
 Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/NDS4iOS/NDS4iOS.html
 Name: NDS4iOS
-
-Package: com.codeymoore.darkcloud
-Version: 1.4
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
-Filename: /debs/DarkCloud.deb
-Size: 6756
-MD5sum: 27e02bddc750f124cab8dfc0cafa7907
-SHA1: 7f78efe25f3eb295b9651283476888d56be809c7
-SHA256: f33e569f102f73f1250e7812f116a26d89c158b4e09f7d59b845a6ea69f2c732
-Section: Tweaks
-Description: Removes ads and enables dev menu!
-Author: Codey Moore
-Icon: https://dylbinthedev.github.io/icons/com.codeymoore.darkcloud.png
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/DarkCloud.json
-Name: DarkCloud
