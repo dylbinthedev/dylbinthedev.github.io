@@ -4,9 +4,9 @@
    "itemCornerRadius":10,
    "banners":[  
       {  
-         "url":"https://dylbinthedev.github.io/assets/SileoDepictions/DeltaBeta/header.png",
-         "title":"Delta Beta",
-         "package":"com.rileytestut.delta.beta",
+         "url":"https://dylbinthedev.github.io/assets/SileoDepictions/DarkCloud/header.png",
+         "title":"DarkCloud",
+         "package":"com.codeymoore.darkcloud",
          "hideShadow":false
       },
       {  
