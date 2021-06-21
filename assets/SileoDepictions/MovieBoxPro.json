@@ -57,12 +57,12 @@
                 },
                 {
                     "title": "Version",
-                    "text": "9.1",
+                    "text": "9.2",
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "title": "Released",
-                    "text": "06-07-2021",
+                    "title": "Updated",
+                    "text": "06-21-2021",
                     "class": "DepictionTableTextView"
                 },
                 {
