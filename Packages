@@ -217,18 +217,18 @@ Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/PopcornClient/P
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/PopcornClient.json
 Name: PopcornTime
 
-Package: h.ryan.youtubereborn
+Package: com.dylbinthedev.youtubereborn
 Version: 2.1.3.3
 Architecture: iphoneos-arm
 Maintainer: DylbinTheDev <dylbin@dylbin.dev>
 Filename: /debs/YouTubeReborn.deb
-Size: 328266
-MD5sum: 14b17aaf60774f7e05df4ba050707efd
-SHA1: f549a597fc2f9b69073f00c07be470b180a056a5
-SHA256: d5bdb43488f7b8c991e20ae4b27083cc1b1e75bbe2af894a5b2dd4d5088a1a29
+Size: 180260
+MD5sum: 386c5f1eeb4abf77c06f6ee6788cf8a9
+SHA1: 7dd93d3d2b43316057ff57552a53324c8adcb2bb
+SHA256: 778fc45c17ee8d7ec630d5f5a66e8cda10d298dc3395bd31c0d9398386fc93a9
 Section: Tweaks
-Depends: firmware (>= 13.0), ffmpeg, youtube-dl
-Conflicts: com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, com.spicat.youpip, com.ps.youpip, prasa.youtubeplus, com.unlimapps.ytpp, me.alfhaily.cercube
+Depends: firmware (>= 13.0), youtube-dl
+Conflicts: com.ichitaso.youtubepatcher, me.alfhaily.cercube
 Description: YouTube Customizer
 Author: SarahH12099
 Icon: https://dylbinthedev.github.io/icons/com.twickd.sarahh12099.youtube-reborn.png
@@ -576,14 +576,14 @@ Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.bigsurtheme.png
 Name: Big Sur Theme
 
 Package: com.dylbinthedev.animeglare
-Version: 3.0.4
+Version: 3.0.4-rc60
 Architecture: iphoneos-arm
 Maintainer: DylbinTheDev
 Filename: /debs/AnimeGlare.deb
-Size: 35239540
-MD5sum: 3ac3fa10e24af738a7a26ab7332afc61
-SHA1: 583145e03f64f23c6271be177656f159da15f2e5
-SHA256: 5245072392a9d4199609eae56c6fc870b4b6f455d828c68ead1b7606c8658f67
+Size: 35252280
+MD5sum: b6dcd131548741b1edb394bc750e414d
+SHA1: 65db13575593f875cf584512a85c5c4aa225cb96
+SHA256: e92d972397a5f4f247d6b159ef708f690a34537d0d588a3e74228ed657f99610
 Section: Multimedia
 Description: Watch anime for free without ads
 Author: BlackKnit
