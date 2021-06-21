@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Filter</key>
+	<dict>
+		<key>Bundles</key>
+		<array>
+			<string>net.whatsapp.WhatsApp</string>
+			<string>net.whatsapp.WhatsAppSMB</string>
+            <string>net.whatsapp.WhatsApp.ServiceExtension</string>
+            <string>net.whatsapp.WhatsApp.ShareExtension</string>
+            <string>net.whatsapp.WhatsApp.TodayExtension</string>
+            <string>net.whatsapp.WhatsApp.NotificationExtension</string>
+            <string>net.whatsapp.WhatsAppSMB.ServiceExtension</string>
+            <string>net.whatsapp.WhatsAppSMB.ShareExtension</string>
+            <string>net.whatsapp.WhatsAppSMB.TodayExtension</string>
+            <string>net.whatsapp.WhatsAppSMB.NotificationExtension</string>
+			<string>net.whatsapp.WhatsApp1</string>
+			<string>net.whatsapp.WhatsApp2</string>
+			<string>net.whatsapp.WhatsApp3</string>
+			<string>net.whatsapp.WhatsApp4</string>
+			<string>net.whatsapp.WhatsApp5</string>
+			<string>net.whatsapp.WhatsAppSMB1</string>
+			<string>net.whatsapp.WhatsAppSMB2</string>
+			<string>net.whatsapp.WhatsAppSMB3</string>
+			<string>net.whatsapp.WhatsAppSMB4</string>
+			<string>net.whatsapp.WhatsAppSMB5</string>
+			<string>net.whatsapp1.WhatsApp</string>
+			<string>net.whatsapp2.WhatsApp</string>
+			<string>net.whatsapp3.WhatsApp</string>
+			<string>net.whatsapp4.WhatsApp</string>
+			<string>net.whatsapp5.WhatsApp</string>
+			<string>tv.othman.whatsapp-02</string>
+			<string>tv.othman.whatsapp-03</string>
+			<string>tv.othman.whatsapp-04</string>
+			<string>tv.othman.whatsapp-05</string>
+			<string>tv.othman.whatsapp-06</string>
+		</array>
+	</dict>
+</dict>
+</plist>

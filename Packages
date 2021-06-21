@@ -756,3 +756,35 @@ Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.nds4ios.png
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/NDS4iOS.json
 Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/NDS4iOS/NDS4iOS.html
 Name: NDS4iOS
+
+Package: com.fouadraheb.watusi3
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Filename: /debs/Watusi3.deb
+Size: 4397628
+MD5sum: ced64a9d0ecbdf1fb222d5fb08b8f0ec
+SHA1: 9364312ae538e7b7c21f46b9352c65c062b77581
+SHA256: 978d82d86b1570e1c558e31f5b1f8e6b4bf519d0ea42590e5ae1c8b8e728044f
+Section: Tweaks
+Depends: firmware (>=9.0), com.f0u4d.watusitools
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb
+Icon: https://dylbinthedev.github.io/icons/com.fouadraheb.watusi3.png
+Name: Watusi 3 for WhatsApp
+
+Package: com.f0u4d.watusitools
+Version: 2.2.5
+Depends: firmware (>= 9.0), darwintools
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Filename: /debs/WatusiTools.deb
+Size: 14031188
+MD5sum: 427ea1b386d154721b0dfa6075c27db0
+SHA1: 8ed81bf52511950d95ab7fb42135b52b4cbe93cd
+SHA256: b5665f8f5b5f037e682d6b5b3447d1aeb29695b2d453e0955b2649a58515c36c
+Section: Utilities
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb
+Icon: https://dylbinthedev.github.io/icons/com.f0u4d.watusitools.png
+Name: WatusiTools
