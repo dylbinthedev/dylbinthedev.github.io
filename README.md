@@ -1,5 +1,5 @@
 # Welcome to my iOS Repository!
-###### DylbinTheDev's Repo, Supports iOS 7, 8, 9, 10, 11, 12, 13, and 14. Has arm64 and arm64e support. Most of the packages only support A7 - A14 chipsets. All legacy packages has been updated with 2 arm64e slices to work properly.
+###### DylbinTheDev's Repo, Supports iOS 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 and 15. Has arm64 and arm64e support.
 This is where I upload my packages to be visible in package managers like Cydia, Sileo, Installer, Zebra and nitoTV.
 
 ## How do I add your repo?
