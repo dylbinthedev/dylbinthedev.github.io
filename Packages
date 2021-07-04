@@ -891,3 +891,19 @@ Description: Library for Watusi and WhatsApp tweaks
 Author: Fouad Raheb
 Icon: https://dylbinthedev.github.io/icons/com.f0u4d.watusitools.png
 Name: WatusiTools
+
+Package: com.dylbinthedev.ext3nder-installer
+Version: 022b
+Depends: mobilesubstrate
+Pre-Depends: ldid, unzip, coreutils, zip, sed
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Filename: /debs/CydiaExtender.deb
+Size: 1947656
+MD5sum: 12a0499a1ce5ef4e54e06fe54e1aac3f
+SHA1: 55de8d3dea6b25a37dbbfc561e3ae17c336e4fb4
+SHA256: 75cac31d67c68a08d98c67f86edeb742ddf04bc636e8f432c2575557a8a19342
+Section: Utilities
+Description: Cydia Extender
+Author: saurik
+Name: Cydia Extender
