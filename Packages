@@ -83,6 +83,91 @@ Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.mbp.png
 Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/MovieBoxPro/MovieBoxPro.html
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/MovieBoxPro.json
 
+Package: com.dylbinthedev.mbp
+Version: 9.1
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
+Filename: /debs/MovieBoxPro9.1.deb
+Size: 42658760
+MD5sum: d9e32c11d7cc25f97b9b9fb6f996d0b5
+SHA1: fd0f0c870ab06ae8525e42a502fbfdfefc12f7e1
+SHA256: 895ec5e2269d88d4975dab1907fceb35d3e38645be5f9d34be40f5e64c5a4098
+Section: Multimedia
+Description: MovieBoxPro for iOS 11/12/13/14
+Author: MovieBoxPro Team
+Name: MovieBox Pro
+Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.mbp.png
+Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/MovieBoxPro/MovieBoxPro.html
+SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/MovieBoxPro.json
+
+Package: com.dylbinthedev.mbp
+Version: 8.8
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
+Filename: /debs/MovieBoxPro8.8.deb
+Size: 85314896
+MD5sum: 935a5a2d25662b0bf77ca5230bfb0e3d
+SHA1: 070451673099c6ffac4c6e3f71697d7224e1f866
+SHA256: 3c85e2b3458c03c8c304ef5944183c661830889bc3111a013fb94444ac69a90c
+Section: Multimedia
+Description: MovieBoxPro for iOS 11/12/13/14
+Author: MovieBoxPro Team
+Name: MovieBox Pro
+Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.mbp.png
+Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/MovieBoxPro/MovieBoxPro.html
+SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/MovieBoxPro.json
+
+Package: com.dylbinthedev.mbp
+Version: 8.2
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
+Filename: /debs/MovieBoxPro8.2.deb
+Size: 38813116
+MD5sum: fed0211c67a5f6904baa57aeec8d0641
+SHA1: 471d447d120fd28b38d8a13b079180b31b5e3e3b
+SHA256: e1e6fc309d14edb072d3867d0f8c4f9c2aea5266ef743ed162bc436c20b8da75
+Section: Multimedia
+Description: MovieBoxPro for iOS 11/12/13/14
+Author: MovieBoxPro Team
+Name: MovieBox Pro
+Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.mbp.png
+Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/MovieBoxPro/MovieBoxPro.html
+SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/MovieBoxPro.json
+
+Package: com.dylbinthedev.mbp
+Version: 7.8
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
+Filename: /debs/MovieBoxPro7.8.deb
+Size: 37657112
+MD5sum: f3ce8913c6a8b98b755571d1a6e3f9d2
+SHA1: 7d871adf4f3c1c69f28fa6bd61f60dc37051c796
+SHA256: 45d634ab6cea1bed05c4b181a1edc51f81e443b185cc07560edc6a87c072b6f7
+Section: Multimedia
+Description: MovieBoxPro for iOS 11/12/13/14
+Author: MovieBoxPro Team
+Name: MovieBox Pro
+Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.mbp.png
+Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/MovieBoxPro/MovieBoxPro.html
+SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/MovieBoxPro.json
+
+Package: com.dylbinthedev.mbp
+Version: 7.6
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
+Filename: /debs/MovieBoxPro7.6.deb
+Size: 55293312
+MD5sum: 2db48204fefaa1b742ebe6ecc9c4e762
+SHA1: 24aadfe983be8284268dd7ad0543adb652bfd173
+SHA256: b5fda1d6047d1f3463dafa30c50ad3fb2a01deea6d953c5d82ac5d256f81fb7b
+Section: Multimedia
+Description: MovieBoxPro for iOS 11/12/13/14
+Author: MovieBoxPro Team
+Name: MovieBox Pro
+Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.mbp.png
+Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/MovieBoxPro/MovieBoxPro.html
+SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/MovieBoxPro.json
+
 Package: com.dylbinthedev.mediaboxhd
 Version: 2.4.9.2
 Architecture: iphoneos-arm
