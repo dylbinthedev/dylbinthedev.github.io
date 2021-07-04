@@ -200,23 +200,6 @@ SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/PPSSPP.jso
 Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.ppsspp.png
 Name: PPSSPP
 
-Package: com.hotdog.popcorntime81.ios	
-Version: 3.2
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev <dylbin@dylbin.dev>
-Filename: /debs/PopcornClient.deb
-Size: 24266444
-MD5sum: 08a77cd19b10a14099956a9197898a3d
-SHA1: 35c665eb90dbd662834e40c0553071e7b29027db
-SHA256: ff38f0f80afe3928b93ad05d7d5eaf41c94d87909c1e285cb48dcefb25f8f09e
-Section: Multimedia
-Description: PopcornTime with fixed support for iOS 13/14
-Author: Popcorn Time
-Icon: https://dylbinthedev.github.io/icons/com.hotdog.popcorntime81.ios.png
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/PopcornClient/PopcornClient.html
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/PopcornClient.json
-Name: PopcornTime
-
 Package: com.dylbinthedev.youtubereborn
 Version: 2.1.3.3
 Architecture: iphoneos-arm
@@ -591,6 +574,41 @@ Icon: https://dylbinthedev.github.io/icons/com.black.animeglare.png
 Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/AnimeGlare/AnimeGlare.html
 SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/AnimeGlare.json
 Name: AnimeGlare
+
+Package: com.dylbinthedev.animeglare
+Version: 3.0.4-rc58
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Filename: /debs/AnimeGlare-RC58.deb
+Size: 35239732
+MD5sum: 9dd9d4af879e30a9abd7e8c6d71a9de5
+SHA1: 66a32a153f557e41c4483e9ca106abd44f543049
+SHA256: 34a0ac871786eb6f51d2a4ccab2be6acf6b29321bad5c0a7e0608b2d367a3595
+Section: Multimedia
+Description: Watch anime for free without ads
+Author: BlackKnit
+Icon: https://dylbinthedev.github.io/icons/com.black.animeglare.png
+Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/AnimeGlare/AnimeGlare.html
+SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/AnimeGlare.json
+Name: AnimeGlare
+
+Package: com.dylbinthedev.animeglare
+Version: 3.0.3
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Filename: /debs/AnimeGlare3.0.3.deb
+Size: 40396700
+MD5sum: e8df3703629855f6b5d705d7b0d81498
+SHA1: 26c2a0ba660a5cb1dc06283e937cd3dcf7e8bb26
+SHA256: 69f5d16cd60eb66109e2dfa0969158ec256748c3e96e9384c975a1f9fed8d90b
+Section: Multimedia
+Description: Watch anime for free without ads
+Author: BlackKnit
+Icon: https://dylbinthedev.github.io/icons/com.black.animeglare.png
+Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/AnimeGlare/AnimeGlare.html
+SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/AnimeGlare.json
+Name: AnimeGlare
+
 
 Package: com.chr1s.current
 Version: 1.0.4
