@@ -907,3 +907,45 @@ Section: Utilities
 Description: Cydia Extender
 Author: saurik
 Name: Cydia Extender
+
+Package: com.dylbinthedev.amury
+Version: 1.8
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Filename: /debs/Amury.deb
+Size: 16318214
+MD5sum: 1195691ceb58732d380efd2065743352
+SHA1: 570232cc6296863c66414cae81f77d981a1687ce
+SHA256: c41800d4a44a4359d74c0260e4cd554b591c58fd2e48cc272dea28ed739b801d
+Section: Themes
+Description: Bring your iOS experience to life.
+Author: Alex Sanchez
+Name: Amury
+
+Package: com.dylbinthedev.amuryforipad
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Filename: /debs/AmuryiPad.deb
+Size: 46652980
+MD5sum: bb60b6d92425b10944ab8ac4e3f0b1f8
+SHA1: b0d0d52c689b76feabe3446ac1ff5b969b32d9f4
+SHA256: 9aebb8ac8e5fc379740dfe83c3f611406056d153c312a8e9bf200207d7d5aa0c
+Section: Themes
+Description: Bring your iOS experience to life
+Author: al3xsanch3z07
+Name: Amury for iPad
+
+Package: com.dylbinthedev.axla3
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Filename: /debs/Axla3.deb
+Size: 14660854
+MD5sum: 7530da28987279529bc4f018e300af24
+SHA1: e882f9f2813e2c678e1d3405865cb63d8855ab2b
+SHA256: 42dca1a5271a6e7d373ff42559650270a34522a25e949c2ff5f537c4b3532488
+Section: Themes
+Description: Simplicity with Colour
+Author: Andy (meteochu)
+Name: Axla 3
