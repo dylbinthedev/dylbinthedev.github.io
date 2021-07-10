@@ -70,11 +70,11 @@ Package: com.dylbinthedev.mbp
 Version: 9.4
 Architecture: iphoneos-arm
 Maintainer: DylbinTheDev <dylbin@dylbin.dev>
-Filename: /debs/MovieBoxPro.deb
-Size: 42658760
-MD5sum: d9e32c11d7cc25f97b9b9fb6f996d0b5
-SHA1: fd0f0c870ab06ae8525e42a502fbfdfefc12f7e1
-SHA256: 895ec5e2269d88d4975dab1907fceb35d3e38645be5f9d34be40f5e64c5a4098
+Filename: /debs/MovieBoxPro9.4.deb
+Size: 43189216
+MD5sum: a8a9e213f0cbb77d2b28cfc17a097a53
+SHA1: 64a460c7d630476333fbf8f3ee92e2a2fae4c40a
+SHA256: f83b0d9c5d7f1714f011849cd8e0a2ea022f378c9e28d534d1a0772d9a8abcc1
 Section: Multimedia
 Description: MovieBoxPro for iOS 11/12/13/14/15
 Author: MovieBox Pro Team
